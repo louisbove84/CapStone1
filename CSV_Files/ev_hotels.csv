@@ -162,7 +162,6 @@
 160,Residence Inn by Marriott East Lansing,4.7
 161,Sheraton Inner Harbor Hotel,4.1
 162,DoubleTree by Hilton Hotel Los Angeles Downtown,4.3
-163,62 Paine Rd,
 164,Cambria Hotel Plano Frisco,4.5
 165,Hyatt Place Reno-Tahoe Airport,4.4
 166,DoubleTree by Hilton Hotel Los Angeles - Rosemead,4.3
@@ -176,14 +175,12 @@
 174,Hotel deLuxe,4.5
 175,Holiday Inn Express & Suites Ft. Walton Beach - Hurlburt Area,4.2
 176,Alexander's Lodge At Mt Rainier,4.1
-177,Tesla Destination Charger,
 178,Dossier Hotel,4.4
 179,Four Points by Sheraton Columbus - Polaris,3.8
 180,The Spring Resort & Spa,4.6
 181,Homewood Suites by Hilton Columbus,4.3
 182,Historic Boone Tavern Hotel and Restaurant,4.5
 183,Park Right,3.4
-184,Tesla Destination Charger,
 185,"Distrikt Hotel Pittsburgh, Curio Collection by Hilton",4.3
 186,Viceroy Washington DC,4.3
 187,Hyatt Regency Indian Wells Resort & Spa,4.6
@@ -282,7 +279,6 @@
 280,Wyndham Visalia,4.1
 281,Hotel Californian,4.5
 282,"Golden Nugget Atlantic City Hotel, Casino & Marina",4.2
-283,Tesla Destination Charger,
 284,Ludlow's Island Resort,4.8
 285,Eagle Ridge Resort & Spa,4.5
 286,Holiday Inn Express & Suites Columbus East - Reynoldsburg,3.8
@@ -328,7 +324,6 @@
 326,The Glen House,4.7
 327,"The Cavalier Virginia Beach, Autograph Collection",4.6
 328,Hilton Fort Lauderdale Beach Resort,4.4
-329,eagle crest resort,
 330,"Hotel Park City, Autograph Collection",4.7
 331,La Quinta Inn by Wyndham Pittsburgh Airport,3.9
 332,"The Ritz-Carlton Orlando, Grande Lakes",4.7
@@ -358,7 +353,6 @@
 356,Adelaide Inn,4.6
 357,The Scottsdale Resort at McCormick Ranch - A World of Hyatt Resort,4.4
 358,Hilton Los Angeles/San Gabriel,4.3
-359,3954 NY-12,
 360,InterContinental Stephen F. Austin,4.4
 361,Heat Hotel,4.2
 362,La Quinta Inn & Suites by Wyndham Plano Legacy Frisco,4.5
@@ -369,12 +363,10 @@
 367,"The Alexandrian Old Town Alexandria, Autograph Collection",4.3
 368,Home2 Suites by Hilton Dayton Vandalia,4.3
 369,Best Western Premier Crown Chase Inn & Suites,4.6
-370,Tesla Destination Charger,
 371,Mazama Country Inn,4.7
 372,JW Marriott Desert Springs Resort & Spa,4.6
 373,Belmond El Encanto,4.7
 374,"The Carlyle, A Rosewood Hotel",4.5
-375,Tesla Destination Charger,
 376,Skamania Lodge,4.5
 377,"Homewood Suites by Hilton Charlotte/Ayrsley, NC",4.4
 378,Sleeping Lady Mountain Resort,4.6
@@ -412,7 +404,6 @@
 410,Four Seasons Hotel Seattle,4.6
 411,Fairfield Inn & Suites by Marriott Rockport,4.4
 412,Home2 Suites by Hilton Austin Round Rock,4.6
-413,Guy Waring Guest House,
 414,Amara Resort and Spa,4.3
 415,Fairfield Inn & Suites by Marriott Montgomery-EastChase Parkway,4.3
 416,Costa d'Este Beach Resort & Spa,4.5
@@ -442,10 +433,8 @@
 440,Holiday Inn Express & Suites Blythewood,4.2
 441,"Motel 6 Menomonie, WI",4.0
 442,"The Ritz-Carlton, Lake Tahoe",4.5
-443,22 Lupfer Ave,
 444,Hilton Waikiki Beach,4.0
 445,Stony Brook Recreation & Camping,4.5
-446,717 High St,
 447,The Cosmopolitan of Las Vegas,4.6
 448,Delamar Greenwich Harbor,4.6
 449,InterContinental Mark Hopkins San Francisco,4.3
@@ -514,13 +503,11 @@
 512,Northern Lights Lodge,4.4
 513,Hilton Garden Inn Palm Beach Gardens,4.4
 514,"The Ritz-Carlton, Marina del Rey",4.6
-515,8629 International Dr,
 516,Hilton Fort Collins,4.1
 517,Red Lion Hotel Templin's on the River,3.6
 518,The Westin Hilton Head Island Resort & Spa,4.3
 519,Hotel Julien Dubuque,4.5
 520,Powderhorn Mountain Resort,4.5
-521,Tesla Destination Charger,
 522,InterContinental Miami,4.6
 523,Hampton Inn Atlanta-Buckhead,4.3
 524,The Chateau at Lake La Quinta,4.5
@@ -562,7 +549,6 @@
 560,Groveland Hotel,4.3
 561,Hyatt Place Salt Lake City Airport,4.1
 562,TownePlace Suites by Marriott Charleston Mt. Pleasant,4.4
-563,110 Mountain Loft Dr,
 564,Marriott's Kauai Lagoons - Kalanipu'u,4.7
 565,Howard Johnson by Wyndham South Portland,3.8
 566,Microtel Inn & Suites by Wyndham Woodland Park,3.3
@@ -574,7 +560,6 @@
 572,Rest - A Boutique Hotel,4.7
 573,TownePlace Suites by Marriott Rochester,4.3
 574,DoubleTree by Hilton Hotel Mahwah,4.0
-575,Tesla Destination Charger,
 576,Embassy Suites by Hilton Birmingham Hoover,4.4
 577,Mountain Springs Lodge,4.8
 578,Green Valley Ranch Resort Spa and Casino,4.4
@@ -598,7 +583,6 @@
 596,Hilton Waikoloa Village,4.3
 597,Homewood Suites by Hilton Moab,4.6
 598,Illini Union Hotel,4.1
-599,Tesla Destination Charger,
 600,Sun Mountain Lodge,4.6
 601,Indian Wells Resort Hotel,3.8
 602,SpringHill Suites by Marriott Athens Downtown/University Area,4.7
@@ -630,20 +614,17 @@
 628,SpringHill Suites by Marriott Napa Valley,4.4
 629,Candlewood Suites Kansas City - Independence,4.4
 630,Hampton Inn Jacksonville South/I-95 at JTB,4.4
-631,227 S 7th St,
 632,Marriott's Newport Coast Villas,4.7
 633,The Monterey Hotel,3.9
 634,The Omni Grove Park Inn,4.6
 635,Glenmere Mansion,4.7
 636,W Fort Lauderdale,4.3
-637,Tesla Destination Charger,
 638,Hotel Indigo Athens Downtown - Univ Area,4.6
 639,Hoover Dam Lodge,4.2
 640,"THE US GRANT, a Luxury Collection Hotel, San Diego",4.6
 641,Avenue Suites Georgetown,4.4
 642,Holiday Inn Express & Suites Pittsburgh West - Green Tree,4.4
 643,Hotel Murano,4.4
-644,1006 1/2 W Lenoir St,
 645,Embassy Suites by Hilton Little Rock,4.0
 646,Microtel Inn & Suites by Wyndham Harrisonburg,4.1
 647,Mount View Hotel & Spa,4.4
@@ -754,7 +735,6 @@
 752,Best Western Garden Inn,4.2
 753,"Grand Residences by Marriott, Tahoe - 1 to 3 bedrooms & Pent.",4.6
 754,Hotel Vermont,4.6
-755,Tesla Destination Charger,
 756,Hyatt Place Sarasota/Bradenton Airport,4.4
 757,Limelight Hotel - Aspen,4.6
 758,Hilton Garden Inn Minneapolis Eagan,4.3
@@ -815,8 +795,6 @@
 813,Embassy Suites by Hilton Los Angeles International Airport South,4.1
 814,Element Fargo,4.7
 815,InterContinental Mark Hopkins San Francisco,4.3
-816,Hideaway Chalet,
-817,Tesla Destination Charger,
 818,Hampton Inn Parkersburg-Mineral Wells,4.4
 819,Hilton Garden Inn College Station,4.4
 820,Loews Chicago O'Hare Hotel,4.5
@@ -862,7 +840,6 @@
 860,Makanda Inn & Cottages,5.0
 861,21c Museum MGallery Hotel Cincinnati,4.5
 862,The Seagate Hotel & Spa,4.5
-863,808 W Sprague Ave,
 864,Holiday Inn Ocean City,4.1
 865,Fairfield Inn & Suites by Marriott Jacksonville Butler Boulevard,4.2
 866,Embassy Suites by Hilton Tucson Paloma Village,4.6
@@ -905,7 +882,6 @@
 903,Cranmore Mountain Resort,4.5
 904,Legacy Vacation Resorts Steamboat Springs Hilltop,4.1
 905,Lansdowne Resort and Spa,4.4
-906,Beaufort Street Parking Deck,
 907,TownePlace Suites by Marriott Joplin,4.5
 908,W Hoboken,4.5
 909,The Tombstone Grand Hotel,3.9
@@ -924,7 +900,6 @@
 922,Courtyard by Marriott New Braunfels River Village,4.4
 923,The Oxford Hotel,4.7
 924,Holiday Inn & Suites Chattanooga Downtown,4.4
-925,101 Second Street,
 926,Days Inn & Suites by Wyndham Dumas,4.1
 927,Cambria Hotel Ft Collins,4.5
 928,TRYP by Wyndham Sebastian St. Augustine,4.5
@@ -936,7 +911,6 @@
 934,Courtyard by Marriott Charlotte Northlake,4.5
 935,Holiday Inn & Suites Houston West - Katy Mills,4.1
 936,Georgios Banquets,4.2
-937,140 Holiday Blvd,
 938,Hampton Inn & Suites Amarillo East,4.5
 939,"Lido House, Autograph Collection",4.5
 940,Hampton Inn Decatur Mt. Zion,4.5
@@ -1070,7 +1044,6 @@
 1068,The Long View Lodge,4.7
 1069,Holiday Inn Express & Suites Brenham South,4.6
 1070,Hilton Garden Inn Abilene,4.3
-1071,3975 Punahele Rd,
 1072,Hobuck Beach Resort,4.6
 1073,Courtyard by Marriott San Diego Del Mar/Solana Beach,4.2
 1074,Grand Vista Hotel,4.0
@@ -1098,7 +1071,6 @@
 1096,Hotel ZaZa Museum District,4.6
 1097,Sandpearl Resort,4.4
 1098,Homewood Suites by Hilton Las Vegas City Center,4.5
-1099,755 SW 13th Pl,
 1100,"Motel 6 Cedar City, UT",3.5
 1101,Best Western Heritage Inn,4.3
 1102,Fairfield Inn & Suites by Marriott Cordele,3.9
@@ -1226,7 +1198,6 @@
 1224,Hilton Alexandria Old Town,4.3
 1225,SpringHill Suites by Marriott Coeur d'Alene,4.6
 1226,"The Ritz-Carlton, Denver",4.5
-1227,2969 Paradise Valley Rd,
 1228,Ayres Suites Yorba Linda,4.6
 1229,Westgate Vacation Villas Resort,4.2
 1230,Holiday Inn Valdosta Conference Center,4.3
@@ -1248,7 +1219,6 @@
 1246,Homewood Suites by Hilton Philadelphia-Valley Forge,4.4
 1247,Four Points by Sheraton Jacksonville Beachfront,4.5
 1248,Redwood Suites Hotel,4.4
-1249,Tesla Destination Charger,
 1250,"Four Seasons Hotel Westlake Village, California",4.7
 1251,Ayres Hotel Chino Hills,4.5
 1252,Chaminade Resort & Spa,4.2
@@ -1457,7 +1427,6 @@
 1455,Renaissance Charlotte Suites Hotel,4.3
 1456,Hampton Inn Clinton,4.2
 1457,Belmond Charleston Place,4.7
-1458,Tesla Destination Charger,
 1459,Le Méridien Charlotte,4.1
 1460,Best Western Plus Duncanville Dallas,4.3
 1461,The Jacqueline House of Wilmington,5.0
@@ -1489,7 +1458,6 @@
 1487,Hotel Indigo Baltimore Downtown,4.4
 1488,Hilton Garden Inn Las Vegas Strip South,4.3
 1489,Best Western Plus Morristown Inn,4.5
-1490,Tesla Destination Charger,
 1491,Christopher Place Resort,4.8
 1492,Pismo Lighthouse Suites,4.6
 1493,Tivoli Lodge,4.5
@@ -1538,7 +1506,6 @@
 1536,Spa At Kingsmill,4.7
 1537,Foster Harris House,5.0
 1538,Ayres Lodge Alpine,4.5
-1539,1622 Forest Pl,
 1540,Hampton Inn Nashville-I-24 Hickory Hollow,4.4
 1541,"The Standard, Hollywood",4.2
 1542,"Renaissance Minneapolis Hotel, The Depot",4.5
@@ -1660,7 +1627,6 @@
 1658,Hilton Portland Downtown,4.2
 1659,Pacific Palms Resort,4.4
 1660,Black Oak Casino Resort,4.2
-1661,524 Aviation Rd,
 1662,"The Ritz-Carlton, Dove Mountain",4.7
 1663,Gurney's Montauk Resort & Seawater Spa,4.3
 1664,Olea Hotel,4.8
@@ -1713,7 +1679,6 @@
 1711,Beaver Creek Landing by East West Hospitality,4.7
 1712,Universal's Cabana Bay Beach Resort,4.5
 1713,Hotel Niles,4.3
-1714,7000 Lanier Islands Pkwy,
 1715,Tesla Destination Charger,3.3
 1716,Hotel Floyd,4.7
 1717,Pechanga Resort Casino,4.4
@@ -1753,7 +1718,6 @@
 1751,Ellington at Wachesaw Plantation East,4.0
 1752,Holiday Inn South Jordan - Slc South,4.5
 1753,Dolphin Bay Resort & Spa,4.7
-1754,Tesla Destination Charger,
 1755,Residence Inn by Marriott New York Manhattan/Central Park,4.4
 1756,"SLS Hotel, a Luxury Collection Hotel, Beverly Hills",4.4
 1757,Hampton Inn Vernon,4.5
@@ -1809,7 +1773,6 @@
 1807,Shadyside Inn All Suites Hotel,4.4
 1808,Element Ewing Princeton,4.0
 1809,Shawnee Forest Cabins,4.8
-1810,27 E Madison St,
 1811,Miraval Austin Resort & Spa,4.5
 1812,Soaring Eagle Casino & Resort,4.2
 1813,Holiday Inn South Jordan - Slc South,4.5
