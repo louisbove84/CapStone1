@@ -7,7 +7,7 @@
 5,Hilton San Diego Bayfront,4.4
 6,Texican Court,4.5
 7,Hotel Indigo Austin Downtown - University,4.0
-8,"Hayes Mansion San Jose, Curio Collection by Hilton",4.3
+8,Hayes Mansion San Jose Curio Collection by Hilton,4.3
 9,Hilton Garden Inn Indianapolis Downtown,4.4
 10,Aloft Jacksonville Tapestry Park,4.4
 11,Swissotel Chicago,4.4
@@ -53,14 +53,14 @@
 51,The Mayfair at Coconut Grove,3.6
 52,Hilton Anaheim,4.2
 53,Irvine Marriott,4.4
-54,"St. Louis Union Station Hotel, Curio Collection by Hilton",4.3
+54,St. Louis Union Station Hotel Curio Collection by Hilton,4.3
 55,Holiday Inn Express Bakersfield,4.1
 56,The Kentucky Castle,4.5
 57,The Mansions On Fifth Luxury Hotel,4.4
 58,The Lakefront Anchorage,4.2
 59,Best Western Plus Heritage Inn,3.6
 60,Hotel Maya - a DoubleTree by Hilton,4.4
-61,"The Lytle Park Hotel, Autograph Collection",4.6
+61,The Lytle Park Hotel Autograph Collection,4.6
 62,Millennium Minneapolis,4.1
 63,Omni Corpus Christi Hotel,4.3
 64,Fairfield Inn & Suites by Marriott Greensboro Wendover,4.4
@@ -77,17 +77,17 @@
 75,Arizona Grand Resort & Spa,4.3
 76,Embassy Suites by Hilton Laredo,4.5
 77,21c Museum Hotel Durham,4.5
-78,"Glass Light Hotel & Gallery, Autograph Collection",4.8
+78,Glass Light Hotel & Gallery Autograph Collection,4.8
 79,Hilton Madison Monona Terrace,4.4
 80,Renaissance Toledo Downtown Hotel,4.4
 81,Mission Inn Hotel & Spa,4.6
 82,Kimpton Cardinal Hotel,4.6
-83,"Arizona Biltmore, A Waldorf Astoria Resort",4.6
+83,Arizona Biltmore A Waldorf Astoria Resort,4.6
 84,Peppermill Resort Spa Casino,4.4
 85,The Westin Virginia Beach Town Center,4.4
 86,Renaissance Baton Rouge Hotel,4.4
 87,Hotel Indigo Dallas Downtown,4.3
-88,"The STRAT Hotel, Casino & SkyPod",4.1
+88,The STRAT Hotel Casino & SkyPod,4.1
 89,Talking Stick Resort,4.3
 90,Hyatt Regency Santa Clara,4.3
 91,Hotel 43,4.5
@@ -108,10 +108,10 @@
 106,Graduate Richmond,4.2
 107,Embassy Suites by Hilton Akron Canton Airport,4.6
 108,Tru by Hilton Fayetteville I 95,4.6
-109,"The Partridge Inn Augusta, Curio Collection by Hilton",4.3
+109,The Partridge Inn Augusta Curio Collection by Hilton,4.3
 110,Little Rock Marriott,4.4
 111,Courtyard by Marriott Mobile Daphne/Eastern Shore,4.4
-112,"Amway Grand Plaza, Curio Collection by Hilton",4.5
+112,Amway Grand Plaza Curio Collection by Hilton,4.5
 113,Courtyard by Marriott Amarillo Downtown,4.3
 114,DoubleTree by Hilton Hotel Tallahassee,4.3
 115,Hyatt Place Salt Lake City/Downtown/The Gateway,4.4
@@ -120,14 +120,14 @@
 118,Holiday Inn Brownsville,4.2
 119,Embassy Suites by Hilton Valencia,4.4
 120,Courtyard by Marriott Newport News Airport,4.3
-121,"NYLO Providence Warwick Hotel, Tapestry Collection by Hilton",4.1
+121,NYLO Providence Warwick Hotel Tapestry Collection by Hilton,4.1
 122,Best Western Royal Plaza Hotel & Trade Center,4.1
 123,Treetop Hideaways,4.8
 124,Vista Inn,3.3
 125,B Ocean Resort Fort Lauderdale,3.9
 126,Cambria Hotel Sonoma Wine Country,4.5
 127,DoubleTree by Hilton Hotel Ontario Airport,4.3
-128,"Marriott Hutchinson Island Beach Resort, Golf & Marina",4.3
+128,Marriott Hutchinson Island Beach Resort Golf & Marina,4.3
 129,The Heathman Lodge,4.5
 130,The Westin Jackson,4.4
 131,Staybridge Suites Sioux Falls Southwest,4.5
@@ -162,7 +162,7 @@
 160,The Westin Pasadena,4.4
 161,Stratus Suites - Boutique Hotel,4.5
 162,DoubleTree by Hilton Hotel Los Angeles - Norwalk,4.1
-163,"Casa De Palmas, Trademark Collection by Wyndham",4.4
+163,Casa De Palmas Trademark Collection by Wyndham,4.4
 164,Hotel Royal Oak,4.2
 165,Courtyard by Marriott Dallas Plano/Richardson,4.4
 166,Hilton Bellevue,4.2
@@ -172,10 +172,10 @@
 170,Royal Park Hotel,4.6
 171,Hilton Waco,4.4
 172,Hotel Millwright In Amana,5.0
-173,"The Surfrider Hotel, Malibu",4.9
+173,The Surfrider Hotel Malibu,4.9
 174,The Palms Oceanfront Hotel,4.0
 175,Best Western Exeter Inn & Suites,4.4
-176,"Country Inn & Suites by Radisson, Topeka West, KS",3.8
+176,Country Inn & Suites by Radisson Topeka West KS,3.8
 177,La Quinta by Wyndham Gainesville,4.6
 178,Ocean Manor Beach Resort,4.0
 179,Bedford Post Inn,4.3
@@ -193,7 +193,7 @@
 191,MCM Eleganté Suites,4.2
 192,Holiday Inn Express & Suites Norman,4.5
 193,Bear Creek Mountain Resort,4.5
-194,"Hilton Garden Inn Beaumont, TX",4.2
+194,Hilton Garden Inn Beaumont TX,4.2
 195,Hotel Indigo Kansas City – the Crossroads,4.5
 196,DoubleTree by Hilton Hotel Murfreesboro,4.1
 197,Hyatt Place Athens / Downtown,4.5
@@ -205,7 +205,7 @@
 203,TownePlace Suites by Marriott Columbia,4.7
 204,Clubhouse Hotel & Suites,4.5
 205,Crystal Cove Beach Cottages,4.7
-206,"Hotel Ballast Wilmington, Tapestry Collection by Hilton",4.2
+206,Hotel Ballast Wilmington Tapestry Collection by Hilton,4.2
 207,Hilton Garden Inn Lansing West,4.5
 208,Nobu Hotel Miami Beach,4.1
 209,The Hotel June,4.4
@@ -218,7 +218,7 @@
 216,Lone Star Court,4.4
 217,Hilton Clearwater Beach Resort & Spa,4.2
 218,DoubleTree by Hilton Hotel & Spa Napa Valley - American Canyon,4.1
-219,"C'mon Inn Hotel of Billings, Montana",4.5
+219,C'mon Inn Hotel of Billings Montana,4.5
 220,DoubleTree by Hilton Hotel Boston - Bedford Glen,4.2
 221,Holiday Inn Express & Suites Pueblo North,4.1
 222,Inn On The Beach,4.1
@@ -246,14 +246,14 @@
 244,The Inn at Saint Mary's,4.6
 245,Courtyard by Marriott Erie Bayfront,4.5
 246,Houston Marriott South at Hobby Airport,4.2
-247,"Hilton Melbourne, FL",4.3
+247,Hilton Melbourne FL,4.3
 248,The George,4.6
 249,SpringHill Suites by Marriott Lakeland,4.5
-250,"Illinois Beach Hotel, BW Premier Collection",4.1
+250,Illinois Beach Hotel BW Premier Collection,4.1
 251,Holiday Inn Express & Suites Tyler South,4.0
 252,The Westin Atlanta Perimeter North,4.4
 253,Days Inn by Wyndham Flint / Bishop International Airport,2.3
-254,"The Hotel Roanoke & Conference Center, Curio Collection by Hilton",4.7
+254,The Hotel Roanoke & Conference Center Curio Collection by Hilton,4.7
 255,Renaissance Albany Hotel,4.5
 256,7 Oaks Lodging,4.7
 257,Hollywood Inn Suites Hotel,4.1
@@ -266,9 +266,9 @@
 264,Best Western Dartmouth-New Bedford,3.8
 265,Travelodge by Wyndham Lynwood,3.8
 266,The Inn at St. John's,4.7
-267,"Aggie Inn, Ascend Hotel Collection",4.6
+267,Aggie Inn Ascend Hotel Collection,4.6
 268,Nantasket Beach Resort,4.3
-269,"The Hotel at Avalon, Autograph Collection",4.5
+269,The Hotel at Avalon Autograph Collection,4.5
 270,The Hotel Maison,4.3
 271,Hampton Inn & Suites Seattle/Federal Way,4.4
 272,DoubleTree by Hilton Greeley at Lincoln Park,4.4
@@ -281,10 +281,10 @@
 279,Best Western Plus West Lawrence,4.6
 280,Carpinteria Beach Cottages,4.6
 281,B Ocean Resort Fort Lauderdale,3.9
-282,"Gaia Hotel & Spa Redding, Ascend Hotel Collection",4.0
+282,Gaia Hotel & Spa Redding Ascend Hotel Collection,4.0
 283,Hotel Boulderado,4.6
 284,Macon Marriott City Center,4.0
-285,"Boca Raton Resort and Club, A Waldorf Astoria Resort",4.4
+285,Boca Raton Resort and Club A Waldorf Astoria Resort,4.4
 286,Sheraton Suites Fort Lauderdale Plantation,4.3
 287,Hilton Greenville,4.5
 288,Clarion Inn Seekonk-Providence,4.3
@@ -306,11 +306,11 @@
 304,Best Western Luxury Inn,4.1
 305,The Inn at Bowman's Hill,4.9
 306,Courtyard by Marriott Salt Lake City Layton,4.3
-307,"Radisson Blu Aqua Hotel, Chicago",4.5
+307,Radisson Blu Aqua Hotel Chicago,4.5
 308,Courtyard by Marriott DeLand Historic Downtown,4.6
 309,The Moran CITYCENTRE,4.5
 310,The Grove Hotel,4.4
-311,"La Quinta Resort & Club, A Waldorf Astoria Resort",4.6
+311,La Quinta Resort & Club A Waldorf Astoria Resort,4.6
 312,Hyatt Place Champaign/Urbana,4.5
 313,Ponte Vineyard Inn,4.7
 314,Hampton Inn & Suites Buena Park,4.7
@@ -318,7 +318,7 @@
 316,Hotel Bellwether,4.6
 317,Courtyard by Marriott Charlotte Concord,4.3
 318,Ramada by Wyndham Sioux City,2.7
-319,"Morongo Casino, Resort and Spa",4.2
+319,Morongo Casino Resort and Spa,4.2
 320,Hilton Garden Inn Longview,4.4
 321,The Inn at St. John's,4.7
 322,Riverhouse on the Deschutes,4.4
@@ -336,7 +336,7 @@
 334,DoubleTree by Hilton Hotel Racine Harbourwalk,4.2
 335,Hilton Garden Inn Lynchburg,4.2
 336,Vineyard Mansion & Carriage House Bed & Breakfast,4.8
-337,"Club Quarters Hotel, Philadelphia, Rittenhouse Square",4.0
+337,Club Quarters Hotel Philadelphia Rittenhouse Square,4.0
 338,Tru By Hilton St. George,4.4
 339,The Lodge at Columbia Point,4.8
 340,Lithia Springs Resort - Oregon's Mineral Waters Retreat,4.6
@@ -361,7 +361,7 @@
 359,Holiday Inn Express & Suites Warner Robins North West,4.3
 360,Springhill Suites by Marriott Hartford Cromwell,4.6
 361,Courtyard by Marriott Riverside UCR/Moreno Valley Area,4.2
-362,"Country Inn & Suites by Radisson, Coralville, IA",4.3
+362,Country Inn & Suites by Radisson Coralville IA,4.3
 363,Holiday Inn Express & Suites Paragould,4.2
 364,Hilton Wilmington/Christiana,4.4
 365,Hotel Maya - a DoubleTree by Hilton,4.4
@@ -370,7 +370,7 @@
 368,Hard Rock Hotel and Casino Biloxi,4.3
 369,The Seagate Hotel & Spa,4.5
 370,Hotel 32|32,4.0
-371,"Hotel Alex Johnson Rapid City, Curio Collection by Hilton",4.4
+371,Hotel Alex Johnson Rapid City Curio Collection by Hilton,4.4
 372,DoubleTree by Hilton Lafayette East,4.6
 373,DoubleTree by Hilton Hotel Milwaukee - Brookfield,4.1
 374,Courtyard by Marriott Muncie at Horizon Convention Center,4.5
@@ -378,13 +378,13 @@
 376,Eldorado Hotel & Spa,4.3
 377,Houston Marriott Sugar Land,4.4
 378,DoubleTree by Hilton Hotel Missoula - Edgewater,4.2
-379,"The Ballantyne, a Luxury Collection Hotel, Charlotte",4.7
+379,The Ballantyne a Luxury Collection Hotel Charlotte,4.7
 380,Hilton Garden Inn Jacksonville,4.4
 381,Courtyard by Marriott Nashville Green Hills,4.3
 382,Little America Hotel,4.5
 383,Dallas/Fort Worth Marriott Hotel & Golf Club at Champions Circle,4.3
 384,Isle Casino Hotel Waterloo,3.8
-385,"Watt Hotel Rahway, Tapestry Collection by Hilton",4.1
+385,Watt Hotel Rahway Tapestry Collection by Hilton,4.1
 386,Courtyard by Marriott Fort Myers Cape Coral,4.0
 387,Fairfield Inn & Suites by Marriott Jackson,4.6
 388,Hilton St. Louis Frontenac,4.4
@@ -403,7 +403,7 @@
 401,Hyatt Regency Dulles,4.2
 402,Omni Viking Lakes Hotel,4.8
 403,Hyatt Regency Bloomington - Minneapolis,4.5
-404,"Country Inn & Suites by Radisson, Harlingen, TX",4.4
+404,Country Inn & Suites by Radisson Harlingen TX,4.4
 405,Hard Rock Hotel and Casino Sacramento,3.8
 406,The Grand Resort,4.6
 407,Hilton Orlando,4.5
@@ -411,7 +411,7 @@
 409,Hilton Garden Inn Victoria,4.5
 410,Monarch Beach Resort,4.6
 411,Best Western Gateway to the Keys,4.2
-412,"The Ritz-Carlton, Tysons Corner",4.6
+412,The Ritz-Carlton Tysons Corner,4.6
 413,Hotel Goodwin,4.6
 414,An Enchanting Evening,4.8
 415,DoubleTree by Hilton Hotel Cleveland - Westlake,4.0
@@ -433,7 +433,7 @@
 431,Hilton Los Angeles/San Gabriel,4.3
 432,Home2 Suites By Hilton Terre Haute,4.4
 433,Courtyard by Marriott Greenville Downtown,4.5
-434,"The Marquette Hotel, Curio Collection by Hilton",4.4
+434,The Marquette Hotel Curio Collection by Hilton,4.4
 435,Tru by Hilton Bowling Green,4.3
 436,Days Inn & Suites by Wyndham Roseville/Detroit Area,3.4
 437,21c Museum Hotel Bentonville,4.7
@@ -441,13 +441,13 @@
 439,Wine Country Inn,4.6
 440,Arden Acres,4.1
 441,Casper C'mon Inn,4.6
-442,"Country Inn & Suites by Radisson, Springfield, OH",4.3
+442,Country Inn & Suites by Radisson Springfield OH,4.3
 443,Best Western Plus Riverfront Hotel and Suites,4.1
-444,"The Wilbur Lititz, Tapestry Collection by Hilton",4.7
+444,The Wilbur Lititz Tapestry Collection by Hilton,4.7
 445,PG Waterfront Hotel & Suites,3.8
 446,Newport Beachside Hotel & Resort,3.7
 447,Aloft Atlanta at The Battery Atlanta,3.6
-448,"The Clancy, Autograph Collection",5.0
+448,The Clancy Autograph Collection,5.0
 449,The Townsend Hotel,4.6
 450,Sybaris Northbrook,4.7
 451,Arts District Firehouse Hotel,4.4
@@ -472,7 +472,7 @@
 470,Pacific Palms Resort,4.4
 471,Hampton Inn & Suites Valdosta/Conference Center,4.3
 472,Courtyard by Marriott Boston Foxborough/Mansfield,4.2
-473,"The Westin Lake Mary, Orlando North",4.4
+473,The Westin Lake Mary Orlando North,4.4
 474,Barona Resort & Casino,4.4
 475,Hilton East Brunswick Hotel & Executive Meeting Center,4.1
 476,DoubleTree by Hilton Hotel Decatur Riverfront,4.3
@@ -492,14 +492,14 @@
 490,Tachi Palace Casino Resort,4.2
 491,Black Swan Inn,4.7
 492,East Brother Light Station,4.9
-493,"Hyatt Regency Lake Tahoe Resort, Spa And Casino",4.5
+493,Hyatt Regency Lake Tahoe Resort Spa And Casino,4.5
 494,Sage Hill Inn & Spa,4.8
 495,DoubleTree by Hilton Hotel Cleveland - Westlake,4.0
 496,The Westin Sarasota,4.5
 497,SureStay Plus Hotel by Best Western Kansas City Northeast,3.3
 498,Home2 Suites by Hilton Bedford DFW West,4.5
 499,Appalachian Mountain Cabins,4.9
-500,"The Ritz-Carlton, Rancho Mirage",4.7
+500,The Ritz-Carlton Rancho Mirage,4.7
 501,The Laszlo Hotel,4.3
 502,The Nautical Beachfront Resort,4.1
 503,Holiday Inn Resort Pensacola Beach Gulf Front,4.5
@@ -515,7 +515,7 @@
 513,Best Western Premier Boulder Falls Inn,4.7
 514,The Inn at Elon,4.4
 515,The Charmant Hotel,4.6
-516,"The Statler Dallas, Curio Collection by Hilton",4.4
+516,The Statler Dallas Curio Collection by Hilton,4.4
 517,Zota Beach Resort,4.4
 518,DoubleTree by Hilton Harrisonburg,4.1
 519,Charleston Marriott Town Center,4.2
@@ -558,7 +558,7 @@
 556,Granville Inn,4.4
 557,Best Western Premier University Inn,4.5
 558,Embassy Suites by Hilton Fort Myers Estero,4.5
-559,"NYLO Providence Warwick Hotel, Tapestry Collection by Hilton",4.1
+559,NYLO Providence Warwick Hotel Tapestry Collection by Hilton,4.1
 560,Holiday Inn Express & Suites Painesville - Concord,4.6
 561,GLo Best Western DeSoto Dallas,4.3
 562,Tru by Hilton Vestal,4.6
@@ -596,7 +596,7 @@
 594,Hilton Garden Inn Foxborough Patriot Place,4.5
 595,Embassy Suites by Hilton La Quinta Hotel & Spa,4.5
 596,Courtyard by Marriott Nashville Mount Juliet,4.5
-597,"Hotel Retlaw, Trademark Collection by Wyndham",4.4
+597,Hotel Retlaw Trademark Collection by Wyndham,4.4
 598,Courtyard by Marriott Danville,4.1
 599,Hutchinson Island Plaza Hotel & Suites,4.3
 600,Hyatt Regency St. Louis At The Arch,4.4
@@ -605,7 +605,7 @@
 603,The Centennial Hotel,4.3
 604,Beach House - Half Moon Bay,4.6
 605,Fairfield Inn & Suites by Marriott Cleveland,4.4
-606,"The Essex, Vermont's Culinary Resort & Spa",4.4
+606,The Essex Vermont's Culinary Resort & Spa,4.4
 607,DoubleTree by Hilton Hotel Orlando Downtown,4.2
 608,Holiday Inn Express Hutchinson,4.3
 609,The H Hotel,4.6
@@ -638,7 +638,7 @@
 636,Inn on Boltwood,4.5
 637,Omni Dallas Hotel,4.6
 638,LA Sky Boutique Hotel,3.5
-639,"The VERVE Boston Natick, Tapestry Collection by Hilton",4.6
+639,The VERVE Boston Natick Tapestry Collection by Hilton,4.6
 640,Omni Hilton Head Oceanfront Resort,4.5
 641,Fairfield Inn & Suites by Marriott Mexicali,4.8
 642,TownePlace Suites by Marriott Clovis,4.4
@@ -658,7 +658,7 @@
 656,Rio Sands Lodge,3.7
 657,Tru By Hilton Beavercreek Dayton,4.5
 658,Courtyard by Marriott Florence,4.2
-659,"The Liberty, a Luxury Collection Hotel, Boston",4.4
+659,The Liberty a Luxury Collection Hotel Boston,4.4
 660,The Rockaway Hotel,4.9
 661,Tru by Hilton Spartanburg,4.3
 662,Fairfield Inn & Suites by Marriott Houston League City,4.8
