@@ -1,0 +1,671 @@
+{"_id":{"$oid":"5f99f7ccc9949b7d4b5c58ae"},"name":"Grand Tuscany Hotel","rating":4,"user_ratings_total":216}
+{"_id":{"$oid":"5f99f7cdc9949b7d4b5c58af"},"name":"DoubleTree by Hilton Hotel Philadelphia Airport","rating":3.9,"user_ratings_total":1836}
+{"_id":{"$oid":"5f99f7cec9949b7d4b5c58b0"},"name":"Freehand Los Angeles","rating":4.3,"user_ratings_total":1727}
+{"_id":{"$oid":"5f99f7cfc9949b7d4b5c58b1"},"name":"The Clarendon Hotel and Spa by GreenTree","rating":4.3,"user_ratings_total":2039}
+{"_id":{"$oid":"5f99f7d0c9949b7d4b5c58b2"},"name":"Hotel Contessa","rating":4.4,"user_ratings_total":2261}
+{"_id":{"$oid":"5f99f7d1c9949b7d4b5c58b3"},"name":"Hilton San Diego Bayfront","rating":4.4,"user_ratings_total":5844}
+{"_id":{"$oid":"5f99f7d3c9949b7d4b5c58b4"},"name":"Texican Court","rating":4.5,"user_ratings_total":303}
+{"_id":{"$oid":"5f99f7d4c9949b7d4b5c58b5"},"name":"Hotel Indigo Austin Downtown - University","rating":4,"user_ratings_total":733}
+{"_id":{"$oid":"5f99f7d5c9949b7d4b5c58b6"},"name":"Hayes Mansion San Jose, Curio Collection by Hilton","rating":4.3,"user_ratings_total":1746}
+{"_id":{"$oid":"5f99f7d6c9949b7d4b5c58b7"},"name":"Hilton Garden Inn Indianapolis Downtown","rating":4.4,"user_ratings_total":1024}
+{"_id":{"$oid":"5f99f7d7c9949b7d4b5c58b8"},"name":"Aloft Jacksonville Tapestry Park","rating":4.4,"user_ratings_total":924}
+{"_id":{"$oid":"5f99f7d8c9949b7d4b5c58b9"},"name":"Swissotel Chicago","rating":4.4,"user_ratings_total":4032}
+{"_id":{"$oid":"5f99f7dac9949b7d4b5c58ba"},"name":"San Francisco Proper","rating":4.3,"user_ratings_total":490}
+{"_id":{"$oid":"5f99f7dbc9949b7d4b5c58bb"},"name":"Moxy Columbus Short North","rating":4.1,"user_ratings_total":84}
+{"_id":{"$oid":"5f99f7ddc9949b7d4b5c58bc"},"name":"Kimpton Tryon Park Hotel","rating":4.6,"user_ratings_total":615}
+{"_id":{"$oid":"5f99f7dec9949b7d4b5c58bd"},"name":"Chelsea Inn Hotel","rating":3.8,"user_ratings_total":358}
+{"_id":{"$oid":"5f99f7dfc9949b7d4b5c58be"},"name":"Gardner Hotel","rating":4.3,"user_ratings_total":217}
+{"_id":{"$oid":"5f99f7e0c9949b7d4b5c58bf"},"name":"Omni Fort Worth Hotel","rating":4.4,"user_ratings_total":3924}
+{"_id":{"$oid":"5f99f7e1c9949b7d4b5c58c0"},"name":"Big Cypress Lodge","rating":4.5,"user_ratings_total":982}
+{"_id":{"$oid":"5f99f7e2c9949b7d4b5c58c1"},"name":"The Edgewater Hotel","rating":4.4,"user_ratings_total":2191}
+{"_id":{"$oid":"5f99f7e3c9949b7d4b5c58c2"},"name":"Hotel Indigo Denver Downtown","rating":4.4,"user_ratings_total":786}
+{"_id":{"$oid":"5f99f7e5c9949b7d4b5c58c3"},"name":"The Revolution Hotel","rating":4.5,"user_ratings_total":350}
+{"_id":{"$oid":"5f99f7e6c9949b7d4b5c58c4"},"name":"The St. Gregory Hotel Dupont Circle","rating":4.2,"user_ratings_total":697}
+{"_id":{"$oid":"5f99f7e7c9949b7d4b5c58c5"},"name":"Trumbull And Porter Hotel- Detroit Downtown","rating":4.2,"user_ratings_total":1054}
+{"_id":{"$oid":"5f99f7e8c9949b7d4b5c58c6"},"name":"AC Hotel by Marriott Nashville Downtown","rating":4.5,"user_ratings_total":246}
+{"_id":{"$oid":"5f99f7e9c9949b7d4b5c58c7"},"name":"Hyatt Regency Louisville","rating":4.4,"user_ratings_total":1915}
+{"_id":{"$oid":"5f99f7eac9949b7d4b5c58c8"},"name":"The Venetian Las Vegas","rating":4.7,"user_ratings_total":82852}
+{"_id":{"$oid":"5f99f7ebc9949b7d4b5c58c9"},"name":"Hilton Baltimore Inner Harbor","rating":4.2,"user_ratings_total":3350}
+{"_id":{"$oid":"5f99f7edc9949b7d4b5c58ca"},"name":"Hyatt House Portland/Downtown","rating":4.5,"user_ratings_total":974}
+{"_id":{"$oid":"5f99f7eec9949b7d4b5c58cb"},"name":"The Brewhouse Inn & Suites","rating":4.6,"user_ratings_total":672}
+{"_id":{"$oid":"5f99f7efc9949b7d4b5c58cc"},"name":"The Skirvin Hilton Oklahoma City","rating":4.5,"user_ratings_total":1786}
+{"_id":{"$oid":"5f99f7f0c9949b7d4b5c58cd"},"name":"Loews Ventana Canyon Resort","rating":4.6,"user_ratings_total":2312}
+{"_id":{"$oid":"5f99f7f1c9949b7d4b5c58ce"},"name":"Hotel Albuquerque at Old Town","rating":4.4,"user_ratings_total":2144}
+{"_id":{"$oid":"5f99f7f2c9949b7d4b5c58cf"},"name":"Courtyard by Marriott Fresno","rating":4.1,"user_ratings_total":432}
+{"_id":{"$oid":"5f99f7f3c9949b7d4b5c58d0"},"name":"Sheraton Mesa Hotel at Wrigleyville West","rating":4.4,"user_ratings_total":869}
+{"_id":{"$oid":"5f99f7f4c9949b7d4b5c58d1"},"name":"Hotel Indigo Kansas City Downtown","rating":4.5,"user_ratings_total":552}
+{"_id":{"$oid":"5f99f7f6c9949b7d4b5c58d2"},"name":"Hilton Virginia Beach Oceanfront","rating":4.2,"user_ratings_total":1814}
+{"_id":{"$oid":"5f99f7f7c9949b7d4b5c58d3"},"name":"Hilton Atlanta","rating":4.1,"user_ratings_total":6566}
+{"_id":{"$oid":"5f99f7f8c9949b7d4b5c58d4"},"name":"The Cliff House at Pikes Peak","rating":4.6,"user_ratings_total":934}
+{"_id":{"$oid":"5f99f7f9c9949b7d4b5c58d5"},"name":"AC Hotel by Marriott Raleigh North Hills","rating":4.5,"user_ratings_total":322}
+{"_id":{"$oid":"5f99f7fac9949b7d4b5c58d6"},"name":"Magnolia Hotel Omaha","rating":4.2,"user_ratings_total":1020}
+{"_id":{"$oid":"5f99f7fbc9949b7d4b5c58d7"},"name":"Kimpton Sawyer Hotel","rating":4.5,"user_ratings_total":797}
+{"_id":{"$oid":"5f99f7fcc9949b7d4b5c58d8"},"name":"Millennium Minneapolis","rating":4.1,"user_ratings_total":1759}
+{"_id":{"$oid":"5f99f7fdc9949b7d4b5c58d9"},"name":"Waterfront Hotel","rating":4.2,"user_ratings_total":680}
+{"_id":{"$oid":"5f99f7fec9949b7d4b5c58da"},"name":"Hotel Indigo Tulsa Downtown","rating":4.4,"user_ratings_total":404}
+{"_id":{"$oid":"5f99f800c9949b7d4b5c58db"},"name":"Hyatt Regency Wichita","rating":4.4,"user_ratings_total":2039}
+{"_id":{"$oid":"5f99f801c9949b7d4b5c58dc"},"name":"DoubleTree by Hilton Hotel Cleveland - Independence","rating":4,"user_ratings_total":1203}
+{"_id":{"$oid":"5f99f802c9949b7d4b5c58dd"},"name":"Aloft Dallas Euless","rating":4.3,"user_ratings_total":175}
+{"_id":{"$oid":"5f99f803c9949b7d4b5c58de"},"name":"St. James Hotel New Orleans Downtown (French Quarter Area)","rating":4.1,"user_ratings_total":677}
+{"_id":{"$oid":"5f99f804c9949b7d4b5c58df"},"name":"Sheraton Tampa Riverwalk Hotel","rating":3.9,"user_ratings_total":1769}
+{"_id":{"$oid":"5f99f805c9949b7d4b5c58e0"},"name":"Hotel LaCroix Waikiki","rating":4.1,"user_ratings_total":34}
+{"_id":{"$oid":"5f99f806c9949b7d4b5c58e1"},"name":"The Mayfair at Coconut Grove","rating":3.6,"user_ratings_total":1024}
+{"_id":{"$oid":"5f99f808c9949b7d4b5c58e2"},"name":"Hilton Anaheim","rating":4.2,"user_ratings_total":7967}
+{"_id":{"$oid":"5f99f809c9949b7d4b5c58e3"},"name":"Irvine Marriott","rating":4.4,"user_ratings_total":1757}
+{"_id":{"$oid":"5f99f80ac9949b7d4b5c58e4"},"name":"St. Louis Union Station Hotel, Curio Collection by Hilton","rating":4.3,"user_ratings_total":5526}
+{"_id":{"$oid":"5f99f80bc9949b7d4b5c58e5"},"name":"Holiday Inn Express Bakersfield","rating":4.1,"user_ratings_total":521}
+{"_id":{"$oid":"5f99f80dc9949b7d4b5c58e6"},"name":"The Kentucky Castle","rating":4.5,"user_ratings_total":1307}
+{"_id":{"$oid":"5f99f80ec9949b7d4b5c58e7"},"name":"The Mansions On Fifth Luxury Hotel","rating":4.4,"user_ratings_total":286}
+{"_id":{"$oid":"5f99f80fc9949b7d4b5c58e8"},"name":"The Lakefront Anchorage","rating":4.2,"user_ratings_total":1305}
+{"_id":{"$oid":"5f99f810c9949b7d4b5c58e9"},"name":"Best Western Plus Heritage Inn","rating":3.6,"user_ratings_total":1454}
+{"_id":{"$oid":"5f99f811c9949b7d4b5c58ea"},"name":"Hotel Maya - a DoubleTree by Hilton","rating":4.4,"user_ratings_total":2179}
+{"_id":{"$oid":"5f99f812c9949b7d4b5c58eb"},"name":"The Lytle Park Hotel, Autograph Collection","rating":4.6,"user_ratings_total":49}
+{"_id":{"$oid":"5f99f813c9949b7d4b5c58ec"},"name":"Millennium Minneapolis","rating":4.1,"user_ratings_total":1760}
+{"_id":{"$oid":"5f99f814c9949b7d4b5c58ed"},"name":"Omni Corpus Christi Hotel","rating":4.3,"user_ratings_total":3708}
+{"_id":{"$oid":"5f99f815c9949b7d4b5c58ee"},"name":"Fairfield Inn & Suites by Marriott Greensboro Wendover","rating":4.4,"user_ratings_total":373}
+{"_id":{"$oid":"5f99f816c9949b7d4b5c58ef"},"name":"Renaissance Dallas Richardson Hotel","rating":4.4,"user_ratings_total":1520}
+{"_id":{"$oid":"5f99f817c9949b7d4b5c58f0"},"name":"Caesars Palace","rating":4.6,"user_ratings_total":84793}
+{"_id":{"$oid":"5f99f819c9949b7d4b5c58f1"},"name":"Hyatt Place Lincoln/Downtown-Haymarket","rating":4.5,"user_ratings_total":610}
+{"_id":{"$oid":"5f99f81ac9949b7d4b5c58f2"},"name":"Hilton Meadowlands","rating":3.9,"user_ratings_total":1798}
+{"_id":{"$oid":"5f99f81bc9949b7d4b5c58f3"},"name":"Millennium Buffalo","rating":4.2,"user_ratings_total":2102}
+{"_id":{"$oid":"5f99f81cc9949b7d4b5c58f4"},"name":"Hilton San Diego Bayfront","rating":4.4,"user_ratings_total":5853}
+{"_id":{"$oid":"5f99f81ec9949b7d4b5c58f5"},"name":"Holiday Inn Express & Suites Fort Wayne","rating":4.3,"user_ratings_total":380}
+{"_id":{"$oid":"5f99f81fc9949b7d4b5c58f6"},"name":"Crowne Plaza Orlando - Universal Blvd","rating":4.2,"user_ratings_total":2102}
+{"_id":{"$oid":"5f99f820c9949b7d4b5c58f7"},"name":"The Beachcomber - St. Pete Beach","rating":4.3,"user_ratings_total":2392}
+{"_id":{"$oid":"5f99f821c9949b7d4b5c58f8"},"name":"Chelsea Inn Hotel","rating":3.8,"user_ratings_total":360}
+{"_id":{"$oid":"5f99f822c9949b7d4b5c58f9"},"name":"Arizona Grand Resort & Spa","rating":4.3,"user_ratings_total":5019}
+{"_id":{"$oid":"5f99f823c9949b7d4b5c58fa"},"name":"Embassy Suites by Hilton Laredo","rating":4.5,"user_ratings_total":904}
+{"_id":{"$oid":"5f99f824c9949b7d4b5c58fb"},"name":"21c Museum Hotel Durham","rating":4.5,"user_ratings_total":1374}
+{"_id":{"$oid":"5f99f825c9949b7d4b5c58fc"},"name":"Glass Light Hotel & Gallery, Autograph Collection","rating":4.8,"user_ratings_total":89}
+{"_id":{"$oid":"5f99f826c9949b7d4b5c58fd"},"name":"Hilton Madison Monona Terrace","rating":4.4,"user_ratings_total":1290}
+{"_id":{"$oid":"5f99f828c9949b7d4b5c58fe"},"name":"Renaissance Toledo Downtown Hotel","rating":4.4,"user_ratings_total":1131}
+{"_id":{"$oid":"5f99f829c9949b7d4b5c58ff"},"name":"Mission Inn Hotel & Spa","rating":4.6,"user_ratings_total":7792}
+{"_id":{"$oid":"5f99f82ac9949b7d4b5c5900"},"name":"Kimpton Cardinal Hotel","rating":4.6,"user_ratings_total":663}
+{"_id":{"$oid":"5f99f82bc9949b7d4b5c5901"},"name":"Arizona Biltmore, A Waldorf Astoria Resort","rating":4.6,"user_ratings_total":3034}
+{"_id":{"$oid":"5f99f82dc9949b7d4b5c5902"},"name":"Peppermill Resort Spa Casino","rating":4.4,"user_ratings_total":14491}
+{"_id":{"$oid":"5f99f82fc9949b7d4b5c5903"},"name":"The Westin Virginia Beach Town Center","rating":4.4,"user_ratings_total":1140}
+{"_id":{"$oid":"5f99f831c9949b7d4b5c5904"},"name":"Renaissance Baton Rouge Hotel","rating":4.4,"user_ratings_total":951}
+{"_id":{"$oid":"5f99f833c9949b7d4b5c5905"},"name":"Hotel Indigo Dallas Downtown","rating":4.3,"user_ratings_total":1130}
+{"_id":{"$oid":"5f99f834c9949b7d4b5c5906"},"name":"The STRAT Hotel, Casino & SkyPod","rating":4.1,"user_ratings_total":43227}
+{"_id":{"$oid":"5f99f836c9949b7d4b5c5907"},"name":"Talking Stick Resort","rating":4.3,"user_ratings_total":15793}
+{"_id":{"$oid":"5f99f837c9949b7d4b5c5908"},"name":"Hyatt Regency Santa Clara","rating":4.3,"user_ratings_total":2885}
+{"_id":{"$oid":"5f99f838c9949b7d4b5c5909"},"name":"Hotel 43","rating":4.5,"user_ratings_total":422}
+{"_id":{"$oid":"5f99f83ac9949b7d4b5c590a"},"name":"Pacific Edge Hotel","rating":4,"user_ratings_total":756}
+{"_id":{"$oid":"5f99f83bc9949b7d4b5c590b"},"name":"The Centennial Hotel Spokane","rating":3.9,"user_ratings_total":2006}
+{"_id":{"$oid":"5f99f83cc9949b7d4b5c590c"},"name":"Four Points by Sheraton Birmingham Homewood","rating":4.1,"user_ratings_total":36}
+{"_id":{"$oid":"5f99f83dc9949b7d4b5c590d"},"name":"DoubleTree by Hilton Hotel Rochester","rating":4.3,"user_ratings_total":1166}
+{"_id":{"$oid":"5f99f83ec9949b7d4b5c590e"},"name":"DoubleTree by Hilton Hotel Modesto","rating":4.2,"user_ratings_total":1371}
+{"_id":{"$oid":"5f99f83fc9949b7d4b5c590f"},"name":"Des Lux Hotel","rating":4.6,"user_ratings_total":451}
+{"_id":{"$oid":"5f99f840c9949b7d4b5c5910"},"name":"Hyatt Place Lubbock","rating":4.3,"user_ratings_total":530}
+{"_id":{"$oid":"5f99f842c9949b7d4b5c5911"},"name":"Holiday Inn Express & Suites Tacoma Downtown","rating":4.3,"user_ratings_total":791}
+{"_id":{"$oid":"5f99f843c9949b7d4b5c5912"},"name":"Inn On The Beach","rating":4.1,"user_ratings_total":382}
+{"_id":{"$oid":"5f99f845c9949b7d4b5c5913"},"name":"DoubleTree by Hilton Hotel Montgomery Downtown","rating":4.2,"user_ratings_total":611}
+{"_id":{"$oid":"5f99f846c9949b7d4b5c5914"},"name":"Hyatt Place Columbus-North","rating":4.1,"user_ratings_total":428}
+{"_id":{"$oid":"5f99f848c9949b7d4b5c5915"},"name":"Hotel Baker","rating":4.4,"user_ratings_total":557}
+{"_id":{"$oid":"5f99f849c9949b7d4b5c5916"},"name":"Hilton Shreveport","rating":4.2,"user_ratings_total":1124}
+{"_id":{"$oid":"5f99f84bc9949b7d4b5c5917"},"name":"SoJo Spa Club","rating":4.5,"user_ratings_total":5546}
+{"_id":{"$oid":"5f99f84cc9949b7d4b5c5918"},"name":"Graduate Richmond","rating":4.2,"user_ratings_total":861}
+{"_id":{"$oid":"5f99f84dc9949b7d4b5c5919"},"name":"Embassy Suites by Hilton Akron Canton Airport","rating":4.6,"user_ratings_total":597}
+{"_id":{"$oid":"5f99f84fc9949b7d4b5c591a"},"name":"Tru by Hilton Fayetteville I 95","rating":4.6,"user_ratings_total":407}
+{"_id":{"$oid":"5f99f850c9949b7d4b5c591b"},"name":"The Partridge Inn Augusta, Curio Collection by Hilton","rating":4.3,"user_ratings_total":978}
+{"_id":{"$oid":"5f99f851c9949b7d4b5c591c"},"name":"Little Rock Marriott","rating":4.4,"user_ratings_total":1939}
+{"_id":{"$oid":"5f99f852c9949b7d4b5c591d"},"name":"Courtyard by Marriott Mobile Daphne/Eastern Shore","rating":4.4,"user_ratings_total":361}
+{"_id":{"$oid":"5f99f854c9949b7d4b5c591e"},"name":"Amway Grand Plaza, Curio Collection by Hilton","rating":4.5,"user_ratings_total":4840}
+{"_id":{"$oid":"5f99f855c9949b7d4b5c591f"},"name":"Courtyard by Marriott Amarillo Downtown","rating":4.3,"user_ratings_total":583}
+{"_id":{"$oid":"5f99f856c9949b7d4b5c5920"},"name":"DoubleTree by Hilton Hotel Tallahassee","rating":4.3,"user_ratings_total":1069}
+{"_id":{"$oid":"5f99f857c9949b7d4b5c5921"},"name":"Hyatt Place Salt Lake City/Downtown/The Gateway","rating":4.4,"user_ratings_total":923}
+{"_id":{"$oid":"5f99f859c9949b7d4b5c5922"},"name":"The Westin Huntsville","rating":4.4,"user_ratings_total":1118}
+{"_id":{"$oid":"5f99f85ac9949b7d4b5c5923"},"name":"Hilton Knoxville","rating":4.3,"user_ratings_total":1584}
+{"_id":{"$oid":"5f99f85cc9949b7d4b5c5924"},"name":"Holiday Inn Brownsville","rating":4.2,"user_ratings_total":171}
+{"_id":{"$oid":"5f99f85ec9949b7d4b5c5925"},"name":"Embassy Suites by Hilton Valencia","rating":4.4,"user_ratings_total":851}
+{"_id":{"$oid":"5f99f85fc9949b7d4b5c5926"},"name":"Courtyard by Marriott Newport News Airport","rating":4.3,"user_ratings_total":602}
+{"_id":{"$oid":"5f99f860c9949b7d4b5c5927"},"name":"NYLO Providence Warwick Hotel, Tapestry Collection by Hilton","rating":4.1,"user_ratings_total":1286}
+{"_id":{"$oid":"5f99f861c9949b7d4b5c5928"},"name":"Best Western Royal Plaza Hotel & Trade Center","rating":4.1,"user_ratings_total":1360}
+{"_id":{"$oid":"5f99f862c9949b7d4b5c5929"},"name":"Treetop Hideaways","rating":4.8,"user_ratings_total":78}
+{"_id":{"$oid":"5f99f864c9949b7d4b5c592a"},"name":"Vista Inn","rating":3.3,"user_ratings_total":202}
+{"_id":{"$oid":"5f99f866c9949b7d4b5c592b"},"name":"B Ocean Resort Fort Lauderdale","rating":3.9,"user_ratings_total":3223}
+{"_id":{"$oid":"5f99f867c9949b7d4b5c592c"},"name":"Cambria Hotel Sonoma Wine Country","rating":4.5,"user_ratings_total":29}
+{"_id":{"$oid":"5f99f868c9949b7d4b5c592d"},"name":"DoubleTree by Hilton Hotel Ontario Airport","rating":4.3,"user_ratings_total":2833}
+{"_id":{"$oid":"5f99f869c9949b7d4b5c592e"},"name":"Marriott Hutchinson Island Beach Resort, Golf & Marina","rating":4.3,"user_ratings_total":1127}
+{"_id":{"$oid":"5f99f86cc9949b7d4b5c592f"},"name":"The Heathman Lodge","rating":4.5,"user_ratings_total":1825}
+{"_id":{"$oid":"5f99f86dc9949b7d4b5c5930"},"name":"The Westin Jackson","rating":4.4,"user_ratings_total":615}
+{"_id":{"$oid":"5f99f86ec9949b7d4b5c5931"},"name":"Staybridge Suites Sioux Falls Southwest","rating":4.5,"user_ratings_total":25}
+{"_id":{"$oid":"5f99f86fc9949b7d4b5c5932"},"name":"Marriott Sanibel Harbour Resort & Spa","rating":4.4,"user_ratings_total":1852}
+{"_id":{"$oid":"5f99f870c9949b7d4b5c5933"},"name":"DoubleTree by Hilton Hotel Springfield","rating":4.4,"user_ratings_total":1499}
+{"_id":{"$oid":"5f99f871c9949b7d4b5c5934"},"name":"Bonaventure Resort & Spa","rating":4,"user_ratings_total":2270}
+{"_id":{"$oid":"5f99f872c9949b7d4b5c5935"},"name":"Best Western North Phoenix Hotel","rating":4.3,"user_ratings_total":374}
+{"_id":{"$oid":"5f99f874c9949b7d4b5c5936"},"name":"Kimpton Sawyer Hotel","rating":4.5,"user_ratings_total":792}
+{"_id":{"$oid":"5f99f875c9949b7d4b5c5937"},"name":"Independence Hotel","rating":4.6,"user_ratings_total":89}
+{"_id":{"$oid":"5f99f876c9949b7d4b5c5938"},"name":"Glen Ivy Hot Springs","rating":4.6,"user_ratings_total":3101}
+{"_id":{"$oid":"5f99f877c9949b7d4b5c5939"},"name":"OYO Hotel Palmdale - Antelope Valley","rating":3.7,"user_ratings_total":34}
+{"_id":{"$oid":"5f99f878c9949b7d4b5c593a"},"name":"Valley River Inn","rating":4,"user_ratings_total":1630}
+{"_id":{"$oid":"5f99f87ac9949b7d4b5c593b"},"name":"Hotel Solara Hobby","rating":4.8,"user_ratings_total":10}
+{"_id":{"$oid":"5f99f87bc9949b7d4b5c593c"},"name":"The Armstrong Hotel","rating":4.5,"user_ratings_total":439}
+{"_id":{"$oid":"5f99f87cc9949b7d4b5c593d"},"name":"DoubleTree by Hilton Pleasanton at the Club","rating":4.3,"user_ratings_total":958}
+{"_id":{"$oid":"5f99f87fc9949b7d4b5c593e"},"name":"Embassy Suites by Hilton Rockford Riverfront","rating":4.7,"user_ratings_total":63}
+{"_id":{"$oid":"5f99f882c9949b7d4b5c593f"},"name":"Hotel Indigo Frisco","rating":4.4,"user_ratings_total":459}
+{"_id":{"$oid":"5f99f884c9949b7d4b5c5940"},"name":"Aloft Bolingbrook","rating":4.1,"user_ratings_total":817}
+{"_id":{"$oid":"5f99f887c9949b7d4b5c5941"},"name":"Hotel Zico","rating":4.4,"user_ratings_total":1185}
+{"_id":{"$oid":"5f99f888c9949b7d4b5c5942"},"name":"Beach House","rating":4.6,"user_ratings_total":418}
+{"_id":{"$oid":"5f99f889c9949b7d4b5c5943"},"name":"Homewood Suites by Hilton Orange New Haven","rating":4.3,"user_ratings_total":59}
+{"_id":{"$oid":"5f99f88ac9949b7d4b5c5944"},"name":"Ocean Manor Beach Resort","rating":4,"user_ratings_total":2352}
+{"_id":{"$oid":"5f99f88bc9949b7d4b5c5945"},"name":"Courtyard by Marriott Wayne Fairfield","rating":4.3,"user_ratings_total":252}
+{"_id":{"$oid":"5f99f88dc9949b7d4b5c5946"},"name":"Hyatt Regency Lisle Near Naperville","rating":4.2,"user_ratings_total":1374}
+{"_id":{"$oid":"5f99f88ec9949b7d4b5c5947"},"name":"Hyatt Regency Monterey Hotel And Spa On Del Monte Golf Course","rating":4.2,"user_ratings_total":2275}
+{"_id":{"$oid":"5f99f88fc9949b7d4b5c5948"},"name":"Marriott Syracuse Downtown","rating":4.5,"user_ratings_total":1872}
+{"_id":{"$oid":"5f99f890c9949b7d4b5c5949"},"name":"Hilton Dallas/Rockwall Lakefront","rating":4.5,"user_ratings_total":1903}
+{"_id":{"$oid":"5f99f891c9949b7d4b5c594a"},"name":"Courtyard by Marriott Dayton South/Mall","rating":4,"user_ratings_total":348}
+{"_id":{"$oid":"5f99f892c9949b7d4b5c594b"},"name":"The Westin Savannah Harbor Golf Resort & Spa","rating":4.4,"user_ratings_total":2479}
+{"_id":{"$oid":"5f99f893c9949b7d4b5c594c"},"name":"Best Western Plus Atrium Inn & Suites","rating":4.5,"user_ratings_total":762}
+{"_id":{"$oid":"5f99f895c9949b7d4b5c594d"},"name":"D. Hotel Suites & Spa","rating":4.4,"user_ratings_total":560}
+{"_id":{"$oid":"5f99f896c9949b7d4b5c594e"},"name":"The Westin Pasadena","rating":4.4,"user_ratings_total":1739}
+{"_id":{"$oid":"5f99f897c9949b7d4b5c594f"},"name":"Stratus Suites - Boutique Hotel","rating":4.5,"user_ratings_total":89}
+{"_id":{"$oid":"5f99f898c9949b7d4b5c5950"},"name":"DoubleTree by Hilton Hotel Los Angeles - Norwalk","rating":4.1,"user_ratings_total":985}
+{"_id":{"$oid":"5f99f899c9949b7d4b5c5951"},"name":"Casa De Palmas, Trademark Collection by Wyndham","rating":4.4,"user_ratings_total":621}
+{"_id":{"$oid":"5f99f89cc9949b7d4b5c5952"},"name":"Hotel Royal Oak","rating":4.2,"user_ratings_total":459}
+{"_id":{"$oid":"5f99f89dc9949b7d4b5c5953"},"name":"Courtyard by Marriott Dallas Plano/Richardson","rating":4.4,"user_ratings_total":354}
+{"_id":{"$oid":"5f99f89ec9949b7d4b5c5954"},"name":"Hilton Bellevue","rating":4.2,"user_ratings_total":1804}
+{"_id":{"$oid":"5f99f89fc9949b7d4b5c5955"},"name":"DoubleTree by Hilton Hotel Anaheim - Orange County","rating":4.2,"user_ratings_total":1775}
+{"_id":{"$oid":"5f99f8a0c9949b7d4b5c5956"},"name":"The Inn at Meadowbrook","rating":5,"user_ratings_total":36}
+{"_id":{"$oid":"5f99f8a1c9949b7d4b5c5957"},"name":"Hilton Columbia Center","rating":4.5,"user_ratings_total":910}
+{"_id":{"$oid":"5f99f8a4c9949b7d4b5c5958"},"name":"Royal Park Hotel","rating":4.6,"user_ratings_total":1517}
+{"_id":{"$oid":"5f99f8a5c9949b7d4b5c5959"},"name":"Hilton Waco","rating":4.4,"user_ratings_total":911}
+{"_id":{"$oid":"5f99f8a6c9949b7d4b5c595a"},"name":"Hotel Millwright In Amana","rating":5,"user_ratings_total":9}
+{"_id":{"$oid":"5f99f8a8c9949b7d4b5c595b"},"name":"The Surfrider Hotel, Malibu","rating":4.9,"user_ratings_total":100}
+{"_id":{"$oid":"5f99f8aac9949b7d4b5c595c"},"name":"The Palms Oceanfront Hotel","rating":4,"user_ratings_total":355}
+{"_id":{"$oid":"5f99f8abc9949b7d4b5c595d"},"name":"Best Western Exeter Inn & Suites","rating":4.4,"user_ratings_total":434}
+{"_id":{"$oid":"5f99f8acc9949b7d4b5c595e"},"name":"Country Inn & Suites by Radisson, Topeka West, KS","rating":3.8,"user_ratings_total":423}
+{"_id":{"$oid":"5f99f8afc9949b7d4b5c595f"},"name":"La Quinta by Wyndham Gainesville","rating":4.6,"user_ratings_total":113}
+{"_id":{"$oid":"5f99f8b2c9949b7d4b5c5960"},"name":"Ocean Manor Beach Resort","rating":4,"user_ratings_total":2356}
+{"_id":{"$oid":"5f99f8b3c9949b7d4b5c5961"},"name":"Bedford Post Inn","rating":4.3,"user_ratings_total":127}
+{"_id":{"$oid":"5f99f8b4c9949b7d4b5c5962"},"name":"Calamigos Guest Ranch and Beach Club","rating":4.4,"user_ratings_total":64}
+{"_id":{"$oid":"5f99f8b5c9949b7d4b5c5963"},"name":"Renaissance Walnut Creek Hotel","rating":4.5,"user_ratings_total":723}
+{"_id":{"$oid":"5f99f8b6c9949b7d4b5c5964"},"name":"Hampton Inn & Suites Hartford/Farmington","rating":4.4,"user_ratings_total":355}
+{"_id":{"$oid":"5f99f8b8c9949b7d4b5c5965"},"name":"DoubleTree by Hilton Hotel Midland Plaza","rating":3.9,"user_ratings_total":633}
+{"_id":{"$oid":"5f99f8b9c9949b7d4b5c5966"},"name":"Hotel Interurban","rating":4.2,"user_ratings_total":587}
+{"_id":{"$oid":"5f99f8bac9949b7d4b5c5967"},"name":"DoubleTree by Hilton Hotel Lafayette","rating":4.2,"user_ratings_total":1174}
+{"_id":{"$oid":"5f99f8bbc9949b7d4b5c5968"},"name":"The Wigwam","rating":4.5,"user_ratings_total":3129}
+{"_id":{"$oid":"5f99f8bcc9949b7d4b5c5969"},"name":"Hilton Garden Inn Victorville","rating":4.3,"user_ratings_total":780}
+{"_id":{"$oid":"5f99f8bdc9949b7d4b5c596a"},"name":"Best Western Premier Crown Chase Inn & Suites","rating":4.6,"user_ratings_total":707}
+{"_id":{"$oid":"5f99f8bec9949b7d4b5c596b"},"name":"Tropicana Evansville","rating":4,"user_ratings_total":4735}
+{"_id":{"$oid":"5f99f8bfc9949b7d4b5c596c"},"name":"AC Hotel by Marriott Sunnyvale Cupertino","rating":4.3,"user_ratings_total":233}
+{"_id":{"$oid":"5f99f8c2c9949b7d4b5c596d"},"name":"MCM Eleganté Suites","rating":4.2,"user_ratings_total":877}
+{"_id":{"$oid":"5f99f8c3c9949b7d4b5c596e"},"name":"Holiday Inn Express & Suites Norman","rating":4.5,"user_ratings_total":501}
+{"_id":{"$oid":"5f99f8c4c9949b7d4b5c596f"},"name":"Bear Creek Mountain Resort","rating":4.5,"user_ratings_total":2493}
+{"_id":{"$oid":"5f99f8c5c9949b7d4b5c5970"},"name":"Hilton Garden Inn Beaumont, TX","rating":4.2,"user_ratings_total":343}
+{"_id":{"$oid":"5f99f8c6c9949b7d4b5c5971"},"name":"Hotel Indigo Kansas City – the Crossroads","rating":4.5,"user_ratings_total":257}
+{"_id":{"$oid":"5f99f8c8c9949b7d4b5c5972"},"name":"DoubleTree by Hilton Hotel Murfreesboro","rating":4.1,"user_ratings_total":939}
+{"_id":{"$oid":"5f99f8c9c9949b7d4b5c5973"},"name":"Hyatt Place Athens / Downtown","rating":4.5,"user_ratings_total":421}
+{"_id":{"$oid":"5f99f8cac9949b7d4b5c5974"},"name":"Bell Tower Hotel","rating":4.5,"user_ratings_total":199}
+{"_id":{"$oid":"5f99f8cbc9949b7d4b5c5975"},"name":"Hotel Shattuck Plaza","rating":4.2,"user_ratings_total":730}
+{"_id":{"$oid":"5f99f8ccc9949b7d4b5c5976"},"name":"Sundance Mountain Resort","rating":4.6,"user_ratings_total":4223}
+{"_id":{"$oid":"5f99f8cdc9949b7d4b5c5977"},"name":"DoubleTree by Hilton Hotel Monrovia - Pasadena Area","rating":4.3,"user_ratings_total":904}
+{"_id":{"$oid":"5f99f8cec9949b7d4b5c5978"},"name":"Hampton Inn Peoria-East At The River Boat Crossing","rating":4.1,"user_ratings_total":456}
+{"_id":{"$oid":"5f99f8cfc9949b7d4b5c5979"},"name":"TownePlace Suites by Marriott Columbia","rating":4.7,"user_ratings_total":223}
+{"_id":{"$oid":"5f99f8d0c9949b7d4b5c597a"},"name":"Clubhouse Hotel & Suites","rating":4.5,"user_ratings_total":469}
+{"_id":{"$oid":"5f99f8d3c9949b7d4b5c597b"},"name":"Crystal Cove Beach Cottages","rating":4.7,"user_ratings_total":2225}
+{"_id":{"$oid":"5f99f8d4c9949b7d4b5c597c"},"name":"Hotel Ballast Wilmington, Tapestry Collection by Hilton","rating":4.2,"user_ratings_total":1607}
+{"_id":{"$oid":"5f99f8d6c9949b7d4b5c597d"},"name":"Hilton Garden Inn Lansing West","rating":4.5,"user_ratings_total":119}
+{"_id":{"$oid":"5f99f8d7c9949b7d4b5c597e"},"name":"Nobu Hotel Miami Beach","rating":4.1,"user_ratings_total":466}
+{"_id":{"$oid":"5f99f8d8c9949b7d4b5c597f"},"name":"The Hotel June","rating":4.4,"user_ratings_total":30}
+{"_id":{"$oid":"5f99f8dbc9949b7d4b5c5980"},"name":"Best Western Plus North Odessa Inn & Suites","rating":4.3,"user_ratings_total":321}
+{"_id":{"$oid":"5f99f8ddc9949b7d4b5c5981"},"name":"President Abraham Lincoln Springfield - a DoubleTree by Hilton Hotel","rating":4.2,"user_ratings_total":946}
+{"_id":{"$oid":"5f99f8ddc9949b7d4b5c5982"},"name":"DoubleTree by Hilton Hotel Rochester - Mayo Clinic Area","rating":4.5,"user_ratings_total":666}
+{"_id":{"$oid":"5f99f8dfc9949b7d4b5c5983"},"name":"Tru by Hilton Manchester Downtown","rating":5,"user_ratings_total":3}
+{"_id":{"$oid":"5f99f8e0c9949b7d4b5c5984"},"name":"Indian Lakes Hotel","rating":3.7,"user_ratings_total":1340}
+{"_id":{"$oid":"5f99f8e1c9949b7d4b5c5985"},"name":"Embassy Suites by Hilton South Jordan Salt Lake City","rating":4.5,"user_ratings_total":425}
+{"_id":{"$oid":"5f99f8e2c9949b7d4b5c5986"},"name":"Lone Star Court","rating":4.4,"user_ratings_total":1095}
+{"_id":{"$oid":"5f99f8e3c9949b7d4b5c5987"},"name":"Hilton Clearwater Beach Resort & Spa","rating":4.2,"user_ratings_total":3290}
+{"_id":{"$oid":"5f99f8e5c9949b7d4b5c5988"},"name":"DoubleTree by Hilton Hotel & Spa Napa Valley - American Canyon","rating":4.1,"user_ratings_total":715}
+{"_id":{"$oid":"5f99f8e7c9949b7d4b5c5989"},"name":"C'mon Inn Hotel of Billings, Montana","rating":4.5,"user_ratings_total":570}
+{"_id":{"$oid":"5f99f8e8c9949b7d4b5c598a"},"name":"DoubleTree by Hilton Hotel Boston - Bedford Glen","rating":4.2,"user_ratings_total":1095}
+{"_id":{"$oid":"5f99f8e9c9949b7d4b5c598b"},"name":"Holiday Inn Express & Suites Pueblo North","rating":4.1,"user_ratings_total":388}
+{"_id":{"$oid":"5f99f8eac9949b7d4b5c598c"},"name":"Inn On The Beach","rating":4.1,"user_ratings_total":381}
+{"_id":{"$oid":"5f99f8ebc9949b7d4b5c598d"},"name":"Hampton Inn High Point","rating":4.2,"user_ratings_total":252}
+{"_id":{"$oid":"5f99f8ecc9949b7d4b5c598e"},"name":"Best Western Premier Hotel at Fisher's Landing","rating":4.6,"user_ratings_total":188}
+{"_id":{"$oid":"5f99f8efc9949b7d4b5c598f"},"name":"DoubleTree by Hilton Hotel Monrovia - Pasadena Area","rating":4.3,"user_ratings_total":907}
+{"_id":{"$oid":"5f99f8f0c9949b7d4b5c5990"},"name":"Best Western Danville Sycamore Inn","rating":4.2,"user_ratings_total":303}
+{"_id":{"$oid":"5f99f8f1c9949b7d4b5c5991"},"name":"Pala Casino Spa & Resort","rating":4.2,"user_ratings_total":10128}
+{"_id":{"$oid":"5f99f8f2c9949b7d4b5c5992"},"name":"Pechanga Resort Casino","rating":4.4,"user_ratings_total":22223}
+{"_id":{"$oid":"5f99f8f3c9949b7d4b5c5993"},"name":"DoubleTree by Hilton Hotel Denver Tech Center","rating":4.3,"user_ratings_total":1493}
+{"_id":{"$oid":"5f99f8f5c9949b7d4b5c5994"},"name":"Hotel Indigo Seattle Everett Waterfront","rating":4.4,"user_ratings_total":164}
+{"_id":{"$oid":"5f99f8f7c9949b7d4b5c5995"},"name":"Beach House - Half Moon Bay","rating":4.6,"user_ratings_total":541}
+{"_id":{"$oid":"5f99f8f8c9949b7d4b5c5996"},"name":"Lodge Kohler","rating":4.7,"user_ratings_total":641}
+{"_id":{"$oid":"5f99f8f9c9949b7d4b5c5997"},"name":"Hilton Los Angeles/Universal City","rating":4.4,"user_ratings_total":3636}
+{"_id":{"$oid":"5f99f8fbc9949b7d4b5c5998"},"name":"Best Western Red River Inn","rating":3.9,"user_ratings_total":395}
+{"_id":{"$oid":"5f99f8fcc9949b7d4b5c5999"},"name":"Renaissance Dallas Richardson Hotel","rating":4.4,"user_ratings_total":1521}
+{"_id":{"$oid":"5f99f8fdc9949b7d4b5c599a"},"name":"The Dewberry Charleston","rating":4.6,"user_ratings_total":610}
+{"_id":{"$oid":"5f99f8ffc9949b7d4b5c599b"},"name":"Hard Rock Hotel And Casino Tulsa","rating":4.3,"user_ratings_total":16393}
+{"_id":{"$oid":"5f99f900c9949b7d4b5c599c"},"name":"Aloft Broomfield Denver","rating":4.3,"user_ratings_total":1130}
+{"_id":{"$oid":"5f99f901c9949b7d4b5c599d"},"name":"Hilton West Palm Beach","rating":4.5,"user_ratings_total":1423}
+{"_id":{"$oid":"5f99f902c9949b7d4b5c599e"},"name":"Hyatt Place East Moline / Quad Cities","rating":4.7,"user_ratings_total":317}
+{"_id":{"$oid":"5f99f904c9949b7d4b5c599f"},"name":"Santa Maria Inn","rating":4.2,"user_ratings_total":1343}
+{"_id":{"$oid":"5f99f906c9949b7d4b5c59a0"},"name":"Hotel Encanto de Las Cruces","rating":4.2,"user_ratings_total":1369}
+{"_id":{"$oid":"5f99f908c9949b7d4b5c59a1"},"name":"Gaylord Texan Resort & Convention Center","rating":4.5,"user_ratings_total":13876}
+{"_id":{"$oid":"5f99f90ac9949b7d4b5c59a2"},"name":"The Inn at Saint Mary's","rating":4.6,"user_ratings_total":351}
+{"_id":{"$oid":"5f99f90bc9949b7d4b5c59a3"},"name":"Courtyard by Marriott Erie Bayfront","rating":4.5,"user_ratings_total":1226}
+{"_id":{"$oid":"5f99f90cc9949b7d4b5c59a4"},"name":"Houston Marriott South at Hobby Airport","rating":4.2,"user_ratings_total":1425}
+{"_id":{"$oid":"5f99f90dc9949b7d4b5c59a5"},"name":"Hilton Melbourne, FL","rating":4.3,"user_ratings_total":1394}
+{"_id":{"$oid":"5f99f90ec9949b7d4b5c59a6"},"name":"The George","rating":4.6,"user_ratings_total":214}
+{"_id":{"$oid":"5f99f90fc9949b7d4b5c59a7"},"name":"SpringHill Suites by Marriott Lakeland","rating":4.5,"user_ratings_total":22}
+{"_id":{"$oid":"5f99f910c9949b7d4b5c59a8"},"name":"Illinois Beach Hotel, BW Premier Collection","rating":4.1,"user_ratings_total":744}
+{"_id":{"$oid":"5f99f912c9949b7d4b5c59a9"},"name":"Holiday Inn Express & Suites Tyler South","rating":4,"user_ratings_total":391}
+{"_id":{"$oid":"5f99f913c9949b7d4b5c59aa"},"name":"The Westin Atlanta Perimeter North","rating":4.4,"user_ratings_total":2112}
+{"_id":{"$oid":"5f99f914c9949b7d4b5c59ab"},"name":"Days Inn by Wyndham Flint / Bishop International Airport","rating":2.3,"user_ratings_total":21}
+{"_id":{"$oid":"5f99f915c9949b7d4b5c59ac"},"name":"The Hotel Roanoke & Conference Center, Curio Collection by Hilton","rating":4.7,"user_ratings_total":2473}
+{"_id":{"$oid":"5f99f916c9949b7d4b5c59ad"},"name":"Renaissance Albany Hotel","rating":4.5,"user_ratings_total":836}
+{"_id":{"$oid":"5f99f917c9949b7d4b5c59ae"},"name":"7 Oaks Lodging","rating":4.7,"user_ratings_total":54}
+{"_id":{"$oid":"5f99f918c9949b7d4b5c59af"},"name":"Hollywood Inn Suites Hotel","rating":4.1,"user_ratings_total":328}
+{"_id":{"$oid":"5f99f919c9949b7d4b5c59b0"},"name":"McMenamins Grand Lodge","rating":4.4,"user_ratings_total":3542}
+{"_id":{"$oid":"5f99f91ac9949b7d4b5c59b1"},"name":"Hilton Garden Inn Lawton-Fort Sill","rating":4.4,"user_ratings_total":929}
+{"_id":{"$oid":"5f99f91dc9949b7d4b5c59b2"},"name":"Sonder - The Circ","rating":4.4,"user_ratings_total":648}
+{"_id":{"$oid":"5f99f920c9949b7d4b5c59b3"},"name":"Crystal Cove Beach Cottages","rating":4.7,"user_ratings_total":2220}
+{"_id":{"$oid":"5f99f922c9949b7d4b5c59b4"},"name":"Best Western Plus Waterfront Hotel","rating":4.3,"user_ratings_total":2624}
+{"_id":{"$oid":"5f99f923c9949b7d4b5c59b5"},"name":"La Quinta Inn & Suites by Wyndham Tuscaloosa University","rating":4.3,"user_ratings_total":306}
+{"_id":{"$oid":"5f99f924c9949b7d4b5c59b6"},"name":"Best Western Dartmouth-New Bedford","rating":3.8,"user_ratings_total":403}
+{"_id":{"$oid":"5f99f925c9949b7d4b5c59b7"},"name":"Travelodge by Wyndham Lynwood","rating":3.8,"user_ratings_total":361}
+{"_id":{"$oid":"5f99f926c9949b7d4b5c59b8"},"name":"The Inn at St. John's","rating":4.7,"user_ratings_total":1880}
+{"_id":{"$oid":"5f99f927c9949b7d4b5c59b9"},"name":"Aggie Inn, Ascend Hotel Collection","rating":4.6,"user_ratings_total":125}
+{"_id":{"$oid":"5f99f928c9949b7d4b5c59ba"},"name":"Nantasket Beach Resort","rating":4.3,"user_ratings_total":1687}
+{"_id":{"$oid":"5f99f92ac9949b7d4b5c59bb"},"name":"The Hotel at Avalon, Autograph Collection","rating":4.5,"user_ratings_total":1034}
+{"_id":{"$oid":"5f99f92fc9949b7d4b5c59bc"},"name":"The Hotel Maison","rating":4.3,"user_ratings_total":116}
+{"_id":{"$oid":"5f99f931c9949b7d4b5c59bd"},"name":"Hampton Inn & Suites Seattle/Federal Way","rating":4.4,"user_ratings_total":504}
+{"_id":{"$oid":"5f99f934c9949b7d4b5c59be"},"name":"DoubleTree by Hilton Greeley at Lincoln Park","rating":4.4,"user_ratings_total":593}
+{"_id":{"$oid":"5f99f935c9949b7d4b5c59bf"},"name":"Hyatt Regency Huntington Beach Resort And Spa","rating":4.6,"user_ratings_total":3866}
+{"_id":{"$oid":"5f99f937c9949b7d4b5c59c0"},"name":"Sleepy Hollow Cabins & Hotel","rating":4.2,"user_ratings_total":190}
+{"_id":{"$oid":"5f99f938c9949b7d4b5c59c1"},"name":"Cocopah Resort & Conference Center","rating":4.1,"user_ratings_total":259}
+{"_id":{"$oid":"5f99f939c9949b7d4b5c59c2"},"name":"The Salem Inn","rating":4.4,"user_ratings_total":309}
+{"_id":{"$oid":"5f99f93bc9949b7d4b5c59c3"},"name":"The Centennial Hotel Spokane","rating":3.9,"user_ratings_total":2008}
+{"_id":{"$oid":"5f99f93ec9949b7d4b5c59c4"},"name":"Boardwalk Inn","rating":4.5,"user_ratings_total":673}
+{"_id":{"$oid":"5f99f93fc9949b7d4b5c59c5"},"name":"Best Western Plus West Lawrence","rating":4.6,"user_ratings_total":200}
+{"_id":{"$oid":"5f99f940c9949b7d4b5c59c6"},"name":"Carpinteria Beach Cottages","rating":4.6,"user_ratings_total":7}
+{"_id":{"$oid":"5f99f942c9949b7d4b5c59c7"},"name":"B Ocean Resort Fort Lauderdale","rating":3.9,"user_ratings_total":3227}
+{"_id":{"$oid":"5f99f943c9949b7d4b5c59c8"},"name":"Gaia Hotel & Spa Redding, Ascend Hotel Collection","rating":4,"user_ratings_total":698}
+{"_id":{"$oid":"5f99f944c9949b7d4b5c59c9"},"name":"Hotel Boulderado","rating":4.6,"user_ratings_total":1482}
+{"_id":{"$oid":"5f99f945c9949b7d4b5c59ca"},"name":"Macon Marriott City Center","rating":4,"user_ratings_total":1138}
+{"_id":{"$oid":"5f99f946c9949b7d4b5c59cb"},"name":"Boca Raton Resort and Club, A Waldorf Astoria Resort","rating":4.4,"user_ratings_total":2047}
+{"_id":{"$oid":"5f99f947c9949b7d4b5c59cc"},"name":"Sheraton Suites Fort Lauderdale Plantation","rating":4.3,"user_ratings_total":1292}
+{"_id":{"$oid":"5f99f948c9949b7d4b5c59cd"},"name":"Hilton Greenville","rating":4.5,"user_ratings_total":723}
+{"_id":{"$oid":"5f99f94ac9949b7d4b5c59ce"},"name":"Clarion Inn Seekonk-Providence","rating":4.3,"user_ratings_total":383}
+{"_id":{"$oid":"5f99f94bc9949b7d4b5c59cf"},"name":"Hotel Commonwealth","rating":4.5,"user_ratings_total":1206}
+{"_id":{"$oid":"5f99f94cc9949b7d4b5c59d0"},"name":"Best Western Paradise Hotel","rating":4.1,"user_ratings_total":141}
+{"_id":{"$oid":"5f99f94dc9949b7d4b5c59d1"},"name":"Waterfront Hotel","rating":4.2,"user_ratings_total":681}
+{"_id":{"$oid":"5f99f94fc9949b7d4b5c59d2"},"name":"The Gables at Stirling Guest Hotel","rating":4.8,"user_ratings_total":183}
+{"_id":{"$oid":"5f99f950c9949b7d4b5c59d3"},"name":"DoubleTree by Hilton Fort Smith City Center","rating":4.2,"user_ratings_total":1118}
+{"_id":{"$oid":"5f99f952c9949b7d4b5c59d4"},"name":"Residence Inn by Marriott San Diego North/San Marcos","rating":4.3,"user_ratings_total":391}
+{"_id":{"$oid":"5f99f955c9949b7d4b5c59d5"},"name":"Holiday Inn Tewksbury-Andover","rating":3.7,"user_ratings_total":764}
+{"_id":{"$oid":"5f99f957c9949b7d4b5c59d6"},"name":"Holiday Inn Nampa","rating":4.7,"user_ratings_total":307}
+{"_id":{"$oid":"5f99f958c9949b7d4b5c59d7"},"name":"Hotel Indigo Asheville Downtown","rating":4.4,"user_ratings_total":969}
+{"_id":{"$oid":"5f99f95ac9949b7d4b5c59d8"},"name":"Courtyard by Marriott Los Angeles LAX/Hawthorne","rating":4.4,"user_ratings_total":546}
+{"_id":{"$oid":"5f99f95bc9949b7d4b5c59d9"},"name":"Canal Park Lodge","rating":4.5,"user_ratings_total":749}
+{"_id":{"$oid":"5f99f95cc9949b7d4b5c59da"},"name":"Courtyard by Marriott Suffolk Chesapeake","rating":4.4,"user_ratings_total":370}
+{"_id":{"$oid":"5f99f95ec9949b7d4b5c59db"},"name":"DoubleTree by Hilton Hotel Sacramento","rating":4.1,"user_ratings_total":2428}
+{"_id":{"$oid":"5f99f95fc9949b7d4b5c59dc"},"name":"Ironworks Hotel Indy","rating":4.8,"user_ratings_total":566}
+{"_id":{"$oid":"5f99f960c9949b7d4b5c59dd"},"name":"Tru By Hilton Salt Lake City Midvale","rating":4.5,"user_ratings_total":135}
+{"_id":{"$oid":"5f99f963c9949b7d4b5c59de"},"name":"Best Western Luxury Inn","rating":4.1,"user_ratings_total":332}
+{"_id":{"$oid":"5f99f965c9949b7d4b5c59df"},"name":"The Inn at Bowman's Hill","rating":4.9,"user_ratings_total":120}
+{"_id":{"$oid":"5f99f966c9949b7d4b5c59e0"},"name":"Courtyard by Marriott Salt Lake City Layton","rating":4.3,"user_ratings_total":428}
+{"_id":{"$oid":"5f99f967c9949b7d4b5c59e1"},"name":"Radisson Blu Aqua Hotel, Chicago","rating":4.5,"user_ratings_total":1801}
+{"_id":{"$oid":"5f99f96ac9949b7d4b5c59e2"},"name":"Courtyard by Marriott DeLand Historic Downtown","rating":4.6,"user_ratings_total":168}
+{"_id":{"$oid":"5f99f96dc9949b7d4b5c59e3"},"name":"The Moran CITYCENTRE","rating":4.5,"user_ratings_total":1123}
+{"_id":{"$oid":"5f99f96fc9949b7d4b5c59e4"},"name":"The Grove Hotel","rating":4.4,"user_ratings_total":1778}
+{"_id":{"$oid":"5f99f970c9949b7d4b5c59e5"},"name":"La Quinta Resort & Club, A Waldorf Astoria Resort","rating":4.6,"user_ratings_total":2282}
+{"_id":{"$oid":"5f99f971c9949b7d4b5c59e6"},"name":"Hyatt Place Champaign/Urbana","rating":4.5,"user_ratings_total":789}
+{"_id":{"$oid":"5f99f972c9949b7d4b5c59e7"},"name":"Ponte Vineyard Inn","rating":4.7,"user_ratings_total":303}
+{"_id":{"$oid":"5f99f975c9949b7d4b5c59e8"},"name":"Hampton Inn & Suites Buena Park","rating":4.7,"user_ratings_total":161}
+{"_id":{"$oid":"5f99f976c9949b7d4b5c59e9"},"name":"Embassy Suites by Hilton St. Louis St. Charles","rating":4.4,"user_ratings_total":1551}
+{"_id":{"$oid":"5f99f977c9949b7d4b5c59ea"},"name":"Hotel Bellwether","rating":4.6,"user_ratings_total":771}
+{"_id":{"$oid":"5f99f978c9949b7d4b5c59eb"},"name":"Courtyard by Marriott Charlotte Concord","rating":4.3,"user_ratings_total":502}
+{"_id":{"$oid":"5f99f979c9949b7d4b5c59ec"},"name":"Ramada by Wyndham Sioux City","rating":2.7,"user_ratings_total":488}
+{"_id":{"$oid":"5f99f97bc9949b7d4b5c59ed"},"name":"Morongo Casino, Resort and Spa","rating":4.2,"user_ratings_total":22240}
+{"_id":{"$oid":"5f99f97cc9949b7d4b5c59ee"},"name":"Hilton Garden Inn Longview","rating":4.4,"user_ratings_total":520}
+{"_id":{"$oid":"5f99f97dc9949b7d4b5c59ef"},"name":"The Inn at St. John's","rating":4.7,"user_ratings_total":1883}
+{"_id":{"$oid":"5f99f97fc9949b7d4b5c59f0"},"name":"Riverhouse on the Deschutes","rating":4.4,"user_ratings_total":1398}
+{"_id":{"$oid":"5f99f981c9949b7d4b5c59f1"},"name":"Graduate Bloomington","rating":4.5,"user_ratings_total":198}
+{"_id":{"$oid":"5f99f984c9949b7d4b5c59f2"},"name":"Holiday Inn Express & Suites Chowchilla - Yosemite Park Area","rating":4.2,"user_ratings_total":378}
+{"_id":{"$oid":"5f99f986c9949b7d4b5c59f3"},"name":"Hotel Lucent","rating":4.4,"user_ratings_total":196}
+{"_id":{"$oid":"5f99f988c9949b7d4b5c59f4"},"name":"DoubleTree by Hilton Hotel Cleveland - Independence","rating":4,"user_ratings_total":1202}
+{"_id":{"$oid":"5f99f98ac9949b7d4b5c59f5"},"name":"Arthouse Hotel New York City","rating":4.2,"user_ratings_total":1258}
+{"_id":{"$oid":"5f99f98bc9949b7d4b5c59f6"},"name":"Hilton Garden Inn Merrillville","rating":4.3,"user_ratings_total":574}
+{"_id":{"$oid":"5f99f98ec9949b7d4b5c59f7"},"name":"Hyatt Place Bloomington/Normal","rating":4.5,"user_ratings_total":519}
+{"_id":{"$oid":"5f99f990c9949b7d4b5c59f8"},"name":"Gila River Hotels & Casinos - Vee Quiva","rating":4.1,"user_ratings_total":8154}
+{"_id":{"$oid":"5f99f991c9949b7d4b5c59f9"},"name":"Courtyard by Marriott Fayetteville","rating":4.4,"user_ratings_total":305}
+{"_id":{"$oid":"5f99f993c9949b7d4b5c59fa"},"name":"Pacific Edge Hotel","rating":4,"user_ratings_total":757}
+{"_id":{"$oid":"5f99f994c9949b7d4b5c59fb"},"name":"Hilton Garden Inn Palm Coast Town Center","rating":4.4,"user_ratings_total":544}
+{"_id":{"$oid":"5f99f99ac9949b7d4b5c59fc"},"name":"DoubleTree by Hilton Hotel Racine Harbourwalk","rating":4.2,"user_ratings_total":534}
+{"_id":{"$oid":"5f99f99cc9949b7d4b5c59fd"},"name":"Hilton Garden Inn Lynchburg","rating":4.2,"user_ratings_total":476}
+{"_id":{"$oid":"5f99f9a3c9949b7d4b5c59fe"},"name":"Vineyard Mansion & Carriage House Bed & Breakfast","rating":4.8,"user_ratings_total":37}
+{"_id":{"$oid":"5f99f9a4c9949b7d4b5c59ff"},"name":"Club Quarters Hotel, Philadelphia, Rittenhouse Square","rating":4,"user_ratings_total":1701}
+{"_id":{"$oid":"5f99f9a5c9949b7d4b5c5a00"},"name":"Tru By Hilton St. George","rating":4.4,"user_ratings_total":229}
+{"_id":{"$oid":"5f99f9a6c9949b7d4b5c5a01"},"name":"The Lodge at Columbia Point","rating":4.8,"user_ratings_total":454}
+{"_id":{"$oid":"5f99f9a8c9949b7d4b5c5a02"},"name":"Lithia Springs Resort - Oregon's Mineral Waters Retreat","rating":4.6,"user_ratings_total":390}
+{"_id":{"$oid":"5f99f9a9c9949b7d4b5c5a03"},"name":"Embassy Suites by Hilton Brea North Orange County","rating":4.4,"user_ratings_total":1256}
+{"_id":{"$oid":"5f99f9aac9949b7d4b5c5a04"},"name":"Claremont Club & Spa - A Fairmont Hotel","rating":4.5,"user_ratings_total":1602}
+{"_id":{"$oid":"5f99f9abc9949b7d4b5c5a05"},"name":"The Westin Chicago Northwest","rating":4.4,"user_ratings_total":1873}
+{"_id":{"$oid":"5f99f9acc9949b7d4b5c5a06"},"name":"Mohegan Sun Pocono","rating":4,"user_ratings_total":7425}
+{"_id":{"$oid":"5f99f9adc9949b7d4b5c5a07"},"name":"Hilton Garden Inn Houston-Baytown","rating":4.7,"user_ratings_total":231}
+{"_id":{"$oid":"5f99f9afc9949b7d4b5c5a08"},"name":"Radisson Plaza Hotel at Kalamazoo Center","rating":4.5,"user_ratings_total":2789}
+{"_id":{"$oid":"5f99f9b1c9949b7d4b5c5a09"},"name":"La Quinta Inn & Suites by Wyndham-Albany GA","rating":4.7,"user_ratings_total":18}
+{"_id":{"$oid":"5f99f9b2c9949b7d4b5c5a0a"},"name":"Aloft Rogers-Bentonville","rating":4.1,"user_ratings_total":467}
+{"_id":{"$oid":"5f99f9b5c9949b7d4b5c5a0b"},"name":"Seattle Airport Marriott","rating":4.2,"user_ratings_total":2083}
+{"_id":{"$oid":"5f99f9b6c9949b7d4b5c5a0c"},"name":"Holiday Inn & Suites Decatur-Forsyth","rating":4,"user_ratings_total":166}
+{"_id":{"$oid":"5f99f9b8c9949b7d4b5c5a0d"},"name":"Hilton Orrington/Evanston","rating":4.2,"user_ratings_total":909}
+{"_id":{"$oid":"5f99f9b9c9949b7d4b5c5a0e"},"name":"DoubleTree by Hilton Pleasanton at the Club","rating":4.3,"user_ratings_total":959}
+{"_id":{"$oid":"5f99f9bac9949b7d4b5c5a0f"},"name":"Tru by Hilton Easton","rating":4.8,"user_ratings_total":18}
+{"_id":{"$oid":"5f99f9bcc9949b7d4b5c5a10"},"name":"Golden Nugget Lake Charles Hotel & Casino","rating":4.4,"user_ratings_total":13960}
+{"_id":{"$oid":"5f99f9bfc9949b7d4b5c5a11"},"name":"Cobblestone Hotel & Suites - Appleton International Airport","rating":4.5,"user_ratings_total":57}
+{"_id":{"$oid":"5f99f9c3c9949b7d4b5c5a12"},"name":"Thunder Valley Casino Resort","rating":4.1,"user_ratings_total":12812}
+{"_id":{"$oid":"5f99f9c5c9949b7d4b5c5a13"},"name":"Gila River Hotels & Casinos - Vee Quiva","rating":4.1,"user_ratings_total":8140}
+{"_id":{"$oid":"5f99f9c6c9949b7d4b5c5a14"},"name":"Hyatt Place Canton","rating":4.4,"user_ratings_total":541}
+{"_id":{"$oid":"5f99f9c7c9949b7d4b5c5a15"},"name":"Holiday Inn Express & Suites Warner Robins North West","rating":4.3,"user_ratings_total":325}
+{"_id":{"$oid":"5f99f9c8c9949b7d4b5c5a16"},"name":"Springhill Suites by Marriott Hartford Cromwell","rating":4.6,"user_ratings_total":7}
+{"_id":{"$oid":"5f99f9cac9949b7d4b5c5a17"},"name":"Courtyard by Marriott Riverside UCR/Moreno Valley Area","rating":4.2,"user_ratings_total":629}
+{"_id":{"$oid":"5f99f9cac9949b7d4b5c5a18"},"name":"Country Inn & Suites by Radisson, Coralville, IA","rating":4.3,"user_ratings_total":459}
+{"_id":{"$oid":"5f99f9cdc9949b7d4b5c5a19"},"name":"Holiday Inn Express & Suites Paragould","rating":4.2,"user_ratings_total":236}
+{"_id":{"$oid":"5f99f9cdc9949b7d4b5c5a1a"},"name":"Hilton Wilmington/Christiana","rating":4.4,"user_ratings_total":1268}
+{"_id":{"$oid":"5f99f9cfc9949b7d4b5c5a1b"},"name":"Hotel Maya - a DoubleTree by Hilton","rating":4.4,"user_ratings_total":2176}
+{"_id":{"$oid":"5f99f9d1c9949b7d4b5c5a1c"},"name":"Best Western Plus Executive Inn & Suites","rating":3.9,"user_ratings_total":654}
+{"_id":{"$oid":"5f99f9d3c9949b7d4b5c5a1d"},"name":"Hilton Garden Inn Gastonia","rating":4.4,"user_ratings_total":171}
+{"_id":{"$oid":"5f99f9d4c9949b7d4b5c5a1e"},"name":"Hard Rock Hotel and Casino Biloxi","rating":4.3,"user_ratings_total":11661}
+{"_id":{"$oid":"5f99f9d5c9949b7d4b5c5a1f"},"name":"The Seagate Hotel & Spa","rating":4.5,"user_ratings_total":551}
+{"_id":{"$oid":"5f99f9d7c9949b7d4b5c5a20"},"name":"Hotel 32|32","rating":4,"user_ratings_total":572}
+{"_id":{"$oid":"5f99f9d9c9949b7d4b5c5a21"},"name":"Hotel Alex Johnson Rapid City, Curio Collection by Hilton","rating":4.4,"user_ratings_total":1363}
+{"_id":{"$oid":"5f99f9dac9949b7d4b5c5a22"},"name":"DoubleTree by Hilton Lafayette East","rating":4.6,"user_ratings_total":408}
+{"_id":{"$oid":"5f99f9dcc9949b7d4b5c5a23"},"name":"DoubleTree by Hilton Hotel Milwaukee - Brookfield","rating":4.1,"user_ratings_total":622}
+{"_id":{"$oid":"5f99f9dec9949b7d4b5c5a24"},"name":"Courtyard by Marriott Muncie at Horizon Convention Center","rating":4.5,"user_ratings_total":573}
+{"_id":{"$oid":"5f99f9dfc9949b7d4b5c5a25"},"name":"Stagecoach Inn","rating":4.2,"user_ratings_total":347}
+{"_id":{"$oid":"5f99f9e0c9949b7d4b5c5a26"},"name":"Eldorado Hotel & Spa","rating":4.3,"user_ratings_total":930}
+{"_id":{"$oid":"5f99f9e1c9949b7d4b5c5a27"},"name":"Houston Marriott Sugar Land","rating":4.4,"user_ratings_total":1307}
+{"_id":{"$oid":"5f99f9e5c9949b7d4b5c5a28"},"name":"DoubleTree by Hilton Hotel Missoula - Edgewater","rating":4.2,"user_ratings_total":763}
+{"_id":{"$oid":"5f99f9e6c9949b7d4b5c5a29"},"name":"The Ballantyne, a Luxury Collection Hotel, Charlotte","rating":4.7,"user_ratings_total":928}
+{"_id":{"$oid":"5f99f9e7c9949b7d4b5c5a2a"},"name":"Hilton Garden Inn Jacksonville","rating":4.4,"user_ratings_total":495}
+{"_id":{"$oid":"5f99f9e8c9949b7d4b5c5a2b"},"name":"Courtyard by Marriott Nashville Green Hills","rating":4.3,"user_ratings_total":450}
+{"_id":{"$oid":"5f99f9e9c9949b7d4b5c5a2c"},"name":"Little America Hotel","rating":4.5,"user_ratings_total":4302}
+{"_id":{"$oid":"5f99f9eac9949b7d4b5c5a2d"},"name":"Dallas/Fort Worth Marriott Hotel & Golf Club at Champions Circle","rating":4.3,"user_ratings_total":1114}
+{"_id":{"$oid":"5f99f9ecc9949b7d4b5c5a2e"},"name":"Isle Casino Hotel Waterloo","rating":3.8,"user_ratings_total":2837}
+{"_id":{"$oid":"5f99f9efc9949b7d4b5c5a2f"},"name":"Watt Hotel Rahway, Tapestry Collection by Hilton","rating":4.1,"user_ratings_total":418}
+{"_id":{"$oid":"5f99f9f0c9949b7d4b5c5a30"},"name":"Courtyard by Marriott Fort Myers Cape Coral","rating":4,"user_ratings_total":491}
+{"_id":{"$oid":"5f99f9f4c9949b7d4b5c5a31"},"name":"Fairfield Inn & Suites by Marriott Jackson","rating":4.6,"user_ratings_total":412}
+{"_id":{"$oid":"5f99f9f6c9949b7d4b5c5a32"},"name":"Hilton St. Louis Frontenac","rating":4.4,"user_ratings_total":1218}
+{"_id":{"$oid":"5f99f9f7c9949b7d4b5c5a33"},"name":"Magnolia Creek Lodge","rating":5,"user_ratings_total":80}
+{"_id":{"$oid":"5f99f9f8c9949b7d4b5c5a34"},"name":"Metropolis Resort & Conference Center","rating":4.1,"user_ratings_total":1082}
+{"_id":{"$oid":"5f99f9fbc9949b7d4b5c5a35"},"name":"Home2 Suites By Hilton Bismarck","rating":4.7,"user_ratings_total":82}
+{"_id":{"$oid":"5f99f9fcc9949b7d4b5c5a36"},"name":"TownePlace Suites by Marriott New Orleans Downtown/Canal Street","rating":4.3,"user_ratings_total":284}
+{"_id":{"$oid":"5f99f9fec9949b7d4b5c5a37"},"name":"DoubleTree by Hilton Neenah","rating":4,"user_ratings_total":443}
+{"_id":{"$oid":"5f99fa01c9949b7d4b5c5a38"},"name":"The Inn at Stone Manor","rating":4.9,"user_ratings_total":11}
+{"_id":{"$oid":"5f99fa03c9949b7d4b5c5a39"},"name":"Holiday Inn Express & Suites St. Cloud","rating":4.4,"user_ratings_total":468}
+{"_id":{"$oid":"5f99fa04c9949b7d4b5c5a3a"},"name":"Kimpton Sawyer Hotel","rating":4.5,"user_ratings_total":794}
+{"_id":{"$oid":"5f99fa05c9949b7d4b5c5a3b"},"name":"Pacifica Beach Hotel","rating":3.9,"user_ratings_total":617}
+{"_id":{"$oid":"5f99fa06c9949b7d4b5c5a3c"},"name":"Alouette Beach Resort","rating":4.2,"user_ratings_total":283}
+{"_id":{"$oid":"5f99fa08c9949b7d4b5c5a3d"},"name":"Little Rock Marriott","rating":4.4,"user_ratings_total":1941}
+{"_id":{"$oid":"5f99fa0ac9949b7d4b5c5a3e"},"name":"The Nest on Saratoga Lake","rating":4.4,"user_ratings_total":57}
+{"_id":{"$oid":"5f99fa0bc9949b7d4b5c5a3f"},"name":"Hyatt Regency Dulles","rating":4.2,"user_ratings_total":1699}
+{"_id":{"$oid":"5f99fa0cc9949b7d4b5c5a40"},"name":"Omni Viking Lakes Hotel","rating":4.8,"user_ratings_total":11}
+{"_id":{"$oid":"5f99fa0dc9949b7d4b5c5a41"},"name":"Hyatt Regency Bloomington - Minneapolis","rating":4.5,"user_ratings_total":1397}
+{"_id":{"$oid":"5f99fa0ec9949b7d4b5c5a42"},"name":"Country Inn & Suites by Radisson, Harlingen, TX","rating":4.4,"user_ratings_total":345}
+{"_id":{"$oid":"5f99fa0fc9949b7d4b5c5a43"},"name":"Hard Rock Hotel and Casino Sacramento","rating":3.8,"user_ratings_total":2888}
+{"_id":{"$oid":"5f99fa11c9949b7d4b5c5a44"},"name":"The Grand Resort","rating":4.6,"user_ratings_total":672}
+{"_id":{"$oid":"5f99fa13c9949b7d4b5c5a45"},"name":"Hilton Orlando","rating":4.5,"user_ratings_total":5656}
+{"_id":{"$oid":"5f99fa14c9949b7d4b5c5a46"},"name":"DoubleTree by Hilton Hotel Johnson City","rating":4.3,"user_ratings_total":765}
+{"_id":{"$oid":"5f99fa15c9949b7d4b5c5a47"},"name":"Hilton Garden Inn Victoria","rating":4.5,"user_ratings_total":392}
+{"_id":{"$oid":"5f99fa16c9949b7d4b5c5a48"},"name":"Monarch Beach Resort","rating":4.6,"user_ratings_total":1506}
+{"_id":{"$oid":"5f99fa1bc9949b7d4b5c5a49"},"name":"Best Western Gateway to the Keys","rating":4.2,"user_ratings_total":1403}
+{"_id":{"$oid":"5f99fa1ec9949b7d4b5c5a4a"},"name":"The Ritz-Carlton, Tysons Corner","rating":4.6,"user_ratings_total":1126}
+{"_id":{"$oid":"5f99fa1fc9949b7d4b5c5a4b"},"name":"Hotel Goodwin","rating":4.6,"user_ratings_total":74}
+{"_id":{"$oid":"5f99fa20c9949b7d4b5c5a4c"},"name":"An Enchanting Evening","rating":4.8,"user_ratings_total":121}
+{"_id":{"$oid":"5f99fa23c9949b7d4b5c5a4d"},"name":"DoubleTree by Hilton Hotel Cleveland - Westlake","rating":4,"user_ratings_total":1095}
+{"_id":{"$oid":"5f99fa24c9949b7d4b5c5a4e"},"name":"Hilton Stockton","rating":4.1,"user_ratings_total":869}
+{"_id":{"$oid":"5f99fa27c9949b7d4b5c5a4f"},"name":"Courtyard by Marriott New Braunfels River Village","rating":4.4,"user_ratings_total":735}
+{"_id":{"$oid":"5f99fa29c9949b7d4b5c5a50"},"name":"The Woodlands Resort","rating":4.5,"user_ratings_total":1748}
+{"_id":{"$oid":"5f99fa2ac9949b7d4b5c5a51"},"name":"Four Points by Sheraton Santa Cruz Scotts Valley","rating":4.2,"user_ratings_total":177}
+{"_id":{"$oid":"5f99fa2dc9949b7d4b5c5a52"},"name":"Tru by Hilton Cheyenne","rating":4,"user_ratings_total":553}
+{"_id":{"$oid":"5f99fa2ec9949b7d4b5c5a53"},"name":"Hard Rock Hotel Daytona Beach","rating":4.4,"user_ratings_total":2311}
+{"_id":{"$oid":"5f99fa2fc9949b7d4b5c5a54"},"name":"Aloft Cincinnati West Chester","rating":4.1,"user_ratings_total":77}
+{"_id":{"$oid":"5f99fa32c9949b7d4b5c5a55"},"name":"Hyatt Regency Boston Cambridge Hotel","rating":4.3,"user_ratings_total":1888}
+{"_id":{"$oid":"5f99fa34c9949b7d4b5c5a56"},"name":"Holiday Inn Express & Suites Rogers","rating":4.1,"user_ratings_total":310}
+{"_id":{"$oid":"5f99fa35c9949b7d4b5c5a57"},"name":"Holiday Inn Express & Suites Ames","rating":4.3,"user_ratings_total":263}
+{"_id":{"$oid":"5f99fa36c9949b7d4b5c5a58"},"name":"Homewood Suites By Hilton New Hartford Utica","rating":4.7,"user_ratings_total":230}
+{"_id":{"$oid":"5f99fa39c9949b7d4b5c5a59"},"name":"Omni La Costa Resort & Spa","rating":4.5,"user_ratings_total":2334}
+{"_id":{"$oid":"5f99fa3ac9949b7d4b5c5a5a"},"name":"The Westin Detroit Metropolitan Airport","rating":4.3,"user_ratings_total":862}
+{"_id":{"$oid":"5f99fa3ec9949b7d4b5c5a5b"},"name":"Fairfield Inn & Suites by Marriott Des Moines West","rating":4.4,"user_ratings_total":437}
+{"_id":{"$oid":"5f99fa40c9949b7d4b5c5a5c"},"name":"Hampton Inn & Suites Vineland","rating":4.3,"user_ratings_total":502}
+{"_id":{"$oid":"5f99fa41c9949b7d4b5c5a5d"},"name":"Hilton Los Angeles/San Gabriel","rating":4.3,"user_ratings_total":1422}
+{"_id":{"$oid":"5f99fa42c9949b7d4b5c5a5e"},"name":"Home2 Suites By Hilton Terre Haute","rating":4.4,"user_ratings_total":157}
+{"_id":{"$oid":"5f99fa43c9949b7d4b5c5a5f"},"name":"Courtyard by Marriott Greenville Downtown","rating":4.5,"user_ratings_total":513}
+{"_id":{"$oid":"5f99fa49c9949b7d4b5c5a60"},"name":"The Marquette Hotel, Curio Collection by Hilton","rating":4.4,"user_ratings_total":1182}
+{"_id":{"$oid":"5f99fa4dc9949b7d4b5c5a61"},"name":"Tru by Hilton Bowling Green","rating":4.3,"user_ratings_total":257}
+{"_id":{"$oid":"5f99fa4fc9949b7d4b5c5a62"},"name":"Days Inn & Suites by Wyndham Roseville/Detroit Area","rating":3.4,"user_ratings_total":751}
+{"_id":{"$oid":"5f99fa50c9949b7d4b5c5a63"},"name":"21c Museum Hotel Bentonville","rating":4.7,"user_ratings_total":814}
+{"_id":{"$oid":"5f99fa51c9949b7d4b5c5a64"},"name":"Torrance Marriott Redondo Beach","rating":4.3,"user_ratings_total":1673}
+{"_id":{"$oid":"5f99fa54c9949b7d4b5c5a65"},"name":"Wine Country Inn","rating":4.6,"user_ratings_total":478}
+{"_id":{"$oid":"5f99fa55c9949b7d4b5c5a66"},"name":"Arden Acres","rating":4.1,"user_ratings_total":176}
+{"_id":{"$oid":"5f99fa57c9949b7d4b5c5a67"},"name":"Casper C'mon Inn","rating":4.6,"user_ratings_total":772}
+{"_id":{"$oid":"5f99fa5cc9949b7d4b5c5a68"},"name":"Country Inn & Suites by Radisson, Springfield, OH","rating":4.3,"user_ratings_total":271}
+{"_id":{"$oid":"5f99fa5dc9949b7d4b5c5a69"},"name":"Best Western Plus Riverfront Hotel and Suites","rating":4.1,"user_ratings_total":25}
+{"_id":{"$oid":"5f99fa5ec9949b7d4b5c5a6a"},"name":"The Wilbur Lititz, Tapestry Collection by Hilton","rating":4.7,"user_ratings_total":62}
+{"_id":{"$oid":"5f99fa5fc9949b7d4b5c5a6b"},"name":"PG Waterfront Hotel & Suites","rating":3.8,"user_ratings_total":1151}
+{"_id":{"$oid":"5f99fa61c9949b7d4b5c5a6c"},"name":"Newport Beachside Hotel & Resort","rating":3.7,"user_ratings_total":5572}
+{"_id":{"$oid":"5f99fa63c9949b7d4b5c5a6d"},"name":"Aloft Atlanta at The Battery Atlanta","rating":3.6,"user_ratings_total":15}
+{"_id":{"$oid":"5f99fa64c9949b7d4b5c5a6e"},"name":"The Clancy, Autograph Collection","rating":5,"user_ratings_total":4}
+{"_id":{"$oid":"5f99fa65c9949b7d4b5c5a6f"},"name":"The Townsend Hotel","rating":4.6,"user_ratings_total":855}
+{"_id":{"$oid":"5f99fa66c9949b7d4b5c5a70"},"name":"Sybaris Northbrook","rating":4.7,"user_ratings_total":1241}
+{"_id":{"$oid":"5f99fa67c9949b7d4b5c5a71"},"name":"Arts District Firehouse Hotel","rating":4.4,"user_ratings_total":71}
+{"_id":{"$oid":"5f99fa68c9949b7d4b5c5a72"},"name":"Mystic Lake Casino Hotel","rating":4.1,"user_ratings_total":17239}
+{"_id":{"$oid":"5f99fa69c9949b7d4b5c5a73"},"name":"The Hotel at Auburn University & Dixon Conference Center","rating":4.6,"user_ratings_total":808}
+{"_id":{"$oid":"5f99fa6bc9949b7d4b5c5a74"},"name":"TownePlace Suites by Marriott Owensboro","rating":4.5,"user_ratings_total":75}
+{"_id":{"$oid":"5f99fa6cc9949b7d4b5c5a75"},"name":"Jupiter Beach Resort & Spa","rating":4.5,"user_ratings_total":1243}
+{"_id":{"$oid":"5f99fa6dc9949b7d4b5c5a76"},"name":"Hilton Garden Inn Idaho Falls","rating":4.4,"user_ratings_total":817}
+{"_id":{"$oid":"5f99fa6fc9949b7d4b5c5a77"},"name":"Hotel Julien Dubuque","rating":4.5,"user_ratings_total":1217}
+{"_id":{"$oid":"5f99fa71c9949b7d4b5c5a78"},"name":"Delta Hotels by Marriott Chicago Willowbrook","rating":4.6,"user_ratings_total":11}
+{"_id":{"$oid":"5f99fa72c9949b7d4b5c5a79"},"name":"Baymont by Wyndham Memphis East","rating":3.5,"user_ratings_total":484}
+{"_id":{"$oid":"5f99fa74c9949b7d4b5c5a7a"},"name":"Delamar Greenwich Harbor","rating":4.6,"user_ratings_total":420}
+{"_id":{"$oid":"5f99fa75c9949b7d4b5c5a7b"},"name":"Willows Lodge","rating":4.7,"user_ratings_total":1162}
+{"_id":{"$oid":"5f99fa78c9949b7d4b5c5a7c"},"name":"Hilton Ocala","rating":4.3,"user_ratings_total":1323}
+{"_id":{"$oid":"5f99fa7ac9949b7d4b5c5a7d"},"name":"Hard Rock Hotel Daytona Beach","rating":4.4,"user_ratings_total":2320}
+{"_id":{"$oid":"5f99fa7cc9949b7d4b5c5a7e"},"name":"Four Points by Sheraton Detroit Novi","rating":3.9,"user_ratings_total":364}
+{"_id":{"$oid":"5f99fa7dc9949b7d4b5c5a7f"},"name":"Hilton Boston Downtown/Faneuil Hall","rating":4.3,"user_ratings_total":1477}
+{"_id":{"$oid":"5f99fa80c9949b7d4b5c5a80"},"name":"Homewood Suites by Hilton Rocky Mount","rating":4.6,"user_ratings_total":301}
+{"_id":{"$oid":"5f99fa80c9949b7d4b5c5a81"},"name":"Hampton Inn & Suites Kokomo","rating":4.4,"user_ratings_total":421}
+{"_id":{"$oid":"5f99fa82c9949b7d4b5c5a82"},"name":"Sheraton College Park North Hotel","rating":3.9,"user_ratings_total":936}
+{"_id":{"$oid":"5f99fa85c9949b7d4b5c5a83"},"name":"SpringHill Suites by Marriott Phoenix Goodyear","rating":4.3,"user_ratings_total":12}
+{"_id":{"$oid":"5f99fa89c9949b7d4b5c5a84"},"name":"Pacific Palms Resort","rating":4.4,"user_ratings_total":2648}
+{"_id":{"$oid":"5f99fa8ac9949b7d4b5c5a85"},"name":"Hampton Inn & Suites Valdosta/Conference Center","rating":4.3,"user_ratings_total":1002}
+{"_id":{"$oid":"5f99fa8cc9949b7d4b5c5a86"},"name":"Courtyard by Marriott Boston Foxborough/Mansfield","rating":4.2,"user_ratings_total":373}
+{"_id":{"$oid":"5f99fa8dc9949b7d4b5c5a87"},"name":"The Westin Lake Mary, Orlando North","rating":4.4,"user_ratings_total":1352}
+{"_id":{"$oid":"5f99fa8ec9949b7d4b5c5a88"},"name":"Barona Resort & Casino","rating":4.4,"user_ratings_total":11951}
+{"_id":{"$oid":"5f99fa90c9949b7d4b5c5a89"},"name":"Hilton East Brunswick Hotel & Executive Meeting Center","rating":4.1,"user_ratings_total":1773}
+{"_id":{"$oid":"5f99fa91c9949b7d4b5c5a8a"},"name":"DoubleTree by Hilton Hotel Decatur Riverfront","rating":4.3,"user_ratings_total":956}
+{"_id":{"$oid":"5f99fa93c9949b7d4b5c5a8b"},"name":"The Hotel Northampton","rating":4.3,"user_ratings_total":683}
+{"_id":{"$oid":"5f99fa94c9949b7d4b5c5a8c"},"name":"Nobu Hotel Chicago","rating":4.4,"user_ratings_total":44}
+{"_id":{"$oid":"5f99fa97c9949b7d4b5c5a8d"},"name":"ALLEGRIA HOTEL","rating":4,"user_ratings_total":1481}
+{"_id":{"$oid":"5f99fa98c9949b7d4b5c5a8e"},"name":"Cambria Hotel Noblesville Indianapolis","rating":4.6,"user_ratings_total":719}
+{"_id":{"$oid":"5f99fa99c9949b7d4b5c5a8f"},"name":"Bluemont Hotel","rating":4.6,"user_ratings_total":872}
+{"_id":{"$oid":"5f99fa9ac9949b7d4b5c5a90"},"name":"Holiday Inn Express Corvallis-on the River","rating":4.3,"user_ratings_total":341}
+{"_id":{"$oid":"5f99fa9cc9949b7d4b5c5a91"},"name":"Holiday Inn Express & Suites Porterville","rating":4.4,"user_ratings_total":251}
+{"_id":{"$oid":"5f99fa9dc9949b7d4b5c5a92"},"name":"Homewood Suites by Hilton Orange New Haven","rating":4.3,"user_ratings_total":61}
+{"_id":{"$oid":"5f99fa9ec9949b7d4b5c5a93"},"name":"Hampton Inn Tracy","rating":4.1,"user_ratings_total":184}
+{"_id":{"$oid":"5f99faa0c9949b7d4b5c5a94"},"name":"Hilton St. Louis Frontenac","rating":4.4,"user_ratings_total":1215}
+{"_id":{"$oid":"5f99faa1c9949b7d4b5c5a95"},"name":"The Woodmark Hotel","rating":4.6,"user_ratings_total":1011}
+{"_id":{"$oid":"5f99faa2c9949b7d4b5c5a96"},"name":"C'mon Inn Hotel & Suites","rating":4.3,"user_ratings_total":380}
+{"_id":{"$oid":"5f99faa3c9949b7d4b5c5a97"},"name":"Hyatt Place Austin/Round Rock","rating":4.6,"user_ratings_total":569}
+{"_id":{"$oid":"5f99faa6c9949b7d4b5c5a98"},"name":"Tachi Palace Casino Resort","rating":4.2,"user_ratings_total":9405}
+{"_id":{"$oid":"5f99faa9c9949b7d4b5c5a99"},"name":"Black Swan Inn","rating":4.7,"user_ratings_total":282}
+{"_id":{"$oid":"5f99faaac9949b7d4b5c5a9a"},"name":"East Brother Light Station","rating":4.9,"user_ratings_total":56}
+{"_id":{"$oid":"5f99faacc9949b7d4b5c5a9b"},"name":"Hyatt Regency Lake Tahoe Resort, Spa And Casino","rating":4.5,"user_ratings_total":1993}
+{"_id":{"$oid":"5f99faaec9949b7d4b5c5a9c"},"name":"Sage Hill Inn & Spa","rating":4.8,"user_ratings_total":185}
+{"_id":{"$oid":"5f99fab0c9949b7d4b5c5a9d"},"name":"DoubleTree by Hilton Hotel Cleveland - Westlake","rating":4,"user_ratings_total":1093}
+{"_id":{"$oid":"5f99fab6c9949b7d4b5c5a9e"},"name":"The Westin Sarasota","rating":4.5,"user_ratings_total":1359}
+{"_id":{"$oid":"5f99fab7c9949b7d4b5c5a9f"},"name":"SureStay Plus Hotel by Best Western Kansas City Northeast","rating":3.3,"user_ratings_total":542}
+{"_id":{"$oid":"5f99fabbc9949b7d4b5c5aa0"},"name":"Home2 Suites by Hilton Bedford DFW West","rating":4.5,"user_ratings_total":98}
+{"_id":{"$oid":"5f99fabcc9949b7d4b5c5aa1"},"name":"Appalachian Mountain Cabins","rating":4.9,"user_ratings_total":24}
+{"_id":{"$oid":"5f99fabdc9949b7d4b5c5aa2"},"name":"The Ritz-Carlton, Rancho Mirage","rating":4.7,"user_ratings_total":977}
+{"_id":{"$oid":"5f99fabec9949b7d4b5c5aa3"},"name":"The Laszlo Hotel","rating":4.3,"user_ratings_total":70}
+{"_id":{"$oid":"5f99fabfc9949b7d4b5c5aa4"},"name":"The Nautical Beachfront Resort","rating":4.1,"user_ratings_total":954}
+{"_id":{"$oid":"5f99fac0c9949b7d4b5c5aa5"},"name":"Holiday Inn Resort Pensacola Beach Gulf Front","rating":4.5,"user_ratings_total":1927}
+{"_id":{"$oid":"5f99fac2c9949b7d4b5c5aa6"},"name":"Bear Springs Hotel","rating":4.6,"user_ratings_total":379}
+{"_id":{"$oid":"5f99fac3c9949b7d4b5c5aa7"},"name":"Rosewood CordeValle","rating":4.8,"user_ratings_total":335}
+{"_id":{"$oid":"5f99fac4c9949b7d4b5c5aa8"},"name":"Hyatt Place Delano","rating":4.4,"user_ratings_total":308}
+{"_id":{"$oid":"5f99fac6c9949b7d4b5c5aa9"},"name":"Fullerton Marriott at California State University","rating":4.2,"user_ratings_total":758}
+{"_id":{"$oid":"5f99fac8c9949b7d4b5c5aaa"},"name":"DoubleTree by Hilton Hotel St. Louis - Westport","rating":4.2,"user_ratings_total":1357}
+{"_id":{"$oid":"5f99facac9949b7d4b5c5aab"},"name":"Ambiance","rating":4.4,"user_ratings_total":442}
+{"_id":{"$oid":"5f99facdc9949b7d4b5c5aac"},"name":"Home2 Suites by Hilton Battle Creek","rating":3.9,"user_ratings_total":18}
+{"_id":{"$oid":"5f99facfc9949b7d4b5c5aad"},"name":"Hampton Inn Morgan Hill","rating":4.4,"user_ratings_total":405}
+{"_id":{"$oid":"5f99fad1c9949b7d4b5c5aae"},"name":"La Quinta by Wyndham Altoona Des Moines","rating":4.5,"user_ratings_total":128}
+{"_id":{"$oid":"5f99fad2c9949b7d4b5c5aaf"},"name":"Best Western Premier Boulder Falls Inn","rating":4.7,"user_ratings_total":959}
+{"_id":{"$oid":"5f99fad3c9949b7d4b5c5ab0"},"name":"The Inn at Elon","rating":4.4,"user_ratings_total":13}
+{"_id":{"$oid":"5f99fad4c9949b7d4b5c5ab1"},"name":"The Charmant Hotel","rating":4.6,"user_ratings_total":1144}
+{"_id":{"$oid":"5f99fad6c9949b7d4b5c5ab2"},"name":"The Statler Dallas, Curio Collection by Hilton","rating":4.4,"user_ratings_total":1646}
+{"_id":{"$oid":"5f99fad7c9949b7d4b5c5ab3"},"name":"Zota Beach Resort","rating":4.4,"user_ratings_total":739}
+{"_id":{"$oid":"5f99fad9c9949b7d4b5c5ab4"},"name":"DoubleTree by Hilton Harrisonburg","rating":4.1,"user_ratings_total":607}
+{"_id":{"$oid":"5f99fadbc9949b7d4b5c5ab5"},"name":"Charleston Marriott Town Center","rating":4.2,"user_ratings_total":1131}
+{"_id":{"$oid":"5f99fadcc9949b7d4b5c5ab6"},"name":"Guest House at Graceland","rating":4.4,"user_ratings_total":2894}
+{"_id":{"$oid":"5f99faddc9949b7d4b5c5ab7"},"name":"Precious Moments Hotel","rating":4.3,"user_ratings_total":359}
+{"_id":{"$oid":"5f99fadfc9949b7d4b5c5ab8"},"name":"The Breakers Palm Beach","rating":4.8,"user_ratings_total":3656}
+{"_id":{"$oid":"5f99fadfc9949b7d4b5c5ab9"},"name":"Ramada by Wyndham Enid","rating":3.8,"user_ratings_total":327}
+{"_id":{"$oid":"5f99fae0c9949b7d4b5c5aba"},"name":"Hilton East Brunswick Hotel & Executive Meeting Center","rating":4.1,"user_ratings_total":1774}
+{"_id":{"$oid":"5f99fae4c9949b7d4b5c5abb"},"name":"Tru by Hilton Elkhart","rating":4.7,"user_ratings_total":50}
+{"_id":{"$oid":"5f99fae6c9949b7d4b5c5abc"},"name":"Holiday Inn Express & Suites Grand Island","rating":4.4,"user_ratings_total":299}
+{"_id":{"$oid":"5f99fae7c9949b7d4b5c5abd"},"name":"Courtyard by Marriott Kansas City Overland Park/Convention Center","rating":4.3,"user_ratings_total":569}
+{"_id":{"$oid":"5f99fae8c9949b7d4b5c5abe"},"name":"DoubleTree by Hilton Hotel Bay City - Riverfront","rating":4.5,"user_ratings_total":1278}
+{"_id":{"$oid":"5f99faecc9949b7d4b5c5abf"},"name":"The Monkey Tree Hotel","rating":4.6,"user_ratings_total":69}
+{"_id":{"$oid":"5f99faf1c9949b7d4b5c5ac0"},"name":"Hilton Bellevue","rating":4.2,"user_ratings_total":1809}
+{"_id":{"$oid":"5f99faf2c9949b7d4b5c5ac1"},"name":"Holiday Inn Casa Grande","rating":4,"user_ratings_total":661}
+{"_id":{"$oid":"5f99faf7c9949b7d4b5c5ac2"},"name":"The Queen Mary","rating":4.3,"user_ratings_total":21227}
+{"_id":{"$oid":"5f99faf8c9949b7d4b5c5ac3"},"name":"Sybaris Downers Grove","rating":4.3,"user_ratings_total":367}
+{"_id":{"$oid":"5f99fafbc9949b7d4b5c5ac4"},"name":"Comfort Suites Wilson I-95","rating":4.3,"user_ratings_total":472}
+{"_id":{"$oid":"5f99fafcc9949b7d4b5c5ac5"},"name":"Hilton Niagara Falls/Fallsview Hotel & Suites","rating":4.1,"user_ratings_total":8604}
+{"_id":{"$oid":"5f99fafdc9949b7d4b5c5ac6"},"name":"Lakehouse Hotel and Golf Resort","rating":4.5,"user_ratings_total":1035}
+{"_id":{"$oid":"5f99fafec9949b7d4b5c5ac7"},"name":"Hyatt Regency Lake Washington At Seattle's Southport","rating":4.5,"user_ratings_total":1713}
+{"_id":{"$oid":"5f99faffc9949b7d4b5c5ac8"},"name":"Hilton Garden Inn West Monroe","rating":4.2,"user_ratings_total":497}
+{"_id":{"$oid":"5f99fb02c9949b7d4b5c5ac9"},"name":"Fairfield Inn & Suites by Marriott Harrisburg International Airport","rating":4.5,"user_ratings_total":201}
+{"_id":{"$oid":"5f99fb03c9949b7d4b5c5aca"},"name":"Comfort Suites Hartville-North Canton","rating":4.8,"user_ratings_total":362}
+{"_id":{"$oid":"5f99fb04c9949b7d4b5c5acb"},"name":"DoubleTree by Hilton Huntington","rating":4.2,"user_ratings_total":175}
+{"_id":{"$oid":"5f99fb06c9949b7d4b5c5acc"},"name":"Knott's Berry Farm Hotel","rating":4.2,"user_ratings_total":2876}
+{"_id":{"$oid":"5f99fb08c9949b7d4b5c5acd"},"name":"Camelot Inn at Honeyville","rating":3.7,"user_ratings_total":48}
+{"_id":{"$oid":"5f99fb09c9949b7d4b5c5ace"},"name":"Hotel Galvez and Spa","rating":4.4,"user_ratings_total":2773}
+{"_id":{"$oid":"5f99fb0ac9949b7d4b5c5acf"},"name":"Holiday Inn Express & Suites Dayton South - I-675","rating":4.5,"user_ratings_total":553}
+{"_id":{"$oid":"5f99fb0bc9949b7d4b5c5ad0"},"name":"Blue Harbor Resort","rating":4.4,"user_ratings_total":2385}
+{"_id":{"$oid":"5f99fb0cc9949b7d4b5c5ad1"},"name":"Comfort Suites","rating":4,"user_ratings_total":634}
+{"_id":{"$oid":"5f99fb0dc9949b7d4b5c5ad2"},"name":"The Grand America Hotel","rating":4.7,"user_ratings_total":5231}
+{"_id":{"$oid":"5f99fb12c9949b7d4b5c5ad3"},"name":"The Hotel Bentley of Alexandria","rating":4.4,"user_ratings_total":447}
+{"_id":{"$oid":"5f99fb13c9949b7d4b5c5ad4"},"name":"Radisson Hotel Nashua","rating":4,"user_ratings_total":1207}
+{"_id":{"$oid":"5f99fb15c9949b7d4b5c5ad5"},"name":"Hotel RL Olympia","rating":4,"user_ratings_total":1599}
+{"_id":{"$oid":"5f99fb17c9949b7d4b5c5ad6"},"name":"Hilton Garden Inn Salina","rating":4.5,"user_ratings_total":376}
+{"_id":{"$oid":"5f99fb18c9949b7d4b5c5ad7"},"name":"Hyatt Regency Cleveland At The Arcade","rating":4.4,"user_ratings_total":1693}
+{"_id":{"$oid":"5f99fb1bc9949b7d4b5c5ad8"},"name":"The Wildwood Hotel","rating":4.2,"user_ratings_total":869}
+{"_id":{"$oid":"5f99fb1dc9949b7d4b5c5ad9"},"name":"DoubleTree by Hilton Hotel Sterling - Dulles Airport","rating":4.2,"user_ratings_total":743}
+{"_id":{"$oid":"5f99fb1ec9949b7d4b5c5ada"},"name":"Granville Inn","rating":4.4,"user_ratings_total":431}
+{"_id":{"$oid":"5f99fb1fc9949b7d4b5c5adb"},"name":"Best Western Premier University Inn","rating":4.5,"user_ratings_total":519}
+{"_id":{"$oid":"5f99fb22c9949b7d4b5c5adc"},"name":"Embassy Suites by Hilton Fort Myers Estero","rating":4.5,"user_ratings_total":751}
+{"_id":{"$oid":"5f99fb25c9949b7d4b5c5add"},"name":"NYLO Providence Warwick Hotel, Tapestry Collection by Hilton","rating":4.1,"user_ratings_total":1288}
+{"_id":{"$oid":"5f99fb28c9949b7d4b5c5ade"},"name":"Holiday Inn Express & Suites Painesville - Concord","rating":4.6,"user_ratings_total":133}
+{"_id":{"$oid":"5f99fb29c9949b7d4b5c5adf"},"name":"GLo Best Western DeSoto Dallas","rating":4.3,"user_ratings_total":314}
+{"_id":{"$oid":"5f99fb2cc9949b7d4b5c5ae0"},"name":"Tru by Hilton Vestal","rating":4.6,"user_ratings_total":27}
+{"_id":{"$oid":"5f99fb2dc9949b7d4b5c5ae1"},"name":"The Coeur d'Alene Resort","rating":4.5,"user_ratings_total":4932}
+{"_id":{"$oid":"5f99fb2ec9949b7d4b5c5ae2"},"name":"Hampton Inn & Suites Ashland","rating":4.5,"user_ratings_total":306}
+{"_id":{"$oid":"5f99fb2fc9949b7d4b5c5ae3"},"name":"Holiday Inn Express & Suites Minot","rating":4.4,"user_ratings_total":166}
+{"_id":{"$oid":"5f99fb30c9949b7d4b5c5ae4"},"name":"The Cliffs Hotel and Spa","rating":4.5,"user_ratings_total":1280}
+{"_id":{"$oid":"5f99fb31c9949b7d4b5c5ae5"},"name":"The Lautner Compound","rating":4.6,"user_ratings_total":47}
+{"_id":{"$oid":"5f99fb32c9949b7d4b5c5ae6"},"name":"Best Western Presidential Hotel & Suites","rating":4,"user_ratings_total":169}
+{"_id":{"$oid":"5f99fb35c9949b7d4b5c5ae7"},"name":"TownePlace Suites by Marriott Twin Falls","rating":4.6,"user_ratings_total":56}
+{"_id":{"$oid":"5f99fb37c9949b7d4b5c5ae8"},"name":"DoubleTree by Hilton Hotel & Suites Charleston Airport","rating":4.3,"user_ratings_total":804}
+{"_id":{"$oid":"5f99fb38c9949b7d4b5c5ae9"},"name":"SpringHill Suites by Marriott Stillwater","rating":4.1,"user_ratings_total":49}
+{"_id":{"$oid":"5f99fb3ac9949b7d4b5c5aea"},"name":"Holiday Inn & Suites Memphis - Wolfchase Galleria","rating":4.4,"user_ratings_total":561}
+{"_id":{"$oid":"5f99fb3cc9949b7d4b5c5aeb"},"name":"Fairfield Inn & Suites by Marriott Altoona","rating":4.6,"user_ratings_total":362}
+{"_id":{"$oid":"5f99fb3dc9949b7d4b5c5aec"},"name":"Hotel Indigo Columbus Architectural Center","rating":4.5,"user_ratings_total":647}
+{"_id":{"$oid":"5f99fb3ec9949b7d4b5c5aed"},"name":"DoubleTree Suites by Hilton Hotel Dayton - Miamisburg","rating":4.1,"user_ratings_total":546}
+{"_id":{"$oid":"5f99fb3fc9949b7d4b5c5aee"},"name":"Key West Resort on Lake Dora - Tavares","rating":4.1,"user_ratings_total":307}
+{"_id":{"$oid":"5f99fb40c9949b7d4b5c5aef"},"name":"Sybaris Northbrook","rating":4.7,"user_ratings_total":1243}
+{"_id":{"$oid":"5f99fb44c9949b7d4b5c5af0"},"name":"Tombstone Monument Guest Ranch","rating":4.8,"user_ratings_total":272}
+{"_id":{"$oid":"5f99fb46c9949b7d4b5c5af1"},"name":"Margaritaville Resort Biloxi","rating":4.2,"user_ratings_total":5802}
+{"_id":{"$oid":"5f99fb47c9949b7d4b5c5af2"},"name":"Harrah's Ak-Chin","rating":4.2,"user_ratings_total":7549}
+{"_id":{"$oid":"5f99fb4ac9949b7d4b5c5af3"},"name":"Kokopelli's Cave","rating":4.6,"user_ratings_total":22}
+{"_id":{"$oid":"5f99fb4cc9949b7d4b5c5af4"},"name":"Hyannis Harbor Hotel","rating":3.9,"user_ratings_total":476}
+{"_id":{"$oid":"5f99fb4fc9949b7d4b5c5af5"},"name":"TownePlace Suites by Marriott Titusville Kennedy Space Center","rating":4.6,"user_ratings_total":168}
+{"_id":{"$oid":"5f99fb52c9949b7d4b5c5af6"},"name":"Hyatt Centric Mountain View","rating":4.7,"user_ratings_total":116}
+{"_id":{"$oid":"5f99fb53c9949b7d4b5c5af7"},"name":"Miraval Berkshires Resort & Spa","rating":4.3,"user_ratings_total":14}
+{"_id":{"$oid":"5f99fb54c9949b7d4b5c5af8"},"name":"Tiny Estates","rating":4.3,"user_ratings_total":147}
+{"_id":{"$oid":"5f99fb57c9949b7d4b5c5af9"},"name":"Staybridge Suites Charlottesville Airport","rating":4.5,"user_ratings_total":64}
+{"_id":{"$oid":"5f99fb59c9949b7d4b5c5afa"},"name":"Hampton Inn - DeKalb (Near the University)","rating":4.5,"user_ratings_total":337}
+{"_id":{"$oid":"5f99fb5ac9949b7d4b5c5afb"},"name":"Hyatt Place Blacksburg/University","rating":4.7,"user_ratings_total":481}
+{"_id":{"$oid":"5f99fb5bc9949b7d4b5c5afc"},"name":"AC Hotel by Marriott Columbus Dublin","rating":4.6,"user_ratings_total":779}
+{"_id":{"$oid":"5f99fb5dc9949b7d4b5c5afd"},"name":"The Imperial Palms Hotel & Resort","rating":4.2,"user_ratings_total":86}
+{"_id":{"$oid":"5f99fb60c9949b7d4b5c5afe"},"name":"Capitol Plaza Hotel and Convention Center","rating":3.7,"user_ratings_total":1081}
+{"_id":{"$oid":"5f99fb64c9949b7d4b5c5aff"},"name":"Skyview Los Alamos","rating":4.5,"user_ratings_total":128}
+{"_id":{"$oid":"5f99fb65c9949b7d4b5c5b00"},"name":"Hilton Garden Inn Foxborough Patriot Place","rating":4.5,"user_ratings_total":302}
+{"_id":{"$oid":"5f99fb68c9949b7d4b5c5b01"},"name":"Embassy Suites by Hilton La Quinta Hotel & Spa","rating":4.5,"user_ratings_total":595}
+{"_id":{"$oid":"5f99fb6bc9949b7d4b5c5b02"},"name":"Courtyard by Marriott Nashville Mount Juliet","rating":4.5,"user_ratings_total":504}
+{"_id":{"$oid":"5f99fb6cc9949b7d4b5c5b03"},"name":"Hotel Retlaw, Trademark Collection by Wyndham","rating":4.4,"user_ratings_total":206}
+{"_id":{"$oid":"5f99fb6dc9949b7d4b5c5b04"},"name":"Courtyard by Marriott Danville","rating":4.1,"user_ratings_total":281}
+{"_id":{"$oid":"5f99fb70c9949b7d4b5c5b05"},"name":"Hutchinson Island Plaza Hotel & Suites","rating":4.3,"user_ratings_total":484}
+{"_id":{"$oid":"5f99fb71c9949b7d4b5c5b06"},"name":"Hyatt Regency St. Louis At The Arch","rating":4.4,"user_ratings_total":4826}
+{"_id":{"$oid":"5f99fb72c9949b7d4b5c5b07"},"name":"The Wayfarer Downtown Los Angeles","rating":4.2,"user_ratings_total":36}
+{"_id":{"$oid":"5f99fb74c9949b7d4b5c5b08"},"name":"ROYAL BEACH PALACE HOTEL","rating":3.8,"user_ratings_total":1507}
+{"_id":{"$oid":"5f99fb76c9949b7d4b5c5b09"},"name":"The Centennial Hotel","rating":4.3,"user_ratings_total":246}
+{"_id":{"$oid":"5f99fb79c9949b7d4b5c5b0a"},"name":"Beach House - Half Moon Bay","rating":4.6,"user_ratings_total":542}
+{"_id":{"$oid":"5f99fb7ac9949b7d4b5c5b0b"},"name":"Fairfield Inn & Suites by Marriott Cleveland","rating":4.4,"user_ratings_total":326}
+{"_id":{"$oid":"5f99fb7bc9949b7d4b5c5b0c"},"name":"The Essex, Vermont's Culinary Resort & Spa","rating":4.4,"user_ratings_total":1175}
+{"_id":{"$oid":"5f99fb7cc9949b7d4b5c5b0d"},"name":"DoubleTree by Hilton Hotel Orlando Downtown","rating":4.2,"user_ratings_total":1909}
+{"_id":{"$oid":"5f99fb7dc9949b7d4b5c5b0e"},"name":"Holiday Inn Express Hutchinson","rating":4.3,"user_ratings_total":286}
+{"_id":{"$oid":"5f99fb7ec9949b7d4b5c5b0f"},"name":"The H Hotel","rating":4.6,"user_ratings_total":832}
+{"_id":{"$oid":"5f99fb80c9949b7d4b5c5b10"},"name":"Hotel Renovo","rating":4.6,"user_ratings_total":389}
+{"_id":{"$oid":"5f99fb82c9949b7d4b5c5b11"},"name":"Residence Inn by Marriott State College","rating":4.5,"user_ratings_total":209}
+{"_id":{"$oid":"5f99fb84c9949b7d4b5c5b12"},"name":"AC Hotel by Marriott Raleigh North Hills","rating":4.5,"user_ratings_total":323}
+{"_id":{"$oid":"5f99fb86c9949b7d4b5c5b13"},"name":"Canopy by Hilton Jersey City Arts District","rating":4.7,"user_ratings_total":22}
+{"_id":{"$oid":"5f99fb87c9949b7d4b5c5b14"},"name":"Westfields Marriott Washington Dulles","rating":4.5,"user_ratings_total":1249}
+{"_id":{"$oid":"5f99fb89c9949b7d4b5c5b15"},"name":"Hancock Hotel","rating":4.8,"user_ratings_total":331}
+{"_id":{"$oid":"5f99fb93c9949b7d4b5c5b16"},"name":"Tru by Hilton Sumter","rating":4.4,"user_ratings_total":226}
+{"_id":{"$oid":"5f99fb95c9949b7d4b5c5b17"},"name":"Hilton Cincinnati Netherland Plaza","rating":4.4,"user_ratings_total":3137}
+{"_id":{"$oid":"5f99fb97c9949b7d4b5c5b18"},"name":"SpringHill Suites by Marriott Salt Lake City-South Jordan","rating":4.5,"user_ratings_total":344}
+{"_id":{"$oid":"5f99fb98c9949b7d4b5c5b19"},"name":"Hilton Orlando","rating":4.5,"user_ratings_total":5661}
+{"_id":{"$oid":"5f99fb99c9949b7d4b5c5b1a"},"name":"Tru by Hilton Meridian","rating":4.4,"user_ratings_total":360}
+{"_id":{"$oid":"5f99fb9ac9949b7d4b5c5b1b"},"name":"Hilton Dallas/Rockwall Lakefront","rating":4.5,"user_ratings_total":1901}
+{"_id":{"$oid":"5f99fb9bc9949b7d4b5c5b1c"},"name":"Holiday Inn Quincy","rating":4.3,"user_ratings_total":397}
+{"_id":{"$oid":"5f99fb9fc9949b7d4b5c5b1d"},"name":"Courtyard by Marriott Fort Worth West at Cityview","rating":4.3,"user_ratings_total":364}
+{"_id":{"$oid":"5f99fba1c9949b7d4b5c5b1e"},"name":"Hilton Garden Inn Mankato Downtown","rating":4.2,"user_ratings_total":533}
+{"_id":{"$oid":"5f99fba2c9949b7d4b5c5b1f"},"name":"Holiday Inn Express & Suites Clear Spring","rating":4.2,"user_ratings_total":307}
+{"_id":{"$oid":"5f99fba3c9949b7d4b5c5b20"},"name":"The Grand Highland Hotel","rating":4.7,"user_ratings_total":227}
+{"_id":{"$oid":"5f99fba4c9949b7d4b5c5b21"},"name":"Hotel Valencia Santana Row","rating":4.4,"user_ratings_total":1162}
+{"_id":{"$oid":"5f99fba6c9949b7d4b5c5b22"},"name":"Holiday Inn Chicago - Schaumburg","rating":4.8,"user_ratings_total":13}
+{"_id":{"$oid":"5f99fba8c9949b7d4b5c5b23"},"name":"DoubleTree by Hilton Hotel Leominster","rating":4.3,"user_ratings_total":787}
+{"_id":{"$oid":"5f99fbaac9949b7d4b5c5b24"},"name":"Hilton Garden Inn Hickory","rating":4.5,"user_ratings_total":435}
+{"_id":{"$oid":"5f99fbadc9949b7d4b5c5b25"},"name":"Mystic Marriott Hotel & Spa","rating":4.4,"user_ratings_total":1296}
+{"_id":{"$oid":"5f99fbb3c9949b7d4b5c5b26"},"name":"Marriott Shoals Hotel & Spa","rating":4.6,"user_ratings_total":1254}
+{"_id":{"$oid":"5f99fbb4c9949b7d4b5c5b27"},"name":"Courtyard by Marriott Nashville Green Hills","rating":4.3,"user_ratings_total":448}
+{"_id":{"$oid":"5f99fbb8c9949b7d4b5c5b28"},"name":"Holiday Inn Express & Suites Belgrade","rating":4.5,"user_ratings_total":443}
+{"_id":{"$oid":"5f99fbbac9949b7d4b5c5b29"},"name":"Holiday Inn Express & Suites Huntsville","rating":4.2,"user_ratings_total":325}
+{"_id":{"$oid":"5f99fbbcc9949b7d4b5c5b2a"},"name":"Inn on Boltwood","rating":4.5,"user_ratings_total":245}
+{"_id":{"$oid":"5f99fbc0c9949b7d4b5c5b2b"},"name":"Omni Dallas Hotel","rating":4.6,"user_ratings_total":6820}
+{"_id":{"$oid":"5f99fbc1c9949b7d4b5c5b2c"},"name":"LA Sky Boutique Hotel","rating":3.5,"user_ratings_total":139}
+{"_id":{"$oid":"5f99fbc3c9949b7d4b5c5b2d"},"name":"The VERVE Boston Natick, Tapestry Collection by Hilton","rating":4.6,"user_ratings_total":19}
+{"_id":{"$oid":"5f99fbc6c9949b7d4b5c5b2e"},"name":"Omni Hilton Head Oceanfront Resort","rating":4.5,"user_ratings_total":1967}
+{"_id":{"$oid":"5f99fbc7c9949b7d4b5c5b2f"},"name":"Fairfield Inn & Suites by Marriott Mexicali","rating":4.8,"user_ratings_total":304}
+{"_id":{"$oid":"5f99fbc7c9949b7d4b5c5b30"},"name":"TownePlace Suites by Marriott Clovis","rating":4.4,"user_ratings_total":79}
+{"_id":{"$oid":"5f99fbcbc9949b7d4b5c5b31"},"name":"DogHouse Hotel and Brewery","rating":4.8,"user_ratings_total":111}
+{"_id":{"$oid":"5f99fbccc9949b7d4b5c5b32"},"name":"Grand Lodge Hotel & Waterpark","rating":4.2,"user_ratings_total":953}
+{"_id":{"$oid":"5f99fbcdc9949b7d4b5c5b33"},"name":"Best Western Plus Texoma Hotel & Suites","rating":4.2,"user_ratings_total":664}
+{"_id":{"$oid":"5f99fbd3c9949b7d4b5c5b34"},"name":"Ocean Casino Resort","rating":4.3,"user_ratings_total":11070}
+{"_id":{"$oid":"5f99fbd5c9949b7d4b5c5b35"},"name":"Harrah's Laughlin","rating":3.9,"user_ratings_total":7926}
+{"_id":{"$oid":"5f99fbd6c9949b7d4b5c5b36"},"name":"Best Western Plus The Inn & Suites at Muskogee","rating":4.1,"user_ratings_total":543}
+{"_id":{"$oid":"5f99fbd7c9949b7d4b5c5b37"},"name":"Historic Inns of Annapolis","rating":4.5,"user_ratings_total":437}
+{"_id":{"$oid":"5f99fbd8c9949b7d4b5c5b38"},"name":"Courtyard by Marriott Cape Girardeau Downtown","rating":4.9,"user_ratings_total":156}
+{"_id":{"$oid":"5f99fbd9c9949b7d4b5c5b39"},"name":"Tideline Ocean Resort & Spa","rating":3.9,"user_ratings_total":768}
+{"_id":{"$oid":"5f99fbdec9949b7d4b5c5b3a"},"name":"Chester Inn Motel","rating":4.2,"user_ratings_total":12}
+{"_id":{"$oid":"5f99fbe0c9949b7d4b5c5b3b"},"name":"Best Western Premier Plaza Hotel & Conference Center","rating":4.4,"user_ratings_total":799}
+{"_id":{"$oid":"5f99fbe2c9949b7d4b5c5b3c"},"name":"Courtyard by Marriott Lima","rating":4.4,"user_ratings_total":419}
+{"_id":{"$oid":"5f99fbe3c9949b7d4b5c5b3d"},"name":"Omni Tucson National Resort","rating":4.3,"user_ratings_total":1298}
+{"_id":{"$oid":"5f99fbe5c9949b7d4b5c5b3e"},"name":"Rio Sands Lodge","rating":3.7,"user_ratings_total":95}
+{"_id":{"$oid":"5f99fbe7c9949b7d4b5c5b3f"},"name":"Tru By Hilton Beavercreek Dayton","rating":4.5,"user_ratings_total":120}
+{"_id":{"$oid":"5f99fbedc9949b7d4b5c5b40"},"name":"Courtyard by Marriott Florence","rating":4.2,"user_ratings_total":370}
+{"_id":{"$oid":"5f99fbf0c9949b7d4b5c5b41"},"name":"The Liberty, a Luxury Collection Hotel, Boston","rating":4.4,"user_ratings_total":2540}
+{"_id":{"$oid":"5f99fbf1c9949b7d4b5c5b42"},"name":"The Rockaway Hotel","rating":4.9,"user_ratings_total":33}
+{"_id":{"$oid":"5f99fbf2c9949b7d4b5c5b43"},"name":"Tru by Hilton Spartanburg","rating":4.3,"user_ratings_total":18}
+{"_id":{"$oid":"5f99fbf4c9949b7d4b5c5b44"},"name":"Fairfield Inn & Suites by Marriott Houston League City","rating":4.8,"user_ratings_total":21}
+{"_id":{"$oid":"5f99fbfbc9949b7d4b5c5b45"},"name":"Residence Inn by Marriott Texarkana","rating":4.5,"user_ratings_total":484}
+{"_id":{"$oid":"5f99fbfcc9949b7d4b5c5b46"},"name":"Dover Downs Hotel & Casino","rating":4.3,"user_ratings_total":4175}
+{"_id":{"$oid":"5f99fbfec9949b7d4b5c5b47"},"name":"DoubleTree by Hilton Hotel Chicago - Alsip","rating":4.2,"user_ratings_total":1524}
+{"_id":{"$oid":"5f99fbffc9949b7d4b5c5b48"},"name":"Weathervane Inn","rating":4.5,"user_ratings_total":336}
+{"_id":{"$oid":"5f99fc03c9949b7d4b5c5b49"},"name":"We-Ko-Pa Casino Resort","rating":4.4,"user_ratings_total":1573}
+{"_id":{"$oid":"5f99fc05c9949b7d4b5c5b4a"},"name":"Tru by Hilton Edinburg","rating":3.7,"user_ratings_total":46}
+{"_id":{"$oid":"5f99fc06c9949b7d4b5c5b4b"},"name":"Hyatt Place Provo","rating":4.6,"user_ratings_total":237}
+{"_id":{"$oid":"5f99fc08c9949b7d4b5c5b4c"},"name":"Sheraton Panama City Beach Golf & Spa Resort","rating":4.3,"user_ratings_total":1102}
