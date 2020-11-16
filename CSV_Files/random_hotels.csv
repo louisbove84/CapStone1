@@ -1,672 +1,1605 @@
-,name,rating
-0,Grand Tuscany Hotel,4.0
-1,DoubleTree by Hilton Hotel Philadelphia Airport,3.9
-2,Freehand Los Angeles,4.3
-3,The Clarendon Hotel and Spa by GreenTree,4.3
-4,Hotel Contessa,4.4
-5,Hilton San Diego Bayfront,4.4
-6,Texican Court,4.5
-7,Hotel Indigo Austin Downtown - University,4.0
-8,Hayes Mansion San Jose Curio Collection by Hilton,4.3
-9,Hilton Garden Inn Indianapolis Downtown,4.4
-10,Aloft Jacksonville Tapestry Park,4.4
-11,Swissotel Chicago,4.4
-12,San Francisco Proper,4.3
-13,Moxy Columbus Short North,4.1
-14,Kimpton Tryon Park Hotel,4.6
-15,Chelsea Inn Hotel,3.8
-16,Gardner Hotel,4.3
-17,Omni Fort Worth Hotel,4.4
-18,Big Cypress Lodge,4.5
-19,The Edgewater Hotel,4.4
-20,Hotel Indigo Denver Downtown,4.4
-21,The Revolution Hotel,4.5
-22,The St. Gregory Hotel Dupont Circle,4.2
-23,Trumbull And Porter Hotel- Detroit Downtown,4.2
-24,AC Hotel by Marriott Nashville Downtown,4.5
-25,Hyatt Regency Louisville,4.4
-26,The Venetian Las Vegas,4.7
-27,Hilton Baltimore Inner Harbor,4.2
-28,Hyatt House Portland/Downtown,4.5
-29,The Brewhouse Inn & Suites,4.6
-30,The Skirvin Hilton Oklahoma City,4.5
-31,Loews Ventana Canyon Resort,4.6
-32,Hotel Albuquerque at Old Town,4.4
-33,Courtyard by Marriott Fresno,4.1
-34,Sheraton Mesa Hotel at Wrigleyville West,4.4
-35,Hotel Indigo Kansas City Downtown,4.5
-36,Hilton Virginia Beach Oceanfront,4.2
-37,Hilton Atlanta,4.1
-38,The Cliff House at Pikes Peak,4.6
-39,AC Hotel by Marriott Raleigh North Hills,4.5
-40,Magnolia Hotel Omaha,4.2
-41,Kimpton Sawyer Hotel,4.5
-42,Millennium Minneapolis,4.1
-43,Waterfront Hotel,4.2
-44,Hotel Indigo Tulsa Downtown,4.4
-45,Hyatt Regency Wichita,4.4
-46,DoubleTree by Hilton Hotel Cleveland - Independence,4.0
-47,Aloft Dallas Euless,4.3
-48,St. James Hotel New Orleans Downtown (French Quarter Area),4.1
-49,Sheraton Tampa Riverwalk Hotel,3.9
-50,Hotel LaCroix Waikiki,4.1
-51,The Mayfair at Coconut Grove,3.6
-52,Hilton Anaheim,4.2
-53,Irvine Marriott,4.4
-54,St. Louis Union Station Hotel Curio Collection by Hilton,4.3
-55,Holiday Inn Express Bakersfield,4.1
-56,The Kentucky Castle,4.5
-57,The Mansions On Fifth Luxury Hotel,4.4
-58,The Lakefront Anchorage,4.2
-59,Best Western Plus Heritage Inn,3.6
-60,Hotel Maya - a DoubleTree by Hilton,4.4
-61,The Lytle Park Hotel Autograph Collection,4.6
-62,Millennium Minneapolis,4.1
-63,Omni Corpus Christi Hotel,4.3
-64,Fairfield Inn & Suites by Marriott Greensboro Wendover,4.4
-65,Renaissance Dallas Richardson Hotel,4.4
-66,Caesars Palace,4.6
-67,Hyatt Place Lincoln/Downtown-Haymarket,4.5
-68,Hilton Meadowlands,3.9
-69,Millennium Buffalo,4.2
-70,Hilton San Diego Bayfront,4.4
-71,Holiday Inn Express & Suites Fort Wayne,4.3
-72,Crowne Plaza Orlando - Universal Blvd,4.2
-73,The Beachcomber - St. Pete Beach,4.3
-74,Chelsea Inn Hotel,3.8
-75,Arizona Grand Resort & Spa,4.3
-76,Embassy Suites by Hilton Laredo,4.5
-77,21c Museum Hotel Durham,4.5
-78,Glass Light Hotel & Gallery Autograph Collection,4.8
-79,Hilton Madison Monona Terrace,4.4
-80,Renaissance Toledo Downtown Hotel,4.4
-81,Mission Inn Hotel & Spa,4.6
-82,Kimpton Cardinal Hotel,4.6
-83,Arizona Biltmore A Waldorf Astoria Resort,4.6
-84,Peppermill Resort Spa Casino,4.4
-85,The Westin Virginia Beach Town Center,4.4
-86,Renaissance Baton Rouge Hotel,4.4
-87,Hotel Indigo Dallas Downtown,4.3
-88,The STRAT Hotel Casino & SkyPod,4.1
-89,Talking Stick Resort,4.3
-90,Hyatt Regency Santa Clara,4.3
-91,Hotel 43,4.5
-92,Pacific Edge Hotel,4.0
-93,The Centennial Hotel Spokane,3.9
-94,Four Points by Sheraton Birmingham Homewood,4.1
-95,DoubleTree by Hilton Hotel Rochester,4.3
-96,DoubleTree by Hilton Hotel Modesto,4.2
-97,Des Lux Hotel,4.6
-98,Hyatt Place Lubbock,4.3
-99,Holiday Inn Express & Suites Tacoma Downtown,4.3
-100,Inn On The Beach,4.1
-101,DoubleTree by Hilton Hotel Montgomery Downtown,4.2
-102,Hyatt Place Columbus-North,4.1
-103,Hotel Baker,4.4
-104,Hilton Shreveport,4.2
-105,SoJo Spa Club,4.5
-106,Graduate Richmond,4.2
-107,Embassy Suites by Hilton Akron Canton Airport,4.6
-108,Tru by Hilton Fayetteville I 95,4.6
-109,The Partridge Inn Augusta Curio Collection by Hilton,4.3
-110,Little Rock Marriott,4.4
-111,Courtyard by Marriott Mobile Daphne/Eastern Shore,4.4
-112,Amway Grand Plaza Curio Collection by Hilton,4.5
-113,Courtyard by Marriott Amarillo Downtown,4.3
-114,DoubleTree by Hilton Hotel Tallahassee,4.3
-115,Hyatt Place Salt Lake City/Downtown/The Gateway,4.4
-116,The Westin Huntsville,4.4
-117,Hilton Knoxville,4.3
-118,Holiday Inn Brownsville,4.2
-119,Embassy Suites by Hilton Valencia,4.4
-120,Courtyard by Marriott Newport News Airport,4.3
-121,NYLO Providence Warwick Hotel Tapestry Collection by Hilton,4.1
-122,Best Western Royal Plaza Hotel & Trade Center,4.1
-123,Treetop Hideaways,4.8
-124,Vista Inn,3.3
-125,B Ocean Resort Fort Lauderdale,3.9
-126,Cambria Hotel Sonoma Wine Country,4.5
-127,DoubleTree by Hilton Hotel Ontario Airport,4.3
-128,Marriott Hutchinson Island Beach Resort Golf & Marina,4.3
-129,The Heathman Lodge,4.5
-130,The Westin Jackson,4.4
-131,Staybridge Suites Sioux Falls Southwest,4.5
-132,Marriott Sanibel Harbour Resort & Spa,4.4
-133,DoubleTree by Hilton Hotel Springfield,4.4
-134,Bonaventure Resort & Spa,4.0
-135,Best Western North Phoenix Hotel,4.3
-136,Kimpton Sawyer Hotel,4.5
-137,Independence Hotel,4.6
-138,Glen Ivy Hot Springs,4.6
-139,OYO Hotel Palmdale - Antelope Valley,3.7
-140,Valley River Inn,4.0
-141,Hotel Solara Hobby,4.8
-142,The Armstrong Hotel,4.5
-143,DoubleTree by Hilton Pleasanton at the Club,4.3
-144,Embassy Suites by Hilton Rockford Riverfront,4.7
-145,Hotel Indigo Frisco,4.4
-146,Aloft Bolingbrook,4.1
-147,Hotel Zico,4.4
-148,Beach House,4.6
-149,Homewood Suites by Hilton Orange New Haven,4.3
-150,Ocean Manor Beach Resort,4.0
-151,Courtyard by Marriott Wayne Fairfield,4.3
-152,Hyatt Regency Lisle Near Naperville,4.2
-153,Hyatt Regency Monterey Hotel And Spa On Del Monte Golf Course,4.2
-154,Marriott Syracuse Downtown,4.5
-155,Hilton Dallas/Rockwall Lakefront,4.5
-156,Courtyard by Marriott Dayton South/Mall,4.0
-157,The Westin Savannah Harbor Golf Resort & Spa,4.4
-158,Best Western Plus Atrium Inn & Suites,4.5
-159,D. Hotel Suites & Spa,4.4
-160,The Westin Pasadena,4.4
-161,Stratus Suites - Boutique Hotel,4.5
-162,DoubleTree by Hilton Hotel Los Angeles - Norwalk,4.1
-163,Casa De Palmas Trademark Collection by Wyndham,4.4
-164,Hotel Royal Oak,4.2
-165,Courtyard by Marriott Dallas Plano/Richardson,4.4
-166,Hilton Bellevue,4.2
-167,DoubleTree by Hilton Hotel Anaheim - Orange County,4.2
-168,The Inn at Meadowbrook,5.0
-169,Hilton Columbia Center,4.5
-170,Royal Park Hotel,4.6
-171,Hilton Waco,4.4
-172,Hotel Millwright In Amana,5.0
-173,The Surfrider Hotel Malibu,4.9
-174,The Palms Oceanfront Hotel,4.0
-175,Best Western Exeter Inn & Suites,4.4
-176,Country Inn & Suites by Radisson Topeka West KS,3.8
-177,La Quinta by Wyndham Gainesville,4.6
-178,Ocean Manor Beach Resort,4.0
-179,Bedford Post Inn,4.3
-180,Calamigos Guest Ranch and Beach Club,4.4
-181,Renaissance Walnut Creek Hotel,4.5
-182,Hampton Inn & Suites Hartford/Farmington,4.4
-183,DoubleTree by Hilton Hotel Midland Plaza,3.9
-184,Hotel Interurban,4.2
-185,DoubleTree by Hilton Hotel Lafayette,4.2
-186,The Wigwam,4.5
-187,Hilton Garden Inn Victorville,4.3
-188,Best Western Premier Crown Chase Inn & Suites,4.6
-189,Tropicana Evansville,4.0
-190,AC Hotel by Marriott Sunnyvale Cupertino,4.3
-191,MCM Eleganté Suites,4.2
-192,Holiday Inn Express & Suites Norman,4.5
-193,Bear Creek Mountain Resort,4.5
-194,Hilton Garden Inn Beaumont TX,4.2
-195,Hotel Indigo Kansas City – the Crossroads,4.5
-196,DoubleTree by Hilton Hotel Murfreesboro,4.1
-197,Hyatt Place Athens / Downtown,4.5
-198,Bell Tower Hotel,4.5
-199,Hotel Shattuck Plaza,4.2
-200,Sundance Mountain Resort,4.6
-201,DoubleTree by Hilton Hotel Monrovia - Pasadena Area,4.3
-202,Hampton Inn Peoria-East At The River Boat Crossing,4.1
-203,TownePlace Suites by Marriott Columbia,4.7
-204,Clubhouse Hotel & Suites,4.5
-205,Crystal Cove Beach Cottages,4.7
-206,Hotel Ballast Wilmington Tapestry Collection by Hilton,4.2
-207,Hilton Garden Inn Lansing West,4.5
-208,Nobu Hotel Miami Beach,4.1
-209,The Hotel June,4.4
-210,Best Western Plus North Odessa Inn & Suites,4.3
-211,President Abraham Lincoln Springfield - a DoubleTree by Hilton Hotel,4.2
-212,DoubleTree by Hilton Hotel Rochester - Mayo Clinic Area,4.5
-213,Tru by Hilton Manchester Downtown,5.0
-214,Indian Lakes Hotel,3.7
-215,Embassy Suites by Hilton South Jordan Salt Lake City,4.5
-216,Lone Star Court,4.4
-217,Hilton Clearwater Beach Resort & Spa,4.2
-218,DoubleTree by Hilton Hotel & Spa Napa Valley - American Canyon,4.1
-219,C'mon Inn Hotel of Billings Montana,4.5
-220,DoubleTree by Hilton Hotel Boston - Bedford Glen,4.2
-221,Holiday Inn Express & Suites Pueblo North,4.1
-222,Inn On The Beach,4.1
-223,Hampton Inn High Point,4.2
-224,Best Western Premier Hotel at Fisher's Landing,4.6
-225,DoubleTree by Hilton Hotel Monrovia - Pasadena Area,4.3
-226,Best Western Danville Sycamore Inn,4.2
-227,Pala Casino Spa & Resort,4.2
-228,Pechanga Resort Casino,4.4
-229,DoubleTree by Hilton Hotel Denver Tech Center,4.3
-230,Hotel Indigo Seattle Everett Waterfront,4.4
-231,Beach House - Half Moon Bay,4.6
-232,Lodge Kohler,4.7
-233,Hilton Los Angeles/Universal City,4.4
-234,Best Western Red River Inn,3.9
-235,Renaissance Dallas Richardson Hotel,4.4
-236,The Dewberry Charleston,4.6
-237,Hard Rock Hotel And Casino Tulsa,4.3
-238,Aloft Broomfield Denver,4.3
-239,Hilton West Palm Beach,4.5
-240,Hyatt Place East Moline / Quad Cities,4.7
-241,Santa Maria Inn,4.2
-242,Hotel Encanto de Las Cruces,4.2
-243,Gaylord Texan Resort & Convention Center,4.5
-244,The Inn at Saint Mary's,4.6
-245,Courtyard by Marriott Erie Bayfront,4.5
-246,Houston Marriott South at Hobby Airport,4.2
-247,Hilton Melbourne FL,4.3
-248,The George,4.6
-249,SpringHill Suites by Marriott Lakeland,4.5
-250,Illinois Beach Hotel BW Premier Collection,4.1
-251,Holiday Inn Express & Suites Tyler South,4.0
-252,The Westin Atlanta Perimeter North,4.4
-253,Days Inn by Wyndham Flint / Bishop International Airport,2.3
-254,The Hotel Roanoke & Conference Center Curio Collection by Hilton,4.7
-255,Renaissance Albany Hotel,4.5
-256,7 Oaks Lodging,4.7
-257,Hollywood Inn Suites Hotel,4.1
-258,McMenamins Grand Lodge,4.4
-259,Hilton Garden Inn Lawton-Fort Sill,4.4
-260,Sonder - The Circ,4.4
-261,Crystal Cove Beach Cottages,4.7
-262,Best Western Plus Waterfront Hotel,4.3
-263,La Quinta Inn & Suites by Wyndham Tuscaloosa University,4.3
-264,Best Western Dartmouth-New Bedford,3.8
-265,Travelodge by Wyndham Lynwood,3.8
-266,The Inn at St. John's,4.7
-267,Aggie Inn Ascend Hotel Collection,4.6
-268,Nantasket Beach Resort,4.3
-269,The Hotel at Avalon Autograph Collection,4.5
-270,The Hotel Maison,4.3
-271,Hampton Inn & Suites Seattle/Federal Way,4.4
-272,DoubleTree by Hilton Greeley at Lincoln Park,4.4
-273,Hyatt Regency Huntington Beach Resort And Spa,4.6
-274,Sleepy Hollow Cabins & Hotel,4.2
-275,Cocopah Resort & Conference Center,4.1
-276,The Salem Inn,4.4
-277,The Centennial Hotel Spokane,3.9
-278,Boardwalk Inn,4.5
-279,Best Western Plus West Lawrence,4.6
-280,Carpinteria Beach Cottages,4.6
-281,B Ocean Resort Fort Lauderdale,3.9
-282,Gaia Hotel & Spa Redding Ascend Hotel Collection,4.0
-283,Hotel Boulderado,4.6
-284,Macon Marriott City Center,4.0
-285,Boca Raton Resort and Club A Waldorf Astoria Resort,4.4
-286,Sheraton Suites Fort Lauderdale Plantation,4.3
-287,Hilton Greenville,4.5
-288,Clarion Inn Seekonk-Providence,4.3
-289,Hotel Commonwealth,4.5
-290,Best Western Paradise Hotel,4.1
-291,Waterfront Hotel,4.2
-292,The Gables at Stirling Guest Hotel,4.8
-293,DoubleTree by Hilton Fort Smith City Center,4.2
-294,Residence Inn by Marriott San Diego North/San Marcos,4.3
-295,Holiday Inn Tewksbury-Andover,3.7
-296,Holiday Inn Nampa,4.7
-297,Hotel Indigo Asheville Downtown,4.4
-298,Courtyard by Marriott Los Angeles LAX/Hawthorne,4.4
-299,Canal Park Lodge,4.5
-300,Courtyard by Marriott Suffolk Chesapeake,4.4
-301,DoubleTree by Hilton Hotel Sacramento,4.1
-302,Ironworks Hotel Indy,4.8
-303,Tru By Hilton Salt Lake City Midvale,4.5
-304,Best Western Luxury Inn,4.1
-305,The Inn at Bowman's Hill,4.9
-306,Courtyard by Marriott Salt Lake City Layton,4.3
-307,Radisson Blu Aqua Hotel Chicago,4.5
-308,Courtyard by Marriott DeLand Historic Downtown,4.6
-309,The Moran CITYCENTRE,4.5
-310,The Grove Hotel,4.4
-311,La Quinta Resort & Club A Waldorf Astoria Resort,4.6
-312,Hyatt Place Champaign/Urbana,4.5
-313,Ponte Vineyard Inn,4.7
-314,Hampton Inn & Suites Buena Park,4.7
-315,Embassy Suites by Hilton St. Louis St. Charles,4.4
-316,Hotel Bellwether,4.6
-317,Courtyard by Marriott Charlotte Concord,4.3
-318,Ramada by Wyndham Sioux City,2.7
-319,Morongo Casino Resort and Spa,4.2
-320,Hilton Garden Inn Longview,4.4
-321,The Inn at St. John's,4.7
-322,Riverhouse on the Deschutes,4.4
-323,Graduate Bloomington,4.5
-324,Holiday Inn Express & Suites Chowchilla - Yosemite Park Area,4.2
-325,Hotel Lucent,4.4
-326,DoubleTree by Hilton Hotel Cleveland - Independence,4.0
-327,Arthouse Hotel New York City,4.2
-328,Hilton Garden Inn Merrillville,4.3
-329,Hyatt Place Bloomington/Normal,4.5
-330,Gila River Hotels & Casinos - Vee Quiva,4.1
-331,Courtyard by Marriott Fayetteville,4.4
-332,Pacific Edge Hotel,4.0
-333,Hilton Garden Inn Palm Coast Town Center,4.4
-334,DoubleTree by Hilton Hotel Racine Harbourwalk,4.2
-335,Hilton Garden Inn Lynchburg,4.2
-336,Vineyard Mansion & Carriage House Bed & Breakfast,4.8
-337,Club Quarters Hotel Philadelphia Rittenhouse Square,4.0
-338,Tru By Hilton St. George,4.4
-339,The Lodge at Columbia Point,4.8
-340,Lithia Springs Resort - Oregon's Mineral Waters Retreat,4.6
-341,Embassy Suites by Hilton Brea North Orange County,4.4
-342,Claremont Club & Spa - A Fairmont Hotel,4.5
-343,The Westin Chicago Northwest,4.4
-344,Mohegan Sun Pocono,4.0
-345,Hilton Garden Inn Houston-Baytown,4.7
-346,Radisson Plaza Hotel at Kalamazoo Center,4.5
-347,La Quinta Inn & Suites by Wyndham-Albany GA,4.7
-348,Aloft Rogers-Bentonville,4.1
-349,Seattle Airport Marriott,4.2
-350,Holiday Inn & Suites Decatur-Forsyth,4.0
-351,Hilton Orrington/Evanston,4.2
-352,DoubleTree by Hilton Pleasanton at the Club,4.3
-353,Tru by Hilton Easton,4.8
-354,Golden Nugget Lake Charles Hotel & Casino,4.4
-355,Cobblestone Hotel & Suites - Appleton International Airport,4.5
-356,Thunder Valley Casino Resort,4.1
-357,Gila River Hotels & Casinos - Vee Quiva,4.1
-358,Hyatt Place Canton,4.4
-359,Holiday Inn Express & Suites Warner Robins North West,4.3
-360,Springhill Suites by Marriott Hartford Cromwell,4.6
-361,Courtyard by Marriott Riverside UCR/Moreno Valley Area,4.2
-362,Country Inn & Suites by Radisson Coralville IA,4.3
-363,Holiday Inn Express & Suites Paragould,4.2
-364,Hilton Wilmington/Christiana,4.4
-365,Hotel Maya - a DoubleTree by Hilton,4.4
-366,Best Western Plus Executive Inn & Suites,3.9
-367,Hilton Garden Inn Gastonia,4.4
-368,Hard Rock Hotel and Casino Biloxi,4.3
-369,The Seagate Hotel & Spa,4.5
-370,Hotel 32|32,4.0
-371,Hotel Alex Johnson Rapid City Curio Collection by Hilton,4.4
-372,DoubleTree by Hilton Lafayette East,4.6
-373,DoubleTree by Hilton Hotel Milwaukee - Brookfield,4.1
-374,Courtyard by Marriott Muncie at Horizon Convention Center,4.5
-375,Stagecoach Inn,4.2
-376,Eldorado Hotel & Spa,4.3
-377,Houston Marriott Sugar Land,4.4
-378,DoubleTree by Hilton Hotel Missoula - Edgewater,4.2
-379,The Ballantyne a Luxury Collection Hotel Charlotte,4.7
-380,Hilton Garden Inn Jacksonville,4.4
-381,Courtyard by Marriott Nashville Green Hills,4.3
-382,Little America Hotel,4.5
-383,Dallas/Fort Worth Marriott Hotel & Golf Club at Champions Circle,4.3
-384,Isle Casino Hotel Waterloo,3.8
-385,Watt Hotel Rahway Tapestry Collection by Hilton,4.1
-386,Courtyard by Marriott Fort Myers Cape Coral,4.0
-387,Fairfield Inn & Suites by Marriott Jackson,4.6
-388,Hilton St. Louis Frontenac,4.4
-389,Magnolia Creek Lodge,5.0
-390,Metropolis Resort & Conference Center,4.1
-391,Home2 Suites By Hilton Bismarck,4.7
-392,TownePlace Suites by Marriott New Orleans Downtown/Canal Street,4.3
-393,DoubleTree by Hilton Neenah,4.0
-394,The Inn at Stone Manor,4.9
-395,Holiday Inn Express & Suites St. Cloud,4.4
-396,Kimpton Sawyer Hotel,4.5
-397,Pacifica Beach Hotel,3.9
-398,Alouette Beach Resort,4.2
-399,Little Rock Marriott,4.4
-400,The Nest on Saratoga Lake,4.4
-401,Hyatt Regency Dulles,4.2
-402,Omni Viking Lakes Hotel,4.8
-403,Hyatt Regency Bloomington - Minneapolis,4.5
-404,Country Inn & Suites by Radisson Harlingen TX,4.4
-405,Hard Rock Hotel and Casino Sacramento,3.8
-406,The Grand Resort,4.6
-407,Hilton Orlando,4.5
-408,DoubleTree by Hilton Hotel Johnson City,4.3
-409,Hilton Garden Inn Victoria,4.5
-410,Monarch Beach Resort,4.6
-411,Best Western Gateway to the Keys,4.2
-412,The Ritz-Carlton Tysons Corner,4.6
-413,Hotel Goodwin,4.6
-414,An Enchanting Evening,4.8
-415,DoubleTree by Hilton Hotel Cleveland - Westlake,4.0
-416,Hilton Stockton,4.1
-417,Courtyard by Marriott New Braunfels River Village,4.4
-418,The Woodlands Resort,4.5
-419,Four Points by Sheraton Santa Cruz Scotts Valley,4.2
-420,Tru by Hilton Cheyenne,4.0
-421,Hard Rock Hotel Daytona Beach,4.4
-422,Aloft Cincinnati West Chester,4.1
-423,Hyatt Regency Boston Cambridge Hotel,4.3
-424,Holiday Inn Express & Suites Rogers,4.1
-425,Holiday Inn Express & Suites Ames,4.3
-426,Homewood Suites By Hilton New Hartford Utica,4.7
-427,Omni La Costa Resort & Spa,4.5
-428,The Westin Detroit Metropolitan Airport,4.3
-429,Fairfield Inn & Suites by Marriott Des Moines West,4.4
-430,Hampton Inn & Suites Vineland,4.3
-431,Hilton Los Angeles/San Gabriel,4.3
-432,Home2 Suites By Hilton Terre Haute,4.4
-433,Courtyard by Marriott Greenville Downtown,4.5
-434,The Marquette Hotel Curio Collection by Hilton,4.4
-435,Tru by Hilton Bowling Green,4.3
-436,Days Inn & Suites by Wyndham Roseville/Detroit Area,3.4
-437,21c Museum Hotel Bentonville,4.7
-438,Torrance Marriott Redondo Beach,4.3
-439,Wine Country Inn,4.6
-440,Arden Acres,4.1
-441,Casper C'mon Inn,4.6
-442,Country Inn & Suites by Radisson Springfield OH,4.3
-443,Best Western Plus Riverfront Hotel and Suites,4.1
-444,The Wilbur Lititz Tapestry Collection by Hilton,4.7
-445,PG Waterfront Hotel & Suites,3.8
-446,Newport Beachside Hotel & Resort,3.7
-447,Aloft Atlanta at The Battery Atlanta,3.6
-448,The Clancy Autograph Collection,5.0
-449,The Townsend Hotel,4.6
-450,Sybaris Northbrook,4.7
-451,Arts District Firehouse Hotel,4.4
-452,Mystic Lake Casino Hotel,4.1
-453,The Hotel at Auburn University & Dixon Conference Center,4.6
-454,TownePlace Suites by Marriott Owensboro,4.5
-455,Jupiter Beach Resort & Spa,4.5
-456,Hilton Garden Inn Idaho Falls,4.4
-457,Hotel Julien Dubuque,4.5
-458,Delta Hotels by Marriott Chicago Willowbrook,4.6
-459,Baymont by Wyndham Memphis East,3.5
-460,Delamar Greenwich Harbor,4.6
-461,Willows Lodge,4.7
-462,Hilton Ocala,4.3
-463,Hard Rock Hotel Daytona Beach,4.4
-464,Four Points by Sheraton Detroit Novi,3.9
-465,Hilton Boston Downtown/Faneuil Hall,4.3
-466,Homewood Suites by Hilton Rocky Mount,4.6
-467,Hampton Inn & Suites Kokomo,4.4
-468,Sheraton College Park North Hotel,3.9
-469,SpringHill Suites by Marriott Phoenix Goodyear,4.3
-470,Pacific Palms Resort,4.4
-471,Hampton Inn & Suites Valdosta/Conference Center,4.3
-472,Courtyard by Marriott Boston Foxborough/Mansfield,4.2
-473,The Westin Lake Mary Orlando North,4.4
-474,Barona Resort & Casino,4.4
-475,Hilton East Brunswick Hotel & Executive Meeting Center,4.1
-476,DoubleTree by Hilton Hotel Decatur Riverfront,4.3
-477,The Hotel Northampton,4.3
-478,Nobu Hotel Chicago,4.4
-479,ALLEGRIA HOTEL,4.0
-480,Cambria Hotel Noblesville Indianapolis,4.6
-481,Bluemont Hotel,4.6
-482,Holiday Inn Express Corvallis-on the River,4.3
-483,Holiday Inn Express & Suites Porterville,4.4
-484,Homewood Suites by Hilton Orange New Haven,4.3
-485,Hampton Inn Tracy,4.1
-486,Hilton St. Louis Frontenac,4.4
-487,The Woodmark Hotel,4.6
-488,C'mon Inn Hotel & Suites,4.3
-489,Hyatt Place Austin/Round Rock,4.6
-490,Tachi Palace Casino Resort,4.2
-491,Black Swan Inn,4.7
-492,East Brother Light Station,4.9
-493,Hyatt Regency Lake Tahoe Resort Spa And Casino,4.5
-494,Sage Hill Inn & Spa,4.8
-495,DoubleTree by Hilton Hotel Cleveland - Westlake,4.0
-496,The Westin Sarasota,4.5
-497,SureStay Plus Hotel by Best Western Kansas City Northeast,3.3
-498,Home2 Suites by Hilton Bedford DFW West,4.5
-499,Appalachian Mountain Cabins,4.9
-500,The Ritz-Carlton Rancho Mirage,4.7
-501,The Laszlo Hotel,4.3
-502,The Nautical Beachfront Resort,4.1
-503,Holiday Inn Resort Pensacola Beach Gulf Front,4.5
-504,Bear Springs Hotel,4.6
-505,Rosewood CordeValle,4.8
-506,Hyatt Place Delano,4.4
-507,Fullerton Marriott at California State University,4.2
-508,DoubleTree by Hilton Hotel St. Louis - Westport,4.2
-509,Ambiance,4.4
-510,Home2 Suites by Hilton Battle Creek,3.9
-511,Hampton Inn Morgan Hill,4.4
-512,La Quinta by Wyndham Altoona Des Moines,4.5
-513,Best Western Premier Boulder Falls Inn,4.7
-514,The Inn at Elon,4.4
-515,The Charmant Hotel,4.6
-516,The Statler Dallas Curio Collection by Hilton,4.4
-517,Zota Beach Resort,4.4
-518,DoubleTree by Hilton Harrisonburg,4.1
-519,Charleston Marriott Town Center,4.2
-520,Guest House at Graceland,4.4
-521,Precious Moments Hotel,4.3
-522,The Breakers Palm Beach,4.8
-523,Ramada by Wyndham Enid,3.8
-524,Hilton East Brunswick Hotel & Executive Meeting Center,4.1
-525,Tru by Hilton Elkhart,4.7
-526,Holiday Inn Express & Suites Grand Island,4.4
-527,Courtyard by Marriott Kansas City Overland Park/Convention Center,4.3
-528,DoubleTree by Hilton Hotel Bay City - Riverfront,4.5
-529,The Monkey Tree Hotel,4.6
-530,Hilton Bellevue,4.2
-531,Holiday Inn Casa Grande,4.0
-532,The Queen Mary,4.3
-533,Sybaris Downers Grove,4.3
-534,Comfort Suites Wilson I-95,4.3
-535,Hilton Niagara Falls/Fallsview Hotel & Suites,4.1
-536,Lakehouse Hotel and Golf Resort,4.5
-537,Hyatt Regency Lake Washington At Seattle's Southport,4.5
-538,Hilton Garden Inn West Monroe,4.2
-539,Fairfield Inn & Suites by Marriott Harrisburg International Airport,4.5
-540,Comfort Suites Hartville-North Canton,4.8
-541,DoubleTree by Hilton Huntington,4.2
-542,Knott's Berry Farm Hotel,4.2
-543,Camelot Inn at Honeyville,3.7
-544,Hotel Galvez and Spa,4.4
-545,Holiday Inn Express & Suites Dayton South - I-675,4.5
-546,Blue Harbor Resort,4.4
-547,Comfort Suites,4.0
-548,The Grand America Hotel,4.7
-549,The Hotel Bentley of Alexandria,4.4
-550,Radisson Hotel Nashua,4.0
-551,Hotel RL Olympia,4.0
-552,Hilton Garden Inn Salina,4.5
-553,Hyatt Regency Cleveland At The Arcade,4.4
-554,The Wildwood Hotel,4.2
-555,DoubleTree by Hilton Hotel Sterling - Dulles Airport,4.2
-556,Granville Inn,4.4
-557,Best Western Premier University Inn,4.5
-558,Embassy Suites by Hilton Fort Myers Estero,4.5
-559,NYLO Providence Warwick Hotel Tapestry Collection by Hilton,4.1
-560,Holiday Inn Express & Suites Painesville - Concord,4.6
-561,GLo Best Western DeSoto Dallas,4.3
-562,Tru by Hilton Vestal,4.6
-563,The Coeur d'Alene Resort,4.5
-564,Hampton Inn & Suites Ashland,4.5
-565,Holiday Inn Express & Suites Minot,4.4
-566,The Cliffs Hotel and Spa,4.5
-567,The Lautner Compound,4.6
-568,Best Western Presidential Hotel & Suites,4.0
-569,TownePlace Suites by Marriott Twin Falls,4.6
-570,DoubleTree by Hilton Hotel & Suites Charleston Airport,4.3
-571,SpringHill Suites by Marriott Stillwater,4.1
-572,Holiday Inn & Suites Memphis - Wolfchase Galleria,4.4
-573,Fairfield Inn & Suites by Marriott Altoona,4.6
-574,Hotel Indigo Columbus Architectural Center,4.5
-575,DoubleTree Suites by Hilton Hotel Dayton - Miamisburg,4.1
-576,Key West Resort on Lake Dora - Tavares,4.1
-577,Sybaris Northbrook,4.7
-578,Tombstone Monument Guest Ranch,4.8
-579,Margaritaville Resort Biloxi,4.2
-580,Harrah's Ak-Chin,4.2
-581,Kokopelli's Cave,4.6
-582,Hyannis Harbor Hotel,3.9
-583,TownePlace Suites by Marriott Titusville Kennedy Space Center,4.6
-584,Hyatt Centric Mountain View,4.7
-585,Miraval Berkshires Resort & Spa,4.3
-586,Tiny Estates,4.3
-587,Staybridge Suites Charlottesville Airport,4.5
-588,Hampton Inn - DeKalb (Near the University),4.5
-589,Hyatt Place Blacksburg/University,4.7
-590,AC Hotel by Marriott Columbus Dublin,4.6
-591,The Imperial Palms Hotel & Resort,4.2
-592,Capitol Plaza Hotel and Convention Center,3.7
-593,Skyview Los Alamos,4.5
-594,Hilton Garden Inn Foxborough Patriot Place,4.5
-595,Embassy Suites by Hilton La Quinta Hotel & Spa,4.5
-596,Courtyard by Marriott Nashville Mount Juliet,4.5
-597,Hotel Retlaw Trademark Collection by Wyndham,4.4
-598,Courtyard by Marriott Danville,4.1
-599,Hutchinson Island Plaza Hotel & Suites,4.3
-600,Hyatt Regency St. Louis At The Arch,4.4
-601,The Wayfarer Downtown Los Angeles,4.2
-602,ROYAL BEACH PALACE HOTEL,3.8
-603,The Centennial Hotel,4.3
-604,Beach House - Half Moon Bay,4.6
-605,Fairfield Inn & Suites by Marriott Cleveland,4.4
-606,The Essex Vermont's Culinary Resort & Spa,4.4
-607,DoubleTree by Hilton Hotel Orlando Downtown,4.2
-608,Holiday Inn Express Hutchinson,4.3
-609,The H Hotel,4.6
-610,Hotel Renovo,4.6
-611,Residence Inn by Marriott State College,4.5
-612,AC Hotel by Marriott Raleigh North Hills,4.5
-613,Canopy by Hilton Jersey City Arts District,4.7
-614,Westfields Marriott Washington Dulles,4.5
-615,Hancock Hotel,4.8
-616,Tru by Hilton Sumter,4.4
-617,Hilton Cincinnati Netherland Plaza,4.4
-618,SpringHill Suites by Marriott Salt Lake City-South Jordan,4.5
-619,Hilton Orlando,4.5
-620,Tru by Hilton Meridian,4.4
-621,Hilton Dallas/Rockwall Lakefront,4.5
-622,Holiday Inn Quincy,4.3
-623,Courtyard by Marriott Fort Worth West at Cityview,4.3
-624,Hilton Garden Inn Mankato Downtown,4.2
-625,Holiday Inn Express & Suites Clear Spring,4.2
-626,The Grand Highland Hotel,4.7
-627,Hotel Valencia Santana Row,4.4
-628,Holiday Inn Chicago - Schaumburg,4.8
-629,DoubleTree by Hilton Hotel Leominster,4.3
-630,Hilton Garden Inn Hickory,4.5
-631,Mystic Marriott Hotel & Spa,4.4
-632,Marriott Shoals Hotel & Spa,4.6
-633,Courtyard by Marriott Nashville Green Hills,4.3
-634,Holiday Inn Express & Suites Belgrade,4.5
-635,Holiday Inn Express & Suites Huntsville,4.2
-636,Inn on Boltwood,4.5
-637,Omni Dallas Hotel,4.6
-638,LA Sky Boutique Hotel,3.5
-639,The VERVE Boston Natick Tapestry Collection by Hilton,4.6
-640,Omni Hilton Head Oceanfront Resort,4.5
-641,Fairfield Inn & Suites by Marriott Mexicali,4.8
-642,TownePlace Suites by Marriott Clovis,4.4
-643,DogHouse Hotel and Brewery,4.8
-644,Grand Lodge Hotel & Waterpark,4.2
-645,Best Western Plus Texoma Hotel & Suites,4.2
-646,Ocean Casino Resort,4.3
-647,Harrah's Laughlin,3.9
-648,Best Western Plus The Inn & Suites at Muskogee,4.1
-649,Historic Inns of Annapolis,4.5
-650,Courtyard by Marriott Cape Girardeau Downtown,4.9
-651,Tideline Ocean Resort & Spa,3.9
-652,Chester Inn Motel,4.2
-653,Best Western Premier Plaza Hotel & Conference Center,4.4
-654,Courtyard by Marriott Lima,4.4
-655,Omni Tucson National Resort,4.3
-656,Rio Sands Lodge,3.7
-657,Tru By Hilton Beavercreek Dayton,4.5
-658,Courtyard by Marriott Florence,4.2
-659,The Liberty a Luxury Collection Hotel Boston,4.4
-660,The Rockaway Hotel,4.9
-661,Tru by Hilton Spartanburg,4.3
-662,Fairfield Inn & Suites by Marriott Houston League City,4.8
-663,Residence Inn by Marriott Texarkana,4.5
-664,Dover Downs Hotel & Casino,4.3
-665,DoubleTree by Hilton Hotel Chicago - Alsip,4.2
-666,Weathervane Inn,4.5
-667,We-Ko-Pa Casino Resort,4.4
-668,Tru by Hilton Edinburg,3.7
-669,Hyatt Place Provo,4.6
-670,Sheraton Panama City Beach Golf & Spa Resort,4.3
+,name,rating,state,regions
+0,TownePlace Suites by Marriott Titusville Kennedy Space Center,4.6,FL,S
+1,Holiday Inn Express & Suites Rogers,4.1,MN,M
+2,Kon Tiki Inn,4.7,CA,W
+3,Hyatt Regency Lake Washington At Seattle's Southport,4.5,WA,W
+4,Hilton Garden Inn Rockville-Gaithersburg,4.4,MD,N
+5,DoubleTree by Hilton Hotel Monrovia - Pasadena Area,4.3,CA,W
+6,Hampton Inn & Suites Kokomo,4.4,IN,M
+7,Custom Touch Village,4.1,TX,S
+8,DoubleTree by Hilton Hotel Lafayette,4.2,LA,S
+9,Graduate Fayetteville,4.5,AR,S
+10,Margaritaville Beach Hotel,4.6,FL,S
+11,The Imperial Palms Hotel & Resort,4.2,CA,W
+12,Hotel Goodwin,4.6,WI,M
+13,21c Museum Hotel Bentonville,4.7,AR,S
+14,Hyatt Place Blacksburg/University,4.7,VA,S
+15,Mission Inn Hotel & Spa,4.6,CA,W
+16,Courtyard by Marriott Akron Downtown,4.5,OH,M
+17,The Brown Palace Hotel and Spa Autograph Collection,4.6,CO,W
+18,The Seagate Hotel & Spa,4.5,FL,S
+19,Courtyard by Marriott Lima,4.4,OH,M
+20,Fort Lauderdale Marriott Pompano Beach Resort & Spa,4.4,FL,S
+21,The Brewhouse Inn & Suites,4.6,WI,M
+22,Knott's Berry Farm Hotel,4.2,CA,W
+23,Talking Stick Resort,4.3,AZ,W
+24,Hancock Hotel,4.8,OH,M
+25,Canal Park Lodge,4.5,MN,M
+26,Courtyard by Marriott Salt Lake City Layton,4.3,UT,W
+27,Loews Ventana Canyon Resort,4.6,AZ,W
+28,The Ballantyne a Luxury Collection Hotel Charlotte,4.7,NC,S
+29,Drury Inn & Suites Lafayette IN,0.0,IN,M
+30,Texican Court,4.5,TX,S
+31,Little America Hotel,4.5,AZ,W
+32,Lodge Kohler,4.7,WI,M
+33,OYO Hotel Palmdale - Antelope Valley,3.7,CA,W
+34,Hampton Inn & Suites Seattle-North/Lynnwood,4.3,WA,W
+35,Alouette Beach Resort,4.2,ME,N
+36,The Hotel at Auburn University & Dixon Conference Center,4.6,AL,S
+37,Hilton Garden Inn Foxborough Patriot Place,4.5,MA,N
+38,Hotel Abri,4.1,CA,W
+39,Sheraton Mesa Hotel at Wrigleyville West,4.4,AZ,W
+40,DoubleTree by Hilton Hotel Columbus - Worthington,4.1,OH,M
+41,Hotel Indigo Chattanooga - Downtown,4.7,TN,S
+42,Fairfield Inn & Suites by Marriott Whitewater,3.8,WI,M
+43,The Palms Oceanfront Hotel,4.0,SC,S
+44,Hyatt Regency Bloomington - Minneapolis,4.5,MN,M
+45,Hilton Bellevue,4.2,WA,W
+46,Hotel Indigo Asheville Downtown,4.4,NC,S
+47,The Armstrong Hotel,4.5,CO,W
+48,Embassy Suites by Hilton Brea North Orange County,4.4,CA,W
+49,Tru by Hilton Bowling Green,4.3,KY,S
+50,TownePlace Suites by Marriott Clovis,4.4,NM,W
+51,Isle Casino Hotel Waterloo,3.8,IA,M
+52,The Lodge at Columbia Point,4.8,WA,W
+53,Park Lane Hotel NY,4.0,NY,N
+54,La Quinta Inn & Suites by Wyndham McAllen Convention Center,4.6,TX,S
+55,Hotel Zico,4.4,CA,W
+56,Marriott Marquis Houston,4.6,TX,S
+57,AC Hotel by Marriott Raleigh North Hills,4.5,NC,S
+58,Hilton San Diego Bayfront,4.4,CA,W
+59,Inn On The Beach,4.1,CA,W
+60,Royal Park Hotel,4.6,MI,W
+61,Hampton Inn & Suites York South,4.6,PA,N
+62,Valley River Inn,4.0,OR,W
+63,Hotel 43,4.5,ID,W
+64,DoubleTree by Hilton Hotel & Suites Pittsburgh Downtown,4.2,PA,N
+65,Plaza Inn and Suites,3.2,TX,S
+66,The Duniway Portland A Hilton Hotel,4.6,OR,W
+67,Made Hotel,4.4,NY,N
+68,DoubleTree by Hilton Hotel Cleveland - Independence,4.0,OH,M
+69,The Ritz-Carlton Tysons Corner,4.6,VA,S
+70,Hilton Garden Inn Lakeland,4.3,FL,S
+71,Hotel Maya - a DoubleTree by Hilton,4.4,CA,W
+72,Hilton Norfolk The Main,4.6,VA,S
+73,W Seattle,4.4,WA,W
+74,DoubleTree by Hilton Hotel Jackson,4.0,TN,S
+75,Bristol Harbor Inn,4.3,RI,N
+76,Hotel Bellwether,4.6,WA,W
+78,Hotel Vandivort,4.6,MO,M
+79,Omni Interlocken Hotel,4.3,CO,W
+80,FOUND Hotel San Francisco,4.1,CA,W
+81,Gaia Hotel & Spa Redding Ascend Hotel Collection,4.0,CA,W
+82,Tru By Hilton Salt Lake City Midvale,4.5,UT,W
+83,Magnolia Hotel Omaha,4.2,NE,W
+84,Holiday Inn Express & Suites Minot,4.4,ND,M
+85,President Abraham Lincoln Springfield - a DoubleTree by Hilton Hotel,4.2,IL,M
+86,Renaissance Walnut Creek Hotel,4.5,CA,W
+87,Agua Caliente Resort Casino Spa Rancho Mirage,4.2,CA,W
+88,Hyatt Place Columbus-North,4.1,GA,S
+89,The Grand America Hotel,4.7,UT,W
+90,Home2 Suites by Hilton West Monroe,4.5,LA,S
+91,Hyatt Place Houston/Sugar Land,4.4,TX,S
+92,The Inn at Elon,4.4,NC,S
+93,The Westin Detroit Metropolitan Airport,4.3,MI,W
+94,ClubHouse Hotel & Suites,4.7,SD,M
+95,The Duniway Portland A Hilton Hotel,4.6,OR,W
+96,DoubleTree by Hilton Hotel Milwaukee - Brookfield,4.1,WI,M
+97,Amway Grand Plaza Curio Collection by Hilton,4.5,MI,W
+98,Hilton Melbourne FL,4.3,FL,S
+99,Boardwalk Inn,4.5,TX,S
+100,Omni Fort Worth Hotel,4.4,TX,S
+101,Courtyard by Marriott Fresno,4.1,CA,W
+102,Aloft Atlanta at The Battery Atlanta,3.6,GA,S
+103,AC Hotel by Marriott Denver Downtown,4.4,CO,W
+104,Pleasanton Marriott,4.3,CA,W
+105,The Clarendon Hotel and Spa by GreenTree,4.3,AZ,W
+106,The Westin Chicago Northwest,4.4,IL,M
+107,DoubleTree Suites by Hilton Hotel Sacramento - Rancho Cordova,4.2,CA,W
+108,The Inn at St. John's,4.7,MI,W
+109,DoubleTree by Hilton Hotel Jackson,4.0,TN,S
+110,Little Rock Marriott,4.4,AR,S
+111,Hilton St. Louis Frontenac,4.4,MO,M
+112,Millennium Minneapolis,4.1,MN,M
+113,Wingate by Wyndham Lancaster / PA Dutch Country,3.8,PA,N
+114,Radisson Plaza Hotel at Kalamazoo Center,4.5,MI,W
+115,Sunriver Resort,4.5,OR,W
+116,Springhill Suites by Marriott Hartford Cromwell,4.4,CT,N
+117,Ocean Manor Beach Resort,4.0,FL,S
+118,Hilton St. Louis Frontenac,4.4,MO,M
+119,Zota Beach Resort,4.4,FL,S
+120,Fitzgerald's Irish Bed & Breakfast,4.8,OH,M
+121,Luxor Hotel & Casino,4.2,NV,W
+122,Hilton Garden Inn Idaho Falls,4.4,ID,W
+123,Tru By Hilton Denver,4.6,PA,N
+124,Hyatt Centric Brickell Miami,4.5,FL,S
+125,Hotel Royal Oak,4.2,MI,W
+126,Best Western Red River Inn,3.9,TX,S
+127,Seattle Airport Marriott,4.2,WA,W
+128,Omni Hilton Head Oceanfront Resort,4.5,SC,S
+129,Aloft Cincinnati West Chester,4.1,OH,M
+130,Inn on Boltwood,4.5,MA,N
+131,Holiday Inn Express & Suites Huntsville,4.2,TX,S
+132,Newport Beach Marriott Hotel & Spa,4.4,CA,W
+133,Vineyard Mansion & Carriage House Bed & Breakfast,4.8,MO,M
+134,The Dewberry Charleston,4.6,SC,S
+135,We-Ko-Pa Casino Resort,4.4,AZ,W
+136,Courtyard by Marriott Newport News Airport,4.3,VA,S
+137,Hilton Garden Inn Merrillville,4.3,IN,M
+138,Comfort Suites,4.0,LA,S
+139,Radisson Hotel & Conference Center Coralville - Iowa City,4.2,IA,M
+140,Vista Inn,3.3,CA,W
+141,Kimpton Sawyer Hotel,4.5,CA,W
+142,Aloft Bolingbrook,4.1,IL,M
+143,The George,4.6,TX,S
+144,DoubleTree by Hilton Hotel Johnson City,4.3,TN,S
+145,DogHouse Hotel and Brewery,4.8,OH,M
+146,Courtyard by Marriott Riverside UCR/Moreno Valley Area,4.2,CA,W
+147,McMenamins Grand Lodge,4.4,OR,W
+148,Hyatt Regency Boston,4.4,MA,N
+149,Pacific Edge Hotel,4.0,CA,W
+150,Hampton Inn and Suites Pueblo/North,4.1,CO,W
+151,Omni Viking Lakes Hotel,4.8,MN,M
+152,DoubleTree by Hilton Hotel Tallahassee,4.3,FL,S
+153,Hilton Anatole,4.4,TX,S
+154,Tru by Hilton Smyrna Nashville,4.3,TN,S
+155,Hotel Shattuck Plaza,4.2,CA,W
+156,Renaissance Dallas Richardson Hotel,4.4,TX,S
+157,The Mayfair at Coconut Grove,3.6,FL,S
+158,DoubleTree by Hilton Hotel & Spa Napa Valley - American Canyon,4.1,CA,W
+159,Rio Sands Lodge,3.7,CA,W
+160,Homewood Suites by Hilton Orange New Haven,4.3,CT,N
+161,Hayes Mansion San Jose Curio Collection by Hilton,4.3,CA,W
+162,Renaissance Mobile Riverview Plaza Hotel,4.5,AL,S
+163,Best Western Premier University Inn,4.5,MS,S
+164,Hilton Atlanta,4.1,GA,S
+165,ALLEGRIA HOTEL,4.0,NY,N
+166,The Skirvin Hilton Oklahoma City,4.5,OK,S
+167,Element Harrison - Newark,4.5,NJ,N
+169,Residence Inn by Marriott Waco South,5.0,TX,S
+170,Hotel Indigo Tulsa Downtown,4.4,OK,S
+171,Courtyard by Marriott Greenville,4.1,NC,S
+172,Hilton Garden Inn Las Cruces,4.4,NM,W
+173,Courtyard by Marriott DeLand Historic Downtown,4.6,FL,S
+174,The Kentucky Castle,4.5,KY,S
+175,Design Suites Miami Beach,3.6,FL,S
+176,Holiday Inn Express & Suites Dayton South - I-675,4.5,OH,M
+177,DoubleTree by Hilton Appleton,4.4,WI,M
+178,The Hotel June,4.5,CA,W
+179,Hilton Garden Inn Jacksonville,4.4,NC,S
+180,Hotel Derek,3.9,TX,S
+181,Panama Hotel,4.4,CA,W
+182,Hampton Inn & Suites Hartford/Farmington,4.4,CT,N
+183,Homewood Suites By Hilton New Hartford Utica,4.7,NY,N
+184,Hilton Garden Inn Hickory,4.5,NC,S
+185,Stagecoach Inn,4.2,TX,S
+186,Home2 Suites by Hilton Nampa,4.5,ID,W
+187,Days Inn & Suites by Wyndham Fullerton,4.1,CA,W
+188,Hilton Minneapolis,4.3,MN,M
+189,Mystic Lake Casino Hotel,4.1,MN,M
+190,Holiday Inn Express & Suites Tyler South,4.0,TX,S
+191,Hyatt Place Champaign/Urbana,4.5,IL,M
+192,DoubleTree by Hilton Huntington,4.2,WV,S
+193,The Langham Huntington Pasadena,4.6,CA,W
+194,DoubleTree by Hilton Hotel & Suites Charleston Airport,4.3,SC,S
+195,The Heathman Lodge,4.5,WA,W
+196,Best Western Presidential Hotel & Suites,4.0,AR,S
+197,Hyatt Place Austin/Round Rock,4.6,TX,S
+198,C'mon Inn Hotel & Suites,4.6,MT,W
+199,Hilton East Brunswick Hotel & Executive Meeting Center,4.1,NJ,N
+200,Hyatt Place East Moline / Quad Cities,4.7,IL,M
+201,Hotel Commonwealth,4.5,MA,N
+202,Cambria Hotel Noblesville Indianapolis,4.6,IN,M
+203,Hampton Inn & Suites Hartford/Farmington,4.4,CT,N
+204,The Hotel Northampton,4.3,MA,N
+205,Home2 Suites by Hilton Beaumont,4.5,TX,S
+206,Best Western Plus Carpinteria Inn,4.0,CA,W
+207,Hyatt House Seattle/Downtown,4.4,WA,W
+208,Hilton Palm Springs,4.3,CA,W
+210,St. James Hotel New Orleans Downtown (French Quarter Area),4.1,LA,S
+211,Hilton Garden Inn Sacramento/South Natomas,4.3,CA,W
+212,Hollywood Inn Suites Hotel,4.1,CA,W
+213,The Lafayette Hotel Swim Club & Bungalows,4.4,CA,W
+214,Hard Rock Hotel and Casino Biloxi,4.3,MS,S
+215,Hilton Greenville,4.5,NC,S
+216,Hyatt Regency Sacramento,4.4,CA,W
+217,InterContinental at Doral Miami,4.5,FL,S
+218,Hilton Garden Inn Victorville,4.3,CA,W
+219,Made Hotel,4.4,NY,N
+220,Element Bloomington Mall of America,4.7,MN,M
+221,Bonaventure Resort & Spa,4.0,FL,S
+222,The Salem Inn,4.4,MA,N
+223,Courtyard by Marriott Erie Bayfront,4.5,PA,N
+224,La Quinta Inn & Suites by Wyndham Tuscaloosa University,4.3,AL,S
+225,Freehand Los Angeles,4.3,CA,W
+226,Fairfield Inn & Suites by Marriott Dayton,4.6,OH,M
+227,Courtyard by Marriott Rapid City,4.1,SD,M
+228,Palm Beach Gardens Marriott,4.1,FL,S
+229,Mystic Lake Casino Hotel,4.1,MN,M
+231,Tiny Estates,4.3,PA,N
+232,The Westin Jackson,4.4,MS,S
+233,Tru by Hilton Meridian,4.4,MS,S
+234,The Padre Hotel,4.4,CA,W
+235,Hilton Waco,4.4,TX,S
+236,Newport Beachside Hotel & Resort,3.7,FL,S
+237,Mohegan Sun Pocono,4.0,PA,N
+238,DoubleTree by Hilton Hotel Rochester,4.3,NY,N
+239,The Edgewater Spa,4.1,WI,M
+240,Staybridge Suites Charlottesville Airport,4.5,VA,S
+241,Loews Ventana Canyon Resort,4.6,AZ,W
+242,Cyrus Hotel,4.7,KS,M
+243,Ironworks Hotel Indy,4.8,IN,M
+244,The Statler Dallas Curio Collection by Hilton,4.4,TX,S
+245,Holiday Inn Casa Grande,4.0,AZ,W
+246,Hampton Inn & Suites Pittsburg,4.3,CA,W
+247,The Westin Huntsville,4.4,AL,S
+248,Hilton Garden Inn Victoria,4.5,TX,S
+249,Hard Rock Hotel and Casino Sacramento,3.8,CA,W
+250,Universal's Aventura Hotel,4.5,FL,S
+251,SpringHill Suites by Marriott Ashburn Dulles North,4.2,VA,S
+252,Hilton Singer Island Oceanfront/Palm Beaches Resort,4.2,FL,S
+253,Hyatt Place Provo,4.6,UT,W
+254,The Hotel at Avalon Autograph Collection,4.5,GA,S
+255,Fairfield Inn & Suites by Marriott Flint Grand Blanc,4.7,MI,W
+256,Hilton Garden Inn Fort Myers,4.2,FL,S
+257,The Gables at Stirling Guest Hotel,4.8,PA,N
+258,Best Western Palm Garden Inn,4.1,CA,W
+259,Lone Star Court,4.4,TX,S
+260,Tru by Hilton Fort Wayne,4.3,IN,M
+261,Hilton Garden Inn Palm Coast Town Center,4.4,FL,S
+262,The Essex Vermont's Culinary Resort & Spa,4.4,VT,N
+263,Glen Ivy Hot Springs,4.6,CA,W
+264,Hampton Inn & Suites Westford-Chelmsford,4.2,MA,N
+265,Cambria Hotel Sonoma Wine Country,4.5,CA,W
+266,Hotel Julien Dubuque,4.5,IA,M
+267,The Roosevelt Hotel,3.7,NY,N
+268,Omni Corpus Christi Hotel,4.3,TX,S
+269,La Quinta Inn & Suites by Wyndham Jackson Airport,4.1,MS,S
+270,Vanllee Hotel & Suites LVGEM,3.9,CA,W
+271,The Kentucky Castle,4.5,KY,S
+272,Hilton Daytona Beach Oceanfront Resort,4.1,FL,S
+273,The Hotel Huntington Beach,3.6,CA,W
+274,Holiday Inn Express & Suites Vineland Millville,4.0,NJ,N
+275,La Quinta by Wyndham Altoona Des Moines,4.5,IA,M
+276,Eldorado Hotel & Spa,4.3,NM,W
+278,Embassy Suites by Hilton Laredo,4.5,TX,S
+279,Hollywood Inn Suites Hotel,4.1,CA,W
+280,PG Waterfront Hotel & Suites,3.8,FL,S
+281,Hilton Cincinnati Netherland Plaza,4.4,OH,M
+282,Hard Rock Hotel and Casino Sacramento,3.8,CA,W
+283,Sybaris Northbrook,4.7,IL,M
+284,Hotel Madison & Shenandoah Valley Conference Center,4.3,VA,S
+285,Comfort Inn & Suites,3.9,MI,W
+286,Hilton Garden Inn Sacramento/South Natomas,4.3,CA,W
+287,Freehand Los Angeles,4.3,CA,W
+288,Hotel St Michael Prescott,4.5,AZ,W
+289,EPIC Hotel Pico Rivera,4.3,CA,W
+290,Residence Inn by Marriott DFW Airport North/Grapevine,4.4,TX,S
+291,Home2 Suites by Hilton Battle Creek,4.0,MI,W
+292,Holiday Inn Express & Suites Clear Spring,4.2,MD,N
+293,Historic Sealy House,4.8,TX,S
+294,Hilton Garden Inn Houston-Baytown,4.7,TX,S
+295,The Westin Lake Mary Orlando North,4.4,FL,S
+296,The Godfrey Hotel Boston,4.5,MA,N
+297,Bedford Post Inn,4.3,NY,N
+298,Bear Creek Mountain Resort,4.5,PA,N
+299,Historic Inns of Annapolis,4.5,MD,N
+300,Hotel Indigo Dallas Downtown,4.3,TX,S
+301,Pala Casino Spa & Resort,4.2,CA,W
+302,DoubleTree by Hilton Hotel Chicago - Alsip,4.3,IL,M
+303,The Godfrey Hotel Chicago,4.2,IL,M
+304,Hilton Garden Inn Gastonia,4.4,NC,S
+305,Hyatt Regency San Francisco Airport,4.3,CA,W
+306,Tru by Hilton Elkhart,4.7,IN,M
+307,Ironworks Hotel Indy,4.7,IN,M
+308,Pala Casino Spa & Resort,4.2,CA,W
+309,Hotel Indigo Austin Downtown - University,4.0,TX,S
+310,Casper C'mon Inn,4.6,WY,W
+311,DoubleTree by Hilton Hotel Decatur Riverfront,4.3,AL,S
+312,Holiday Inn Resort Wilmington E-Wrightsville Beach,4.5,NC,S
+313,The Grand America Hotel,4.7,UT,W
+314,Courtyard by Marriott Chicago Elgin/West Dundee,4.2,IL,M
+315,Embassy Suites by Hilton Fort Myers Estero,4.5,FL,S
+316,Hotel Baker,4.4,IL,M
+317,TownePlace Suites by Marriott New Orleans Downtown/Canal Street,4.3,LA,S
+318,Hilton Anaheim,4.2,CA,W
+319,Radisson Hotel Nashua,4.0,NH,N
+320,Ramada Plaza by Wyndham Garden Grove/Anaheim South,3.7,CA,W
+321,Pacifica Beach Hotel,3.9,CA,W
+322,Hilton Garden Inn Lansing West,4.5,MI,W
+323,Hilton Knoxville,4.3,TN,S
+324,DoubleTree by Hilton Hotel New York Times Square West,3.9,NY,N
+325,Four Points by Sheraton Birmingham Homewood,4.1,AL,S
+326,Avon Old Farms Hotel,4.3,CT,N
+327,Par-A-Dice Hotel Casino,4.0,IL,M
+328,La Quinta Inn & Suites by Wyndham Muskogee,4.4,OK,S
+329,Holiday Inn Brownsville,4.2,TX,S
+330,Renaissance Albany Hotel,4.5,NY,N
+331,Courtyard by Marriott Boston Foxborough/Mansfield,4.2,MA,N
+332,AC Hotel by Marriott Nashville Downtown,4.5,TN,S
+333,Best Western Plus North Odessa Inn & Suites,4.3,TX,S
+334,Live! By Loews - Arlington Texas,4.3,TX,S
+335,The Grand Resort,4.6,OH,M
+336,Staybridge Suites Denver South - Highlands Ranch,4.5,CO,W
+337,Sonder - The Circ,4.4,FL,S
+338,Comfort Suites,4.0,NM,W
+340,Bell Tower Hotel,4.5,MI,W
+341,DoubleTree by Hilton Hotel Dallas Near the Galleria,4.2,TX,S
+342,The Grand Resort,4.6,OH,M
+343,Sofitel Chicago Magnificent Mile,4.6,IL,M
+344,Moxy Columbus Short North,4.0,OH,M
+345,The Wildwood Hotel,4.2,MO,M
+346,Microtel Inn & Suites by Wyndham Roseville/Detroit Area,2.9,MI,W
+347,Delamar Greenwich Harbor,4.6,CT,N
+348,Arizona Grand Resort & Spa,4.3,AZ,W
+349,AC Hotel by Marriott Raleigh North Hills,4.5,NC,S
+350,Aloft Leawood-Overland Park,4.0,KS,M
+351,7 Oaks Lodging,4.7,TX,S
+352,Harrah's Ak-Chin,4.2,AZ,W
+353,Hilton Shreveport,4.2,LA,S
+354,Courtyard by Marriott Dallas Plano/Richardson,4.4,TX,S
+355,Hilton Garden Inn Apopka City Center,4.6,FL,S
+356,Hutchinson Island Plaza Hotel & Suites,4.3,FL,S
+357,Embassy Suites by Hilton St. Louis St. Charles,4.4,MO,M
+358,Grand Eastonian Hotel & Suites,4.3,PA,N
+359,Dover Downs Hotel & Casino,4.3,DE,N
+360,Glidden House,4.6,OH,M
+361,Hyatt Place Lubbock,4.3,TX,S
+362,ROYAL BEACH PALACE HOTEL,3.8,FL,S
+363,Hotel on North,4.5,MA,N
+364,The Cottages On Charleston Harbor,4.7,SC,S
+365,DoubleTree by Hilton Hotel Orlando at SeaWorld,4.0,FL,S
+366,DoubleTree by Hilton Greeley at Lincoln Park,4.4,CO,W
+367,Camas Hotel & Suites Portland - Vancouver,4.6,WA,W
+368,Tachi Palace Casino Resort,4.2,CA,W
+369,The Central Park North,3.7,NY,N
+370,Hyatt Place Delano,4.4,CA,W
+371,Trumbull And Porter Hotel- Detroit Downtown,4.2,MI,W
+372,C'mon Inn Hotel of Billings Montana,4.5,MT,W
+373,Residence Inn by Marriott Casper,4.8,WY,W
+374,Wine Country Inn,4.6,CO,W
+375,Hyatt Regency Monterey Hotel And Spa On Del Monte Golf Course,4.2,CA,W
+376,Hilton Garden Inn Longview,4.4,TX,S
+377,Embassy Suites by Hilton Dallas DFW Airport South,4.1,TX,S
+378,Arden Acres,4.1,CA,W
+379,Tru by Hilton Florence I-95,4.1,SC,S
+380,Hotel Phillips Kansas City Curio Collection by Hilton,4.1,MO,M
+381,The Monkey Tree Hotel,4.6,CA,W
+382,Drury Inn & Suites Terre Haute,4.5,IN,M
+383,SoJo Spa Club,4.5,NJ,N
+384,LA Sky Boutique Hotel,3.5,CA,W
+385,Hyatt Regency Lake Tahoe Resort Spa And Casino,4.5,NV,W
+386,Mystic Lake Casino Hotel,4.1,MN,M
+387,The Woodlands Resort,4.5,TX,S
+388,Bear Springs Hotel,4.6,CA,W
+389,Golden Nugget Lake Charles Hotel & Casino,4.4,LA,S
+390,An Enchanting Evening,4.8,AR,S
+391,Hilton Garden Inn Indianapolis Downtown,4.4,IN,M
+392,Homewood Suites by Hilton Rocky Mount,4.7,NC,S
+393,Courtyard by Marriott Nashville Green Hills,4.3,TN,S
+394,Hilton Washington Dulles Airport,4.2,VA,S
+395,Embassy Suites by Hilton Rockford Riverfront,4.6,IL,M
+396,DoubleTree by Hilton Pleasant Prairie Kenosha,4.4,WI,M
+397,Hotel Constance Pasadena,4.5,CA,W
+398,Holiday Inn Express & Suites Grand Island,4.4,NE,W
+399,Renaissance Baton Rouge Hotel,4.4,LA,S
+400,Hotel Indigo El Paso Downtown,4.3,TX,S
+401,Kokopelli's Cave,4.6,NM,W
+403,Hyatt Regency Lisle Near Naperville,4.2,IL,M
+404,Crossroads Hotel,4.7,MO,M
+405,Gaylord Texan Resort & Convention Center,4.5,TX,S
+406,Baymont by Wyndham Memphis East,3.5,TN,S
+407,DoubleTree by Hilton Hotel Orlando Downtown,4.2,FL,S
+408,La Quinta Resort & Club A Waldorf Astoria Resort,4.6,CA,W
+409,Holiday Inn Nampa,4.7,ID,W
+410,Aloft Rogers-Bentonville,4.1,AR,S
+411,Thornewood Castle,4.6,WA,W
+412,The Cliffs Hotel and Spa,4.5,CA,W
+413,Conrad Indianapolis,4.6,IN,M
+414,Great Wolf Lodge Water Park | Southern California,4.5,CA,W
+415,Waterfront Hotel,4.2,CA,W
+416,Jupiter Beach Resort & Spa,4.5,FL,S
+417,Comfort Suites Wilson I-95,4.3,NC,S
+418,Hyatt Place State College,4.4,PA,N
+419,The Nest on Saratoga Lake,4.4,NY,N
+420,Best Western Luxury Inn,4.1,CA,W
+421,Aggie Inn Ascend Hotel Collection,4.6,CA,W
+422,Watt Hotel Rahway Tapestry Collection by Hilton,4.1,NJ,N
+423,Irvine Marriott,4.4,CA,W
+424,Renaissance Palm Springs Hotel,4.3,CA,W
+425,Kimpton Cardinal Hotel,4.6,NC,S
+426,DoubleTree by Hilton Hotel Modesto,4.2,CA,W
+427,Grand Vista Hotel,3.9,CA,W
+428,Sheraton Panama City Beach Golf & Spa Resort,4.3,FL,S
+429,Noble Inn,4.7,ND,M
+430,Mark Twain Hotel,4.1,IL,M
+431,The Westin Huntsville,4.4,AL,S
+432,The Garland,4.4,CA,W
+433,Fullerton Marriott at California State University,4.2,CA,W
+434,DoubleTree by Hilton Hotel Ontario Airport,4.3,CA,W
+435,Courtyard by Marriott Nashville Mount Juliet,4.5,TN,S
+436,Hotel St Michael Prescott,4.5,AZ,W
+437,DoubleTree by Hilton Hotel Midland Plaza,3.9,TX,S
+438,DoubleTree by Hilton Hotel Ontario Airport,4.3,CA,W
+439,Tideline Ocean Resort & Spa,3.9,FL,S
+440,Marriott Hutchinson Island Beach Resort Golf & Marina,4.3,FL,S
+442,Hyatt Place Columbus-North,4.1,GA,S
+443,Hampton Inn Atlanta-Buckhead,4.3,GA,S
+444,Courtyard by Marriott Amarillo Downtown,4.2,TX,S
+445,Little Rock Marriott,4.4,AR,S
+446,The VERVE Boston Natick Tapestry Collection by Hilton,4.6,MA,N
+447,Kimpton Tryon Park Hotel,4.6,NC,S
+448,Home 2 Suites by Hilton Muskogee,4.7,OK,S
+449,TownePlace Suites by Marriott New Orleans Downtown/Canal Street,4.3,LA,S
+450,TownePlace Suites by Marriott Twin Falls,4.6,ID,W
+451,Residence Inn by Marriott Manchester Downtown,4.2,NH,N
+452,Motel 6,0.0,CA,W
+453,The Graylyn Estate,4.7,NC,S
+454,Best Western Premier Waterfront Hotel & Convention Center,4.5,WI,M
+455,Fairfield Inn & Suites by Marriott Dallas West/I-30,4.4,TX,S
+456,Wynn Las Vegas,4.7,NV,W
+457,Clubhouse Hotel & Suites,4.5,ND,M
+458,DoubleTree by Hilton Hotel Bay City - Riverfront,4.5,MI,W
+459,Alamo Motel,4.3,CA,W
+460,Hotel Indigo Dallas Downtown,4.3,TX,S
+461,Holiday Inn Express & Suites Texarkana East,3.9,AR,S
+462,Treasure Bay Casino and Hotel,4.1,MS,S
+463,NYLO Providence Warwick Hotel Tapestry Collection by Hilton,4.1,RI,N
+464,Courtyard by Marriott Suffolk Chesapeake,4.4,VA,S
+465,DoubleTree by Hilton Hotel Monrovia - Pasadena Area,4.3,CA,W
+466,Moxy Louisville Downtown,4.3,KY,S
+467,Hyannis Harbor Hotel,3.9,MA,N
+468,The Groton Inn,4.8,MA,N
+469,Plaza Beach Hotel - Beachfront Resort,4.6,FL,S
+470,C'Mon Inn,4.3,ND,M
+472,Toll House Hotel,4.3,CA,W
+473,Hyatt Regency Santa Clara,4.3,CA,W
+474,Quality Inn & Suites Blue Springs - Kansas City,3.9,MO,M
+475,Hotel Renovo,4.6,IA,M
+476,Crystal Cove Beach Cottages,4.7,CA,W
+477,Tru By Hilton Beavercreek Dayton,4.5,OH,M
+478,Holiday Inn & Suites Decatur-Forsyth,4.0,IL,M
+479,Black Swan Inn,4.7,ID,W
+480,C'mon Inn,4.6,MT,W
+481,Kimpton Hotel Monaco Denver,4.5,CO,W
+482,Radisson Lackawanna Station Hotel Scranton,4.2,PA,N
+483,Tru by Hilton Fayetteville I 95,4.6,NC,S
+484,The Partridge Inn Augusta Curio Collection by Hilton,4.3,GA,S
+485,Hotel Deco,4.1,NE,W
+486,Morongo Casino Resort and Spa,4.2,CA,W
+487,Ashland Springs Hotel,4.5,OR,W
+488,Embassy Suites by Hilton Valencia,4.4,CA,W
+489,TownePlace Suites by Marriott Owensboro,4.5,KY,S
+490,Hilton Garden Inn Gilroy,4.3,CA,W
+491,Wyndham Garden Stillwater,4.0,OK,S
+492,Holiday Inn Express & Suites Coeur D Alene I-90 Exit 11,4.5,ID,W
+493,DoubleTree by Hilton,4.2,CA,W
+494,Hotel Galvez and Spa,4.4,TX,S
+495,Fairfield Inn & Suites by Marriott Cleveland,4.4,TN,S
+496,Santa Maria Inn,4.2,CA,W
+497,Best Western Plus Atrium Inn & Suites,4.5,TN,S
+498,The Wilbur Lititz Tapestry Collection by Hilton,4.7,PA,N
+499,Best Western Exeter Inn & Suites,4.4,CA,W
+500,Mission Inn Hotel & Spa,4.6,CA,W
+501,The Cliff House at Pikes Peak,4.6,CO,W
+502,Embassy Suites by Hilton Mandalay Beach Resort,4.1,CA,W
+503,The McCormick Scottsdale,4.3,AZ,W
+504,Hyatt Place Sumter / Downtown,4.5,SC,S
+505,The Lautner Compound,4.6,CA,W
+506,Hyatt Herald Square New York,4.2,NY,N
+507,Best Western Encinitas Inn & Suites at Moonlight Beach,4.0,CA,W
+508,Boston Fenway Inn by FOUND,3.7,MA,N
+509,Aloft Tulsa Downtown,4.0,OK,S
+510,DoubleTree by Hilton Fort Smith City Center,4.2,AR,S
+511,Charleston Marriott Town Center,4.2,WV,S
+512,DoubleTree by Hilton Hotel Los Angeles - Commerce,4.3,CA,W
+513,Grand Lodge Hotel & Waterpark,4.2,WI,M
+514,Best Western Plus The Inn & Suites at Muskogee,4.1,OK,S
+515,Hotel Indigo Seattle Everett Waterfront,4.4,WA,W
+516,Holiday Inn Express & Suites Porterville,4.4,CA,W
+517,Renaissance Mobile Riverview Plaza Hotel,4.5,AL,S
+518,Club Quarters Hotel Philadelphia Rittenhouse Square,4.0,PA,N
+519,Best Western Gateway to the Keys,4.2,FL,S
+520,Holiday Inn & Suites Memphis - Wolfchase Galleria,4.4,TN,S
+521,Holiday Inn Express & Suites Panama City Beach - Beachfront,4.7,FL,S
+522,Holiday Inn Express & Suites Tacoma Downtown,4.3,WA,W
+523,Precious Moments Hotel,4.3,MO,M
+524,Sheraton Erie Bayfront Hotel,4.4,PA,N
+525,Tru by Hilton Edinburg,3.7,TX,S
+526,Fairfield Inn & Suites by Marriott Harrisburg International Airport,4.5,PA,N
+527,DoubleTree by Hilton Hotel Montgomery Downtown,4.2,AL,S
+528,DoubleTree by Hilton Hotel Rochester - Mayo Clinic Area,4.5,MN,M
+529,Country Inn & Suites by Radisson Grand Forks ND,4.1,ND,M
+530,Days Inn by Wyndham Columbus IN,3.0,IN,M
+531,Hyatt Regency Frisco - Dallas,4.5,TX,S
+532,Holiday Inn Express & Suites Painesville - Concord,4.6,OH,M
+533,Courtyard by Marriott Newport News Airport,4.3,VA,S
+534,Hyatt Centric Mountain View,4.7,CA,W
+535,Holiday Inn & Suites Memphis - Wolfchase Galleria,4.4,TN,S
+536,Canopy by Hilton Jersey City Arts District,4.7,NJ,N
+537,Holiday Inn Express & Suites Chowchilla - Yosemite Park Area,4.2,CA,W
+538,Hilton Columbia Center,4.5,SC,S
+539,Morongo Casino Resort and Spa,4.2,CA,W
+540,Caesars Palace,4.6,NV,W
+541,Hilton Garden Inn San Marcos,4.4,TX,S
+542,Hilton Melbourne Beach Oceanfront,4.3,FL,S
+543,Granville Inn,4.4,OH,M
+544,Courtyard by Marriott Loveland Fort Collins,4.6,CO,W
+545,Courtyard by Marriott Dothan,4.2,AL,S
+546,Macon Marriott City Center,4.0,GA,S
+547,The Westin Lake Mary Orlando North,4.4,FL,S
+548,TownePlace Suites by Marriott Columbia,4.7,MO,M
+549,Holiday Inn Express & Suites Kansas City Sport Complex Area,4.0,MO,M
+550,Holiday Inn Express & Suites Kingsport-Meadowview I-26,4.4,TN,S
+551,The Woodlands Resort,4.5,TX,S
+552,Ramada by Wyndham Enid,3.8,OK,S
+553,Courtyard by Marriott Danville,4.1,VA,S
+554,Best Western Plus Executive Inn & Suites,3.9,CA,W
+556,Houston Marriott South at Hobby Airport,4.2,TX,S
+557,DoubleTree by Hilton Hotel Racine Harbourwalk,4.2,WI,M
+558,Tropicana Evansville,4.0,IN,M
+559,Columbus Marriott,4.3,GA,S
+560,The Coeur d'Alene Resort,4.5,ID,W
+561,DoubleTree by Hilton Hotel Los Angeles - Norwalk,4.1,CA,W
+562,Holiday Inn Express & Suites Warner Robins North West,4.3,GA,S
+563,The Hayes Street Hotel Nashville,4.1,TN,S
+564,Castle Hotel Autograph Collection,4.4,FL,S
+565,Hotel Lucent,4.4,CA,W
+566,Atlanta Marriott Marquis,4.4,GA,S
+567,Hyatt Place Dublin/Pleasanton,4.4,CA,W
+568,Renaissance Toledo Downtown Hotel,4.4,OH,M
+569,Hyatt Regency St. Louis At The Arch,4.4,MO,M
+570,The Woodmark Hotel,4.6,WA,W
+571,Weathervane Inn,4.5,MI,W
+572,Town & Country Inn and Suites,4.5,IL,M
+573,Hampton Inn Morgan Hill,4.4,CA,W
+575,Best Western Plus Lawnfield Inn & Suites,4.6,OH,M
+576,La Quinta Inn & Suites by Wyndham Rapid City,4.1,SD,M
+577,Best Western Danville Sycamore Inn,4.2,CA,W
+578,Nobu Ryokan Malibu,4.6,CA,W
+580,Peppermill Resort Spa Casino,4.4,NV,W
+581,The Breakers Palm Beach,4.8,FL,S
+582,Cheyenne Mountain Colorado Springs A Dolce Resort,4.3,CO,W
+583,Fort Lauderdale Grand Hotel,3.3,FL,S
+584,Crowne Plaza Hotels & Resorts Phoenix - Chandler Golf Resort,4.1,AZ,W
+585,Torrance Marriott Redondo Beach,4.3,CA,W
+586,Eldridge Hotel,4.4,KS,M
+587,Lakehouse Hotel and Golf Resort,4.5,CA,W
+589,Holiday Inn & Suites Bellingham,4.6,WA,W
+590,Graduate Bloomington,4.5,IN,M
+591,Harrah's Laughlin,3.9,NV,W
+592,The Marquette Hotel Curio Collection by Hilton,4.4,MN,M
+593,Amway Grand Plaza Curio Collection by Hilton,4.5,MI,W
+594,Hotel Indigo Frisco,4.4,TX,S
+595,The Joseph a Luxury Collection Hotel Nashville,4.8,TN,S
+596,Metropolis Resort & Conference Center,4.1,WI,M
+597,The Hotel Bentley of Alexandria,4.4,LA,S
+599,Yogi Bear's Jellystone Park™ Camp-Resort: Tower Park,4.0,CA,W
+600,GAYLORD OPRYLAND HOTEL,4.7,TN,S
+601,Embassy Suites by Hilton South Jordan Salt Lake City,4.5,UT,W
+602,Home2 Suites By Hilton Bismarck,4.7,ND,M
+603,Manka's Inverness Lodge,4.5,CA,W
+604,The Wigwam,4.5,AZ,W
+605,Motel 6 Dyer Santa Ana Ca,3.7,CA,W
+606,Hotel Solara Hobby,4.8,TX,S
+607,Hard Rock Hotel And Casino Tulsa,4.3,OK,S
+608,Marriott Syracuse Downtown,4.5,NY,N
+609,Tru by Hilton Spartanburg,4.3,SC,S
+610,Odessa Marriott Hotel & Conference Center,4.5,TX,S
+611,Hampton Inn & Suites Valdosta/Conference Center,4.3,GA,S
+612,Indian Lakes Hotel,3.7,IL,M
+613,Club Quarters Hotel Philadelphia Rittenhouse Square,4.0,PA,N
+614,Hilton Dallas/Rockwall Lakefront,4.5,TX,S
+615,Hampton Inn Tracy,4.1,CA,W
+616,Aloft Jacksonville Tapestry Park,4.4,FL,S
+617,Hotel Contessa,4.4,TX,S
+618,Lodge On The Desert,4.5,AZ,W
+619,The Westin Virginia Beach Town Center,4.4,VA,S
+620,Cobblestone Hotel & Suites - Urbana,4.5,OH,M
+621,Hotel Retlaw Trademark Collection by Wyndham,4.4,WI,M
+622,Millennium Knickerbocker Hotel Chicago,4.1,IL,M
+623,The Tombstone Grand Hotel,3.9,AZ,W
+624,Best Western Paradise Hotel,4.1,CA,W
+625,Millennium Buffalo,4.2,NY,N
+626,Tru by Hilton Cheyenne,4.0,WY,W
+627,Holiday Inn Dallas DFW Airport Area West,3.9,TX,S
+628,Hilton Los Angeles/San Gabriel,4.3,CA,W
+629,Beach House,4.6,CA,W
+630,Embassy Suites by Hilton Jonesboro Red Wolf Convention Center,4.5,AR,S
+631,Harbor House Hotel & Marina at Pier 21,4.4,TX,S
+632,Independence Hotel,4.6,OR,W
+633,President Abraham Lincoln Springfield - a DoubleTree by Hilton Hotel,4.2,IL,M
+634,Hotel Irvine,4.3,CA,W
+635,Big Cypress Lodge,4.5,TN,S
+636,DoubleTree by Hilton Hotel Tallahassee,4.3,FL,S
+637,DoubleTree by Hilton Hotel Chicago - Alsip,4.2,IL,M
+638,Magnolia Dallas Downtown,4.3,TX,S
+639,DoubleTree by Hilton Pleasant Prairie Kenosha,4.4,WI,M
+640,Fairfield Inn & Suites by Marriott Greensboro Wendover,4.4,NC,S
+641,Hyatt Place Bowling Green,4.5,KY,S
+642,Ocean Casino Resort,4.3,NJ,N
+643,Fairfield Inn & Suites by Marriott Quincy,4.4,IL,M
+644,Hyatt Regency Tamaya Resort And Spa,4.6,NM,W
+645,Crowne Plaza Dallas Downtown,3.4,TX,S
+646,Harrah's Ak-Chin,4.2,AZ,W
+647,AC Hotel by Marriott Worcester,4.6,MA,N
+648,Holiday Inn Resort Wilmington E-Wrightsville Beach,4.5,NC,S
+649,Best Western Plus Heritage Inn,3.6,CA,W
+650,Peppermill Resort Spa Casino,4.4,NV,W
+652,The Westin Sarasota,4.5,FL,S
+653,Fairfield Inn & Suites by Marriott Altoona,4.6,PA,N
+654,The Inn at Saint Mary's,4.6,IN,M
+655,Aloft Dallas Euless,4.3,TX,S
+656,Hilton Alexandria Mark Center,4.1,VA,S
+657,Courtyard by Marriott Wayne Fairfield,4.3,NJ,N
+658,Hotel RL Olympia,4.0,WA,W
+660,Hilton Garden Inn Clarksville,4.3,TN,S
+661,Drury Inn & Suites Kansas City Independence,4.6,MO,M
+662,Hyatt Regency Wichita,4.4,KS,M
+663,Embassy Suites by Hilton Indianapolis North,4.1,IN,M
+664,Hotel Vin Autograph Collection,4.8,TX,S
+665,Hampton Inn & Suites Lynchburg,4.4,VA,S
+666,The Centennial Hotel,4.3,NH,N
+667,The Rockaway Hotel,4.9,NY,N
+668,Blue Harbor Resort,4.4,WI,M
+669,The Edgewater Hotel,4.4,WA,W
+670,The Westin Fort Lauderdale Beach Resort,4.3,FL,S
+671,816 Hotel Westport Country Club Plaza Ascend Hotel Collection,3.7,MO,M
+672,The Wigwam,4.5,AZ,W
+673,Hilton St. Petersburg Carillon Park,4.5,FL,S
+674,Hilton Garden Inn Suffolk Riverfront,4.3,VA,S
+675,Dallas/Fort Worth Marriott Hotel & Golf Club at Champions Circle,4.3,TX,S
+676,Holiday Inn Tewksbury-Andover,3.7,MA,N
+677,Sundance Mountain Resort,4.6,UT,W
+678,Hyatt Place Lincoln/Downtown-Haymarket,4.5,NE,W
+679,Hampton Inn & Suites Ashland,4.5,OH,M
+680,Hotel Albuquerque at Old Town,4.4,NM,W
+681,Courtyard by Marriott Fort Worth West at Cityview,4.3,TX,S
+682,The Nautical Beachfront Resort,4.1,AZ,W
+683,Country Inn & Suites by Radisson Sycamore IL,4.2,IL,M
+684,Radisson Hotel Fargo,4.2,ND,M
+685,Courtyard by Marriott Dayton South/Mall,4.0,OH,M
+686,Boca Beach Club A Waldorf Astoria Resort,4.6,FL,S
+687,Sheraton Cerritos Hotel,4.3,CA,W
+688,Luxor Hotel & Casino,4.2,NV,W
+689,The Inn at Stone Manor,4.6,MD,N
+690,Tru by Hilton Goodyear Phoenix West,4.4,AZ,W
+691,Hyatt Place Bloomington/Normal,4.5,IL,M
+692,Holiday Inn Express & Suites St. Cloud,4.4,MN,M
+693,Waterfront Hotel,4.2,CA,W
+694,Hotel Valencia Santana Row,4.4,CA,W
+695,Plaza Beach Hotel - Beachfront Resort,4.6,FL,S
+696,Crowne Plaza Orlando - Universal Blvd,4.2,FL,S
+697,Holiday Inn Express & Suites Meriden,3.9,CT,N
+698,Camelot Inn at Honeyville,3.7,UT,W
+699,C'mon Inn Hotel & Suites,4.3,ND,M
+700,Hilton Knoxville,4.3,TN,S
+701,Omni Fort Worth Hotel,4.4,TX,S
+702,La Quinta Inn & Suites by Wyndham Inglewood,4.1,CA,W
+703,Hilton Clearwater Beach Resort & Spa,4.2,FL,S
+704,DoubleTree by Hilton Hotel Cleveland - Westlake,4.0,OH,M
+705,Courtyard by Marriott Kalamazoo Portage,4.4,MI,W
+706,Ramada by Wyndham Enid,3.8,OK,S
+707,Holiday Inn Express & Suites Irving DFW Airport North,3.9,TX,S
+708,Hilton Garden Inn Washington DC/Greenbelt,4.2,MD,N
+711,Paséa Hotel & Spa,4.5,CA,W
+712,TRYP by Wyndham Newark Downtown,4.2,NJ,N
+713,Ocean Manor Beach Resort,4.0,FL,S
+714,Key West Resort on Lake Dora - Tavares,4.1,FL,S
+715,Hilton Garden Inn Jacksonville,4.4,NC,S
+716,Hilton Orlando Buena Vista Palace - Disney Springs Area,4.0,FL,S
+717,Courtyard by Marriott Charlotte Concord,4.3,NC,S
+718,AC Hotel by Marriott Sunnyvale Cupertino,4.3,CA,W
+719,Best Western Plus Prairie Inn,4.4,OR,W
+720,Ponte Vineyard Inn,4.7,CA,W
+721,The Murieta Inn and Spa,4.5,CA,W
+722,Hilton Garden Inn Beaumont TX,4.2,TX,S
+723,Hilton Garden Inn Houston-Baytown,4.7,TX,S
+725,Ramada by Wyndham Sioux City,2.7,IA,M
+726,The Centennial Hotel Spokane,3.9,WA,W
+727,Hilton Garden Inn Lawton-Fort Sill,4.4,OK,S
+728,Marriott Shoals Hotel & Spa,4.6,AL,S
+729,Embassy Suites by Hilton Orlando-Lake Buena Vista South,4.6,FL,S
+730,Hilton Orlando,4.5,FL,S
+731,Sheraton College Park North Hotel,3.9,MD,N
+732,The Charmant Hotel,4.6,WI,M
+733,The Hotel Maison,4.3,WA,W
+734,Comfort Inn & Suites,4.4,OR,W
+735,Courtyard by Marriott Greenville Downtown,4.5,SC,S
+736,Courtyard by Marriott Muncie at Horizon Convention Center,4.5,IN,M
+737,La Quinta Inn & Suites by Wyndham Orange County Airport,4.0,CA,W
+738,Courtyard by Marriott Albuquerque,4.2,NM,W
+739,Park Suites,5.0,OH,M
+740,Hilton Clearwater Beach Resort & Spa,4.2,FL,S
+741,Home2 Suites by Hilton Abilene,4.5,TX,S
+742,Oceanside Inn & Suites,2.8,CA,W
+743,Capitol Plaza Hotel and Convention Center,3.7,MO,M
+744,Omni Tucson National Resort,4.3,AZ,W
+745,Holiday Inn Express & Suites Lafayette East,4.1,IN,M
+746,Courtyard by Marriott Ames,3.9,IA,M
+747,Visalia Marriott at the Convention Center,4.3,CA,W
+748,Hotel Indigo Gainesville-Celebration Pointe,4.5,FL,S
+749,La Quinta by Wyndham Altoona Des Moines,4.5,IA,M
+750,Nantasket Beach Resort,4.3,MA,N
+751,DoubleTree by Hilton Hotel Missoula - Edgewater,4.2,MT,W
+752,Hyatt Regency Princeton,4.3,NJ,N
+753,University Plaza Waterfront Hotel,4.3,CA,W
+754,Tideline Ocean Resort & Spa,3.9,FL,S
+755,Best Western Seacliff Inn,4.3,CA,W
+756,Rosewood CordeValle,4.8,CA,W
+757,Best Western Plus Executive Inn & Suites,3.9,CA,W
+758,The Westin Virginia Beach Town Center,4.4,VA,S
+759,Royal Park Hotel,4.6,MI,W
+760,Embassy Suites by Hilton Los Angeles Downey,4.3,CA,W
+761,Nobu Hotel Chicago,4.4,IL,M
+762,Hyatt Regency Cleveland At The Arcade,4.4,OH,M
+763,Lithia Springs Resort - Oregon's Mineral Waters Retreat,4.6,OR,W
+764,Homewood Suites by Hilton Atlanta/Perimeter Center,4.3,GA,S
+765,Days Inn & Suites by Wyndham Warren,2.8,MI,W
+766,Ambiance,4.4,IL,M
+767,Gaylord Texan Resort & Convention Center,4.5,TX,S
+768,Park Lane Hotel NY,4.0,NY,N
+769,Hampton Inn & Suites Columbia Killian Road,4.7,SC,S
+770,Fort Lauderdale Grand Hotel,3.3,FL,S
+771,DoubleTree by Hilton Hotel Rochester - Mayo Clinic Area,4.5,MN,M
+772,Quality Inn,3.7,MI,W
+773,Best Western Leesburg Hotel & Conference Center,3.9,VA,S
+774,Hilton Garden Inn Denver Downtown,4.2,CO,W
+775,Chaminade Resort & Spa,4.2,CA,W
+776,Sleep Inn & Suites,4.1,IN,M
+777,HOTEL DU PONT,4.3,DE,N
+778,Studio Allston Hotel,4.0,MA,N
+779,Sheraton Los Angeles San Gabriel,4.4,CA,W
+780,Hilton San Diego Bayfront,4.4,CA,W
+781,Monterey Park Inn,3.3,CA,W
+782,The H Hotel,4.6,MI,W
+783,Surfcomber On The Ocean,4.7,MA,N
+784,Graduate Richmond,4.2,VA,S
+785,21c Museum Hotel Durham,4.5,NC,S
+786,Courtyard by Marriott New Braunfels River Village,4.4,TX,S
+787,Hotel Shangri-La,4.2,CA,W
+789,Courtyard by Marriott Salt Lake City Layton,4.3,UT,W
+790,Cambria Hotel Sonoma Wine Country,4.5,CA,W
+791,DoubleTree by Hilton Hotel Murfreesboro,4.1,TN,S
+792,The Celeste Hotel Orlando a Tribute Portfolio Hotel,5.0,FL,S
+793,The Liberty a Luxury Collection Hotel Boston,4.4,MA,N
+795,Hilton Arlington,4.3,TX,S
+796,Paséa Hotel & Spa,4.5,CA,W
+797,Garden of the Gods Resort & Club,4.6,CO,W
+798,Holiday Inn Express & Suites Belgrade,4.5,MT,W
+799,The Centennial Hotel Spokane,3.9,WA,W
+800,Best Western Premier Crown Chase Inn & Suites,4.6,TX,S
+801,JW Marriott Desert Springs Resort & Spa,4.6,CA,W
+802,The Laszlo Hotel,4.3,CO,W
+803,Hotel Zena,4.2,DC,N
+804,The STRAT Hotel Casino & SkyPod,4.1,NV,W
+805,Lake Arrowhead Resort and Spa,4.2,CA,W
+806,The Tombstone Grand Hotel,3.9,AZ,W
+807,The Westin Waltham Boston,4.2,MA,N
+808,The Rockaway Hotel,4.8,NY,N
+809,AC Hotel by Marriott Columbus Dublin,4.6,OH,M
+810,Caesars Palace,4.6,NV,W
+811,Fairwind Hotel Miami,4.2,FL,S
+812,The Ritz-Carlton Rancho Mirage,4.7,CA,W
+813,Hotel Ava,3.8,TX,S
+814,Hilton Virginia Beach Oceanfront,4.2,VA,S
+815,Gruene River Hotel & Retreat,4.8,TX,S
+816,Hotel Millwright In Amana,5.0,IA,M
+817,Hampton Inn & Suites Tacoma/Puyallup,4.2,WA,W
+819,The Clancy Autograph Collection,4.8,CA,W
+820,Isleta Resort & Casino,4.1,NM,W
+821,Courtyard by Marriott Charleston Historic District,4.2,SC,S
+822,Hotel Boulderado,4.6,CO,W
+823,DoubleTree by Hilton Hotel Denver Tech Center,4.3,CO,W
+824,Hilton Cincinnati Netherland Plaza,4.4,OH,M
+825,Omni Dallas Hotel,4.6,TX,S
+826,The Belamar Hotel,4.3,CA,W
+827,Hilton Garden Inn Seattle Downtown,4.3,WA,W
+828,Hyatt Regency Baltimore Inner Harbor,4.4,MD,N
+829,DoubleTree by Hilton Hotel Cleveland - Independence,4.0,OH,M
+830,Cocopah Resort & Conference Center,4.1,AZ,W
+831,Homewood Suites by Hilton Rocky Mount,4.6,NC,S
+833,The Madison Washington DC a Hilton Hotel,4.2,DC,N
+834,Quality Inn Merrimack - Nashua,3.8,NH,N
+835,Hyatt Place Athens / Downtown,4.5,GA,S
+836,SCP Hotel Colorado Springs,4.2,CO,W
+837,Home2 Suites by Hilton Victorville,4.5,CA,W
+839,TownePlace Suites by Marriott Macon Mercer University,4.6,GA,S
+840,Bluemont Hotel,4.6,KS,M
+842,10 Clarke,4.9,MD,N
+843,Hilton Garden Inn Salina,4.5,KS,M
+844,SpringHill Suites by Marriott Chattanooga North/Ooltewah,4.7,TN,S
+845,Hilton Richmond Hotel & Spa/Short Pump,4.5,VA,S
+846,Sybaris Northbrook,4.7,IL,M
+847,The Westin Savannah Harbor Golf Resort & Spa,4.4,GA,S
+848,Tusculum Farm,4.9,MD,N
+849,Agua Caliente Resort Casino Spa Rancho Mirage,4.2,CA,W
+850,The Bicycle Hotel & Casino,4.1,CA,W
+851,Home2 Suites by Hilton Yakima Airport,4.6,WA,W
+853,WangShi China Palace Bed and Breakfast,5.0,OK,S
+854,Extended Stay America - San Diego - Oceanside,3.7,CA,W
+855,The Wayfarer Downtown Los Angeles,4.3,CA,W
+856,Wine Country Inn,4.6,CO,W
+857,Holiday Inn & Suites Clearwater Beach,4.2,FL,S
+858,Hyatt Place Warwick Providence Airport,4.5,RI,N
+859,Best Western Plus Riverfront Hotel and Suites,4.1,MT,W
+860,Hotel Lincoln,4.4,IL,M
+861,DoubleTree by Hilton Hotel Sterling - Dulles Airport,4.2,VA,S
+862,The Saguaro Palm Springs,4.1,CA,W
+863,Pelican Grand Beach Resort,4.4,FL,S
+864,Courtyard by Marriott San Marcos,4.4,TX,S
+865,Millennium Hilton New York Downtown,4.2,NY,N
+866,Castle Hotel Autograph Collection,4.4,FL,S
+867,Hilton Garden Inn Denison/Sherman/At Texoma Event Center,4.5,TX,S
+868,Harrah's Laughlin,3.9,NV,W
+869,Hilton Garden Inn Lawton-Fort Sill,4.4,OK,S
+870,The Peacock Inn,4.5,NJ,N
+871,Stone House,4.1,RI,N
+872,Hilton Bellevue,4.2,WA,W
+873,Hilton Garden Inn West Des Moines,4.4,IA,M
+874,Best Western Orlando Gateway Hotel,4.0,FL,S
+875,Holiday Inn Express & Suites Tyler South,4.0,TX,S
+876,Holiday Inn Express & Suites Albany,4.5,GA,S
+877,Courtyard by Marriott Ames,4.0,IA,M
+878,Hewing Hotel,4.5,MN,M
+879,Lizzie Borden Bed and Breakfast Museum,4.7,MA,N
+880,Holiday Inn Express & Suites Norman,4.4,OK,S
+881,Hyatt House Indianapolis / Downtown,4.6,IN,M
+882,Design Suites Miami Beach,3.6,FL,S
+883,Hilton Minneapolis,4.3,MN,M
+884,The Post Oak Hotel at Uptown Houston,4.7,TX,S
+885,Hilton Daytona Beach Oceanfront Resort,4.1,FL,S
+886,Guest House at Graceland,4.4,TN,S
+887,DoubleTree by Hilton Hotel Washington DC - Crystal City,4.1,VA,S
+888,Hilton Stockton,4.1,CA,W
+889,Barona Resort & Casino,4.4,CA,W
+890,Best Western Premier Boulder Falls Inn,4.7,OR,W
+891,St. Louis Union Station Hotel Curio Collection by Hilton,4.3,MO,M
+892,Hilton Ocala,4.3,FL,S
+893,The Inn at Bowman's Hill,4.9,PA,N
+894,SpringHill Suites by Marriott Stillwater,4.1,OK,S
+895,Comfort Inn,3.8,IN,M
+896,Courtyard by Marriott Charlotte Gastonia,4.4,NC,S
+897,Courtyard by Marriott Corvallis,4.6,OR,W
+898,Courtyard by Marriott Cape Girardeau Downtown,4.9,MO,M
+899,Stagecoach Inn,4.2,TX,S
+900,Ocean Casino Resort,4.3,NJ,N
+901,AC Hotel by Marriott Columbus Dublin,4.6,OH,M
+902,Hyatt Place Canton,4.4,OH,M
+903,Courtyard by Marriott Tacoma Downtown,4.4,WA,W
+904,DoubleTree Suites by Hilton Hotel Raleigh - Durham,4.3,NC,S
+905,Tru by Hilton Sumter,4.4,SC,S
+906,Courtyard by Marriott Stuart,4.5,FL,S
+907,Treetop Hideaways,4.8,GA,S
+908,Atlanta Marriott Marquis,4.4,GA,S
+909,DoubleTree by Hilton Hotel Houston - Greenway Plaza,4.1,TX,S
+910,Crowne Plaza Dallas Downtown,3.4,TX,S
+911,DoubleTree by Hilton Hotel Bay City - Riverfront,4.5,MI,W
+912,Holmes Student Center Guest Room,4.3,IL,M
+913,Omni Los Angeles Hotel at California Plaza,4.4,CA,W
+914,La Quinta Inn & Suites by Wyndham Dallas Duncanville,4.5,TX,S
+915,Red Roof Inn & Suites Jacksonville NC,3.8,NC,S
+916,Sybaris Downers Grove,4.3,IL,M
+917,Radisson Hotel Bismarck,4.0,ND,M
+918,AC Hotel by Marriott Los Angeles South Bay,4.5,CA,W
+919,Hotel Indigo Kansas City Downtown,4.5,MO,M
+920,Wyndham Deerfield Beach Resort,4.5,FL,S
+921,Magnolia Creek Lodge,5.0,AL,S
+922,Saguaro Lake Guest Ranch,4.7,AZ,W
+923,Fairfield Inn & Suites by Marriott Tacoma DuPont,4.6,WA,W
+924,Courtyard by Marriott Florence,4.2,SC,S
+925,Home2 Suites By Hilton Clarksville Louisville North,4.2,IN,M
+926,Hutchinson Island Plaza Hotel & Suites,4.3,FL,S
+927,The Lofts at Downtown Salem,4.8,VA,S
+928,Mystic Marriott Hotel & Spa,4.4,CT,N
+929,Inn At Langley,4.8,WA,W
+930,Hilton Cabana Miami Beach,3.9,FL,S
+931,Radisson Hotel Fargo,4.2,ND,M
+932,Country Inn & Suites by Radisson Mankato Hotel and Conference Center MN,4.3,MN,M
+933,Pelican Grand Beach Resort,4.4,FL,S
+934,D. Hotel Suites & Spa,4.4,MA,N
+935,Country Inn & Suites by Radisson Wausau WI,4.4,WI,M
+936,Hilton Wilmington/Christiana,4.4,DE,N
+937,Soboba Casino Resort,3.9,CA,W
+939,Dover Downs Hotel & Casino,4.3,DE,N
+941,Hilton Garden Inn Wilmington Mayfaire Town Center,4.2,NC,S
+942,Hampton Inn Boston/Marlborough,4.4,MA,N
+943,Hilton Garden Inn Beaumont TX,4.2,TX,S
+944,GrandStay® Residential Suites Hotel St Cloud,4.2,MN,M
+945,The Don CeSar,4.4,FL,S
+946,Overton Hotel & Conference Center,4.5,TX,S
+947,St. James Hotel New Orleans Downtown (French Quarter Area),4.1,LA,S
+948,Hilton Ocala,4.3,FL,S
+950,Residence Inn by Marriott Provo South University,4.7,UT,W
+951,Hotel McCoy - Art Coffee Beer Wine,4.7,AZ,W
+952,Country Inn & Suites by Radisson Shreveport-Airport LA,3.7,LA,S
+953,Days Inn by Wyndham St. Louis North,2.8,MO,M
+954,Opal Sands Resort,4.6,FL,S
+955,Tru by Hilton Cheyenne,4.0,WY,W
+956,Omni La Costa Resort & Spa,4.5,CA,W
+957,Courtyard by Marriott Las Cruces at NMSU,4.5,NM,W
+958,Nobu Hotel Miami Beach,4.1,FL,S
+959,Hilton Americas-Houston,4.5,TX,S
+960,Island Beach Resort,4.4,FL,S
+961,Embassy Suites by Hilton Hampton Convention Center,4.3,VA,S
+962,Wingate by Wyndham Lancaster / PA Dutch Country,3.8,PA,N
+963,The Godfrey Hotel Chicago,4.2,IL,M
+964,Stratus Suites - Boutique Hotel,4.5,TX,S
+965,Pacific Palms Resort,4.4,CA,W
+966,The Westin Savannah Harbor Golf Resort & Spa,4.4,GA,S
+967,The Lafayette Hotel Swim Club & Bungalows,4.4,CA,W
+968,C'mon Inn Hotel & Suites,4.3,ND,M
+969,Hilton Waco,4.4,TX,S
+970,Sheraton Grand Sacramento Hotel,4.3,CA,W
+971,The Heathman Lodge,4.5,WA,W
+972,Home2 Suites by Hilton Warner Robins,4.4,GA,S
+973,Courtyard by Marriott Pueblo Downtown,4.3,CO,W
+974,21c Museum Hotel Durham,4.5,NC,S
+975,Fairfield Inn & Suites by Marriott Houston Hobby Airport,3.9,TX,S
+976,Holiday Inn Express & Suites Ames,4.3,IA,M
+977,The Partridge Inn Augusta Curio Collection by Hilton,4.3,GA,S
+978,Courtyard by Marriott Fort Myers Cape Coral,4.0,FL,S
+979,La Quinta Inn by Wyndham Laredo I-35,3.7,TX,S
+980,Palm Beach Gardens Marriott,4.1,FL,S
+981,The Godfrey Hotel Boston,4.5,MA,N
+982,Hard Rock Hotel and Casino Sacramento,3.8,CA,W
+983,Hampton Inn Joplin,4.4,MO,M
+984,Hyatt Regency St. Louis At The Arch,4.4,MO,M
+985,Westfields Marriott Washington Dulles,4.5,VA,S
+986,Courtyard by Marriott Springfield Airport,4.1,MO,M
+987,Alaskan Inn and Spa,4.3,UT,W
+988,Executive Airport Hotel,4.3,FL,S
+989,Courtyard by Marriott Des Moines Ankeny,4.5,IA,M
+990,Element Bloomington Mall of America,4.7,MN,M
+991,The Elizabeth Hotel Autograph Collection,4.7,CO,W
+992,Omni Viking Lakes Hotel,4.8,MN,M
+993,The Madison Hotel Morristown NJ,4.4,NJ,N
+994,Texican Court,4.5,TX,S
+995,Crystal Cove Beach Cottages,4.7,CA,W
+996,Mohegan Sun Pocono,4.0,PA,N
+997,Marriott Sanibel Harbour Resort & Spa,4.4,FL,S
+998,Arlo SoHo,4.3,NY,N
+1000,DoubleTree by Hilton Hotel Portland,4.2,OR,W
+1001,Best Western Plus Heritage Inn,3.6,CA,W
+1002,Radisson Suites Hotel Anaheim - Buena Park,3.0,CA,W
+1003,Hampton Inn High Point,4.2,NC,S
+1004,The STRAT Hotel Casino & SkyPod,4.1,NV,W
+1005,Hyatt House Jersey City,4.4,NJ,N
+1006,Holiday Inn Express & Suites Tulsa S Broken Arrow Hwy 51,4.5,OK,S
+1007,Country Inn & Suites by Radisson Waterloo IA,4.0,IA,M
+1008,Holiday Inn Quincy,4.3,IL,M
+1009,The Moran CITYCENTRE,4.5,TX,S
+1010,SpringHill Suites by Marriott Belmont Redwood Shores,4.5,CA,W
+1011,Hotel Indigo Columbus Architectural Center,4.5,IN,M
+1012,Delamar Greenwich Harbor,4.5,CT,N
+1013,Harrah's Kansas City,4.0,MO,M
+1014,Residence Inn by Marriott Phoenix Mesa East,4.4,AZ,W
+1015,Best Western Plus Anaheim Orange County Hotel,4.1,CA,W
+1016,Best Western Paradise Hotel,4.1,CA,W
+1017,Hotel Valencia Santana Row,4.4,CA,W
+1018,Courtyard by Marriott Dallas Flower Mound,4.6,TX,S
+1019,The Townsend Hotel,4.6,MI,W
+1020,The Sinclair Autograph Collection,4.5,TX,S
+1022,Wheatleigh,4.8,MA,N
+1023,Fairfield Inn & Suites by Marriott St. Joseph,4.6,MO,M
+1024,Mission Inn Hotel & Spa,4.6,CA,W
+1025,Holiday Inn Express Hutchinson,4.3,KS,M
+1026,The Westin Bonaventure Hotel & Suites Los Angeles,4.4,CA,W
+1027,Crowne Plaza Orlando - Universal Blvd,4.2,FL,S
+1028,Little America Hotel,4.5,AZ,W
+1029,W Miami,4.6,FL,S
+1030,The Hollywood Roosevelt,4.4,CA,W
+1031,DoubleTree by Hilton Hotel Johnson City,4.3,TN,S
+1032,Hampton Inn and Suites Johns Creek,4.7,GA,S
+1033,The Beachcomber - St. Pete Beach,4.3,FL,S
+1034,SpringHill Suites by Marriott Austin Round Rock,4.2,TX,S
+1035,Aloft Broomfield Denver,4.3,CO,W
+1036,The Farmhouse at White Horse Winery,5.0,NJ,N
+1037,Best Western Orlando Gateway Hotel,4.0,FL,S
+1038,The Admiral Hotel Mobile Curio Collection by Hilton,4.2,AL,S
+1039,Marriott Syracuse Downtown,4.5,NY,N
+1040,Hilton Meadowlands,3.9,NJ,N
+1041,Ventura Beach Marriott,4.2,CA,W
+1042,Sheraton Mesa Hotel at Wrigleyville West,4.4,AZ,W
+1043,Macon Marriott City Center,4.0,GA,S
+1044,Tru by Hilton Meridian Boise West,4.2,ID,W
+1045,Tru by Hilton Vestal,4.6,NY,N
+1046,Walt Disney World Swan,4.4,FL,S
+1047,Hampton Inn & Suites Orem,4.3,UT,W
+1048,Hyatt Regency Huntington Beach Resort And Spa,4.6,CA,W
+1049,Holiday Inn Express & Suites Arlington (I-20-Parks Mall),4.2,TX,S
+1050,The Guitar Hotel at Seminole Hard Rock,4.5,FL,S
+1051,Holiday Inn Express & Suites Wilson I-95,4.0,NC,S
+1052,Drury Plaza Hotel Dallas Richardson,4.9,TX,S
+1053,Hotel Indigo Kansas City Downtown,4.5,MO,M
+1054,Pacifica Lighthouse Trademark Collection by Wyndham,4.1,CA,W
+1055,Hilton Tampa Downtown,4.4,FL,S
+1056,Houston Marriott Sugar Land,4.4,TX,S
+1057,Hilton Garden Inn Victorville,4.3,CA,W
+1058,Berrodin Bed & Breakfast,4.8,OH,M
+1059,The Landing Hotel NY,4.3,NY,N
+1060,Sheraton Tampa Riverwalk Hotel,3.9,FL,S
+1061,Country Inn & Suites by Radisson Texarkana TX,4.2,TX,S
+1062,Hilton Garden Inn Rochester Downtown,4.3,MN,M
+1063,Best Western Roosevelt Place Hotel,4.3,ND,M
+1064,Hampton Inn & Suites Wilson I-95,4.2,NC,S
+1065,Country Inn & Suites by Radisson York PA,3.9,PA,N
+1066,Holiday Inn Express & Suites Chico,4.4,CA,W
+1067,Tru By Hilton Duluth Mall Area,4.4,MN,M
+1068,Isle Casino Hotel Waterloo,3.8,IA,M
+1069,Best Western Plus Navigator Inn & Suites,4.2,WA,W
+1070,Marriott Sanibel Harbour Resort & Spa,4.4,FL,S
+1071,Grand Beach Hotel Surfside,4.1,FL,S
+1072,Hampton Inn & Suites Lawton,4.1,OK,S
+1073,La Quinta Resort & Club A Waldorf Astoria Resort,4.6,CA,W
+1074,Indianapolis Marriott East,4.3,IN,M
+1075,OYO Hotel Palmdale - Antelope Valley,3.7,CA,W
+1076,Hilton Garden Inn Abilene,4.3,TX,S
+1077,Hampton Inn Bowling Green,4.2,KY,S
+1078,Sheraton Indianapolis Hotel at Keystone Crossing,4.1,IN,M
+1080,Kalamazoo House Bed & Breakfast,5.0,MI,W
+1081,The Hotel Roanoke & Conference Center Curio Collection by Hilton,4.7,VA,S
+1082,Weathervane Inn,4.5,MI,W
+1083,Hyatt Regency Orange County,4.4,CA,W
+1084,Hampton Inn & Suites Albany At Albany Mall,4.4,GA,S
+1085,Big Cypress Lodge,4.5,TN,S
+1086,Holiday Inn Casa Grande,4.0,AZ,W
+1087,DoubleTree by Hilton Harrisonburg,4.1,VA,S
+1088,Holiday Inn Express & Suites Lafayette East,4.1,IN,M
+1089,DoubleTree by Hilton Hotel & Suites Charleston Airport,4.3,SC,S
+1090,The Lytle Park Hotel Autograph Collection,4.6,OH,M
+1091,Fairfield Inn & Suites by Marriott Greensboro Wendover,4.4,NC,S
+1092,Fairfield Inn & Suites by Marriott St. Joseph,4.6,MO,M
+1093,Hilton Garden Inn Homestead,5.0,FL,S
+1094,Krystal Drake,0.0,TX,S
+1095,Buena Vista House,4.8,OR,W
+1096,The Delavan Hotel,4.3,NY,N
+1097,Courtyard by Marriott New Braunfels River Village,4.4,TX,S
+1098,Hard Rock Hotel Daytona Beach,4.4,FL,S
+1099,Morongo Casino Resort and Spa,4.2,CA,W
+1100,Sheraton Arlington Hotel,4.3,TX,S
+1101,AC Hotel by Marriott Madison Downtown,4.6,WI,M
+1102,La Quinta Inn & Suites by Wyndham-Albany GA,4.7,GA,S
+1103,Embassy Suites by Hilton Brea North Orange County,4.4,CA,W
+1104,Comfort Inn & Suites Near Danville Mall,4.1,VA,S
+1105,Sheraton Suites Chicago O'Hare,4.3,IL,M
+1106,The Liberty a Luxury Collection Hotel Boston,4.4,MA,N
+1107,Houston Marriott Sugar Land,4.4,TX,S
+1108,Holiday Inn Express & Suites Twin Falls,4.4,ID,W
+1109,Hyatt Regency San Francisco,4.4,CA,W
+1110,Comfort Inn & Suites,4.1,MO,M
+1111,Knott's Berry Farm Hotel,4.2,CA,W
+1112,Casa De Palmas Trademark Collection by Wyndham,4.4,TX,S
+1113,Tachi Palace Casino Resort,4.2,CA,W
+1114,Sundance Mountain Resort,4.6,UT,W
+1115,Hotel Alex Johnson Rapid City Curio Collection by Hilton,4.4,SD,M
+1116,The Clarendon Hotel and Spa by GreenTree,4.3,AZ,W
+1117,Crowne Plaza Hotels & Resorts Phoenix - Chandler Golf Resort,4.1,AZ,W
+1118,Hotel Zico,4.4,CA,W
+1119,Staybridge Suites Merrillville,4.5,IN,M
+1120,Country Inn & Suites by Radisson Gainesville FL,4.4,FL,S
+1121,Ocean Manor Beach Resort,4.0,FL,S
+1122,Radisson Hotel Lenexa Overland Park,4.0,KS,M
+1123,GARRISON INN Boutique Hotel,4.4,MA,N
+1124,NUVO SUITES HOTEL,4.1,FL,S
+1125,Hyatt Centric Mountain View,4.6,CA,W
+1126,Hyatt House Houston/Galleria,4.2,TX,S
+1127,Hotel Albuquerque at Old Town,4.4,NM,W
+1128,Country Inn & Suites by Radisson Dakota Dunes SD,4.2,SD,M
+1129,Hilton Shreveport,4.2,LA,S
+1130,Pomelo Grove,5.0,TN,S
+1131,Blu-tique Hotel,4.9,OH,M
+1132,The Westin Virginia Beach Town Center,4.4,VA,S
+1133,Hacienda De Leal,4.4,CA,W
+1134,Courtyard by Marriott Charlotte Concord,4.3,NC,S
+1135,La Quinta Inn by Wyndham San Diego Vista,3.5,CA,W
+1136,Design Suites Miami Beach,3.6,FL,S
+1137,Hotel Interurban,4.2,WA,W
+1138,Travelodge by Wyndham Brea,3.5,CA,W
+1139,Agua Caliente Resort Casino Spa Rancho Mirage,4.2,CA,W
+1140,Courtyard by Marriott Los Angeles LAX/Hawthorne,4.4,CA,W
+1141,The Westin Huntsville,4.4,AL,S
+1142,The Westin Washington National Harbor,4.3,MD,N
+1143,Holiday Inn & Suites Anaheim - Fullerton,4.3,CA,W
+1144,Hilton Garden Inn Victorville,4.3,CA,W
+1145,Hotel Millwright In Amana,5.0,IA,M
+1146,MCM Eleganté Hotel,4.1,TX,S
+1147,Hard Rock Hotel and Casino Biloxi,4.3,MS,S
+1148,Bear Springs Hotel,4.6,CA,W
+1149,Comfort Suites South,4.2,IN,M
+1150,Amway Grand Plaza Curio Collection by Hilton,4.5,MI,W
+1151,Hotel Preston,3.8,TN,S
+1152,Courtyard by Marriott Sacramento Folsom,4.2,CA,W
+1153,Hotel 39 Westminster,3.6,CA,W
+1154,Radisson Hotel Nashua,4.0,NH,N
+1155,Hyatt Regency Fairfax,4.3,VA,S
+1156,Boardwalk Inn,4.5,TX,S
+1157,Arthouse Hotel New York City,4.2,NY,N
+1158,The Hotel Bentley of Alexandria,4.4,LA,S
+1159,Country Inn & Suites by Radisson Harlingen TX,4.4,TX,S
+1160,B Ocean Resort Fort Lauderdale,3.9,FL,S
+1162,Best Western Orlando Gateway Hotel,4.0,FL,S
+1163,SpringHill Suites by Marriott Somerset Franklin Township,4.6,NJ,N
+1164,Graduate Providence,4.3,RI,N
+1165,Magnolia Hotel St. Louis a Tribute Portfolio Hotel,4.3,MO,M
+1166,The Kindler Hotel,4.7,NE,W
+1167,DoubleTree by Hilton Hotel Missoula - Edgewater,4.2,MT,W
+1168,Courtyard by Marriott San Marcos,4.4,TX,S
+1169,Little America Hotel,4.5,AZ,W
+1170,Crystal Cove Beach Cottages,4.7,CA,W
+1171,Hilton Garden Inn Victoria,4.5,TX,S
+1172,Hyatt Regency Dulles,4.2,VA,S
+1173,Caesars Palace,4.6,NV,W
+1174,Bikini Beach Resort,3.6,FL,S
+1175,Tru by Hilton Florence I-95,4.1,SC,S
+1176,DoubleTree by Hilton Hotel Memphis,4.2,TN,S
+1177,Bear Creek Mountain Resort,4.5,PA,N
+1178,Best Western Premier University Inn,4.5,MS,S
+1179,Fairfield Inn & Suites by Marriott Fort Worth South/Burleson,4.6,TX,S
+1180,Golden Nugget Lake Charles Hotel & Casino,4.4,LA,S
+1181,Residence Inn by Marriott San Diego Carlsbad,4.3,CA,W
+1182,Beachside Hotel,4.1,FL,S
+1183,Belamere Suites,4.7,OH,M
+1184,Cherry Treesort,4.7,NC,S
+1185,Hotel Indigo Asheville Downtown,4.4,NC,S
+1186,Prescott Resort & Conference Center,4.1,AZ,W
+1187,Hampton Inn Cleveland-Downtown,4.3,OH,M
+1188,Residence Inn by Marriott Bakersfield West,5.0,CA,W
+1189,Kokopelli's Cave,4.6,NM,W
+1190,Hilton Garden Inn Salina,4.5,KS,M
+1191,Cambria Hotel Richardson - Dallas,4.6,TX,S
+1192,Ayres Hotel Seal Beach,4.6,CA,W
+1193,Comfort Inn & Suites,4.1,MO,M
+1194,DoubleTree by Hilton Lafayette East,4.6,IN,M
+1195,Hyatt Regency Dulles,4.2,VA,S
+1196,Fairfield Inn & Suites by Marriott Greensboro Wendover,4.4,NC,S
+1197,Hotel 32|32,4.0,NY,N
+1198,The Westin Savannah Harbor Golf Resort & Spa,4.4,GA,S
+1199,Hampton Inn Carlsbad-North San Diego County,4.4,CA,W
+1200,The Inn at St. John's,4.7,MI,W
+1201,DoubleTree by Hilton Neenah,4.0,WI,M
+1202,Comfort Suites Jonesboro University Area,4.2,AR,S
+1203,Bluemont Hotel,4.6,KS,M
+1204,Peppermill Resort Spa Casino,4.4,NV,W
+1205,Sirata Beach Resort,4.0,FL,S
+1206,Cheyenne Mountain Colorado Springs A Dolce Resort,4.3,CO,W
+1207,The Westin Los Angeles Airport,4.1,CA,W
+1208,The Hotel Northampton,4.3,MA,N
+1209,The Cliffs Hotel and Spa,4.5,CA,W
+1210,Courtyard by Marriott Suffolk Chesapeake,4.4,VA,S
+1211,Talking Stick Resort,4.3,AZ,W
+1212,Cedar Lodge Arkansas Resort,4.8,AR,S
+1213,Agua Caliente Resort Casino Spa Rancho Mirage,4.2,CA,W
+1214,The Inn on Biltmore Estate,4.8,NC,S
+1215,The Galt House Hotel Trademark Collection by Wyndham,4.1,KY,S
+1216,Millennium Buffalo,4.2,NY,N
+1217,Hotel Indigo Hattiesburg,4.7,MS,S
+1218,Home2 Suites by Hilton Grand Rapids North,4.3,MI,W
+1219,Hyatt Residence Club Sarasota Siesta Key Beach,4.6,FL,S
+1220,Boston Fenway Inn by FOUND,3.7,MA,N
+1221,Fairfield Inn & Suites by Marriott Jackson,4.6,TN,S
+1222,TownePlace Suites by Marriott Dothan,4.7,AL,S
+1223,Extended Stay America - Titusville - Space Center,4.9,FL,S
+1224,Hotel Royal Oak,4.2,MI,W
+1225,Homewood Suites by Hilton Lynchburg,4.6,VA,S
+1226,Country Inn & Suites by Radisson Springfield OH,4.3,OH,M
+1227,Ocean View Hotel,4.1,CA,W
+1228,The Armstrong Hotel,4.5,CO,W
+1229,Ocean Casino Resort,4.3,NJ,N
+1230,DoubleTree By Hilton Bloomfield Hills Detroit,4.5,MI,W
+1231,Holiday Inn Grand Rapids North - Walker,4.5,MI,W
+1232,Holiday Inn Express & Suites Orem-North Provo,4.3,UT,W
+1233,Tru by Hilton St. Charles St. Louis,4.1,MO,M
+1234,Cambria Hotel Bloomington Mall of America,4.7,MN,M
+1235,Hotel Eleo at the University of Florida,4.8,FL,S
+1236,Courtyard by Marriott Rochester Mayo Clinic Area/Saint Marys,4.4,MN,M
+1237,Embassy Suites by Hilton Miami International Airport,3.8,FL,S
+1238,Crowne Plaza Orlando-Downtown,4.2,FL,S
+1239,Hilton Daytona Beach Oceanfront Resort,4.1,FL,S
+1240,Ramada by Wyndham Rochester Mayo Clinic Area,3.6,MN,M
+1241,The VERVE Boston Natick Tapestry Collection by Hilton,4.6,MA,N
+1242,Marriott Shoals Hotel & Spa,4.6,AL,S
+1243,Residence Inn by Marriott Weehawken Port Imperial,4.4,NJ,N
+1244,The Grand Orlando Resort at Celebration,3.3,FL,S
+1245,Harbor Winds Hotel Sheboygan,4.1,WI,M
+1246,La Quinta Inn by Wyndham San Diego Vista,3.5,CA,W
+1247,Tru by Hilton Burlington,3.6,NC,S
+1248,Element Chelmsford,4.5,MA,N
+1249,Arlo SoHo,4.3,NY,N
+1250,The Brown Palace Hotel and Spa Autograph Collection,4.6,CO,W
+1251,DoubleTree by Hilton Hotel Decatur Riverfront,4.3,AL,S
+1252,Nantasket Beach Resort,4.3,MA,N
+1253,DoubleTree by Hilton Hotel Philadelphia Airport,3.9,PA,N
+1254,The Glenmark Glendale a Tribute Portfolio Hotel,4.7,CA,W
+1255,Hyatt Place New York City / Times Square,3.8,NY,N
+1256,Hotel Maya - a DoubleTree by Hilton,4.4,CA,W
+1257,Residence Inn by Marriott Blacksburg-University,4.7,VA,S
+1258,Seafarer Beach Resort,4.5,FL,S
+1259,Embassy Suites by Hilton St. Louis St. Charles,4.4,MO,M
+1260,SpringHill Suites by Marriott Athens West,4.5,GA,S
+1261,Hilton San Francisco Financial District,3.9,CA,W
+1262,Barona Resort & Casino,4.4,CA,W
+1263,Hilton Garden Inn Columbus/Edinburgh,4.4,IN,M
+1264,Bonaventure Resort & Spa,4.0,FL,S
+1265,Holiday Inn Express & Suites Denton-Unt-Twu,4.2,TX,S
+1266,Colony Palms Hotel,4.5,CA,W
+1267,Lakeside Inn,4.3,FL,S
+1268,Forest Villas Hotel,4.5,AZ,W
+1269,Pechanga Resort Casino,4.4,CA,W
+1270,Days Inn by Wyndham Buena Park,3.4,CA,W
+1271,The Woodlands Inn Ascend Hotel Collection,4.4,PA,N
+1272,The Anaheim Hotel,3.9,CA,W
+1273,Clarion Hotel Convention Center,3.8,ND,M
+1274,Fullerton Lodge,3.9,CA,W
+1275,Tru by Hilton Spartanburg,4.3,SC,S
+1276,The Wigwam,4.5,AZ,W
+1277,Embassy Suites by Hilton Mandalay Beach Resort,4.1,CA,W
+1279,Hampton Inn & Suites Lynchburg,4.4,VA,S
+1281,Residence Inn by Marriott State College,4.5,PA,N
+1282,DoubleTree by Hilton Hotel Cleveland - Independence,4.0,OH,M
+1283,Keswick Hall,4.5,VA,S
+1284,Holiday Inn Express & Suites Santa ANA - Orange County,4.4,CA,W
+1285,Knott's Berry Farm Hotel,4.2,CA,W
+1286,The Benson a Coast Hotel,4.5,OR,W
+1287,Pala Casino Spa & Resort,4.2,CA,W
+1288,Courtyard by Marriott Erie Bayfront,4.5,PA,N
+1289,Hilton Stockton,4.1,CA,W
+1290,The Skirvin Hilton Oklahoma City,4.5,OK,S
+1291,Home2 Suites by Hilton Orlando Near UCF,4.9,FL,S
+1292,Hampton Inn & Suites Lynchburg,4.4,VA,S
+1293,Luxor Hotel & Casino,4.2,NV,W
+1294,Hotel Indigo Frisco,4.4,TX,S
+1295,Hilton Garden Inn Amarillo,3.9,TX,S
+1296,Holiday Inn & Suites Wausau-Rothschild,4.2,WI,M
+1297,Sleep Inn,4.3,IA,M
+1298,Embassy Suites by Hilton Richmond,4.3,VA,S
+1299,The Moment Hotel,3.7,CA,W
+1300,DoubleTree Suites by Hilton Hotel Sacramento - Rancho Cordova,4.2,CA,W
+1301,DoubleTree by Hilton Hotel St. Louis - Westport,4.2,MO,M
+1302,Rock Lake Resort Fort Myers Florida,4.0,FL,S
+1303,Hampton Inn & Suites Vineland,4.3,NJ,N
+1304,Hotel RL Olympia,4.0,WA,W
+1305,Golden Nugget Lake Charles Hotel & Casino,4.4,LA,S
+1306,Renaissance Pittsburgh Hotel,4.5,PA,N
+1307,Concord's Colonial Inn,4.4,MA,N
+1308,Country Inn & Suites by Radisson Omaha Airport IA,4.0,IA,M
+1309,Andalusian Court,4.9,CA,W
+1310,Gaylord Opryland Resort & Convention Center,4.6,TN,S
+1311,The Central Park North,3.7,NY,N
+1312,MCM Eleganté Suites,4.2,TX,S
+1313,Mohegan Sun Pocono,4.0,PA,N
+1314,Best Western Cape Cod Hotel,4.1,MA,N
+1315,Millennium Hilton New York Downtown,4.2,NY,N
+1316,Nobu Hotel Miami Beach,4.1,FL,S
+1317,Aloft Broomfield Denver,4.3,CO,W
+1318,Holiday Inn Wilkes Barre - East Mountain,4.3,PA,N
+1319,Mystic Quarry Resort,4.7,TX,S
+1320,The Ritz-Carlton Rancho Mirage,4.7,CA,W
+1321,Embassy Suites by Hilton Lexington/UK Coldstream,4.5,KY,S
+1322,Hotel Indigo San Antonio-Riverwalk,4.1,TX,S
+1323,Best Western Luxury Inn,4.1,CA,W
+1324,Freehand Los Angeles,4.3,CA,W
+1325,Hilton Virginia Beach Oceanfront,4.2,VA,S
+1326,Ocean Casino Resort,4.3,NJ,N
+1327,Phoenix Park Hotel,4.4,DC,N
+1328,DoubleTree by Hilton Hotel Dallas Near the Galleria,4.2,TX,S
+1329,Tru by Hilton Harrisonburg,3.4,VA,S
+1330,Hilton Houston NASA Clear Lake,4.1,TX,S
+1331,Hotel Indigo El Paso Downtown,4.3,TX,S
+1332,Sheraton Inner Harbor Hotel,4.1,MD,N
+1333,Hilton Garden Inn Texarkana,4.5,TX,S
+1334,Hyatt Regency San Francisco Airport,4.3,CA,W
+1335,Beach House - Half Moon Bay,4.6,CA,W
+1336,Omni Hilton Head Oceanfront Resort,4.5,SC,S
+1337,The Black Swan Lee - Lenox Ascend Hotel Collection,4.4,MA,N
+1338,The Shores Resort & Spa,4.2,FL,S
+1339,Big Cypress Lodge,4.5,TN,S
+1340,Days Inn & Suites by Wyndham Fullerton,4.1,CA,W
+1341,Hilton Los Angeles/Universal City,4.4,CA,W
+1342,Tru By Hilton Milwaukee Brookfield,4.2,WI,M
+1343,DoubleTree by Hilton Hotel Rochester,4.3,NY,N
+1344,Hotel Murano,4.4,WA,W
+1345,Home2 Suites by Hilton Tampa Downtown Channel District,4.6,FL,S
+1346,The Birchwood,4.5,FL,S
+1347,Pacific Edge Hotel,4.0,CA,W
+1348,Comfort Inn & Suites,3.9,MI,W
+1349,Wild Goose Inn,4.9,MI,W
+1350,Holiday Inn Express & Suites Conway,4.1,AR,S
+1351,Hampton Inn & Suites Pittsburg,4.3,CA,W
+1352,Fairfield Inn & Suites by Marriott Tacoma DuPont,4.6,WA,W
+1353,Terranea Resort,4.7,CA,W
+1354,Magnolia Creek Lodge,5.0,AL,S
+1355,Las Olas Beach Club Satellite Beach,4.7,FL,S
+1356,Hyatt Regency Coconut Point Resort And Spa,4.7,FL,S
+1357,Courtyard by Marriott Charlotte Gastonia,4.4,NC,S
+1358,Country Inn & Suites by Radisson Dakota Dunes SD,4.2,SD,M
+1359,B Ocean Resort Fort Lauderdale,3.9,FL,S
+1360,Residence Inn by Marriott San Diego North/San Marcos,4.3,CA,W
+1361,Courtyard by Marriott Riverside UCR/Moreno Valley Area,4.2,CA,W
+1362,Fairfield Inn & Suites by Marriott Houston League City,4.7,TX,S
+1363,Radisson Suite Hotel Oceanfront,4.3,FL,S
+1364,Pyramids in Florida,4.5,FL,S
+1365,Hilton Anatole,4.4,TX,S
+1367,Pacifica Beach Hotel,3.9,CA,W
+1368,Ramada by Wyndham Sioux City,2.7,IA,M
+1369,Holiday Inn Express & Suites Olathe West,4.6,KS,M
+1370,Hilton Dallas/Rockwall Lakefront,4.5,TX,S
+1371,Homewood Suites by Hilton Atlanta/Perimeter Center,4.3,GA,S
+1372,W Atlanta - Midtown,4.1,GA,S
+1373,Radisson Hotel Brooklyn Center,3.6,MN,M
+1374,Historic Hotel Bethlehem,4.6,PA,N
+1375,Best Western Premier Hotel at Fisher's Landing,4.6,WA,W
+1376,Wilson Creek Winery,4.6,CA,W
+1377,Silverland Inn & Suites,4.1,NV,W
+1378,SpringHill Suites by Marriott Columbus OSU,4.4,OH,M
+1379,Tru by Hilton Sumter,4.4,SC,S
+1380,Hilton Garden Inn Texarkana,4.5,TX,S
+1382,Radisson Blu Aqua Hotel Chicago,4.5,IL,M
+1383,Isleta Resort & Casino,4.1,NM,W
+1384,Buhl Mansion Guesthouse & Spa,4.8,PA,N
+1385,Comfort Suites Lindale - Tyler North,4.5,TX,S
+1386,Hilton Atlanta,4.1,GA,S
+1387,Fairfield Inn & Suites by Marriott Milwaukee North,4.1,WI,M
+1388,DoubleTree Suites by Hilton Hotel McAllen,4.5,TX,S
+1389,Glen Ivy Hot Springs,4.6,CA,W
+1390,Hilton Garden Inn Gastonia,4.4,NC,S
+1391,Courtyard by Marriott Lima,4.4,OH,M
+1392,Tru by Hilton Easton,4.8,PA,N
+1393,Anaheim Majestic Garden Hotel,4.0,CA,W
+1394,The Westin Waltham Boston,4.2,MA,N
+1395,Aura,4.7,IL,M
+1396,East Brother Light Station,4.9,CA,W
+1397,The Mayfair at Coconut Grove,3.6,FL,S
+1398,The Inn At Antietam,5.0,MD,N
+1399,Hotel Indigo Kansas City – the Crossroads,4.5,MO,M
+1400,Staybridge Suites Sioux Falls Southwest,4.5,SD,M
+1401,Courtyard by Marriott Nashville Mount Juliet,4.5,TN,S
+1402,Hilton Garden Inn Seattle Airport,4.6,WA,W
+1403,Comfort Inn,3.6,MI,W
+1404,Hilton Norfolk The Main,4.6,VA,S
+1405,The Godfrey Hotel Boston,4.5,MA,N
+1406,Hampton Inn & Suites Lansing West,4.4,MI,W
+1407,Sheraton Hartford Hotel at Bradley Airport,4.2,CT,N
+1408,The Press Hotel Autograph Collection,4.7,ME,N
+1409,Hotel Zero Degrees,4.3,CT,N
+1410,Sheraton Indianapolis Hotel at Keystone Crossing,4.1,IN,M
+1411,Days Inn by Wyndham Billings,4.0,MT,W
+1412,Residence Inn by Marriott Bloomington,4.5,IL,M
+1413,Hotel Indigo Nashville,4.4,TN,S
+1414,Sheraton Niagara Falls,4.2,NY,N
+1415,Stanton Inn & Suites,3.2,CA,W
+1416,Home Away Kitchen Suites,4.1,OK,S
+1417,Sheraton Indianapolis Hotel at Keystone Crossing,4.1,IN,M
+1418,We-Ko-Pa Casino Resort,4.4,AZ,W
+1419,Marriott Hutchinson Island Beach Resort Golf & Marina,4.3,FL,S
+1420,Days Inn by Wyndham Apopka/Orlando,3.9,FL,S
+1421,The Advenire Autograph Collection,4.6,UT,W
+1422,Courtyard by Marriott Houston NW/290 Corridor,4.4,TX,S
+1423,Archer Hotel Burlington,4.7,MA,N
+1424,The Ritz-Carlton Rancho Mirage,4.7,CA,W
+1425,Home2 Suites Temple,3.0,TX,S
+1426,The Beachcomber - St. Pete Beach,4.3,FL,S
+1427,The Cavalier Virginia Beach Autograph Collection,4.6,VA,S
+1428,Salt Lake Marriott Downtown at City Creek,4.3,UT,W
+1429,Embassy Suites by Hilton Amarillo Downtown,4.4,TX,S
+1430,Ledgestone Hotel Yakima,4.4,WA,W
+1431,Valley River Inn,4.0,OR,W
+1432,Kimpton RiverPlace Hotel,4.6,OR,W
+1433,Hollywood Inn Suites Hotel,4.1,CA,W
+1434,Residence Inn by Marriott Provo South University,4.7,UT,W
+1435,Hyatt Place Titusville / Kennedy Space Center,4.6,FL,S
+1436,Hotel Vandivort,4.6,MO,M
+1437,Hotel 32|32,4.0,NY,N
+1438,Salvatore's Garden Place Hotel,4.1,NY,N
+1439,Fairfield Inn & Suites by Marriott Minneapolis Shakopee,4.5,MN,M
+1440,Tropicana Evansville,4.0,IN,M
+1441,Lakeway Resort and Spa,4.2,TX,S
+1442,Hyatt Place Chicago/Downtown-The Loop,4.4,IL,M
+1443,Holiday Inn Express & Suites Kokomo South,4.2,IN,M
+1444,DoubleTree by Hilton Hotel Los Angeles - Norwalk,4.1,CA,W
+1445,Hilton Garden Inn Foxborough Patriot Place,4.5,MA,N
+1446,Harrah's Laughlin,3.9,NV,W
+1447,The Hotel at Avalon Autograph Collection,4.5,GA,S
+1448,DoubleTree by Hilton Hotel Columbus - Worthington,4.1,OH,M
+1449,Fairfield Inn & Suites by Marriott Denver West/Federal Center,4.6,CO,W
+1450,Holiday Inn Express Naperville,4.0,IL,M
+1451,Sybaris Downers Grove,4.3,IL,M
+1452,The Westin Virginia Beach Town Center,4.4,VA,S
+1453,DoubleTree by Hilton Hotel Bristol Connecticut,4.4,CT,N
+1455,Hotel Commercial,5.0,TX,S
+1456,Holiday Inn Express & Suites Grand Forks,4.5,ND,M
+1457,Fairfield Inn by Marriott Anaheim Hills Orange County,4.0,CA,W
+1458,Comfort Inn & Suites Coralville - Iowa City Near Iowa River Landing,3.8,IA,M
+1459,Hotel Galvez and Spa,4.4,TX,S
+1460,DoubleTree by Hilton Hotel Philadelphia Airport,3.9,PA,N
+1461,UCLA Lake Arrowhead Lodge,4.8,CA,W
+1462,Tru by Hilton Vestal,4.7,NY,N
+1463,RiverView Inn,4.5,TN,S
+1464,Hyatt Regency Wichita,4.4,KS,M
+1465,Chaminade Resort & Spa,4.2,CA,W
+1466,Eldridge Hotel,4.4,KS,M
+1467,The Timbrook Guesthouse,5.0,OH,M
+1468,Luxor Hotel & Casino,4.2,NV,W
+1469,DoubleTree by Hilton Hotel Detroit - Novi,4.1,MI,W
+1470,Hyatt Place Canton,4.4,OH,M
+1471,DoubleTree by Hilton Hotel Orlando at SeaWorld,4.0,FL,S
+1472,Glass Light Hotel & Gallery Autograph Collection,4.8,VA,S
+1473,Embassy Suites by Hilton Brea North Orange County,4.4,CA,W
+1474,Treasure Island - TI Hotel & Casino a Radisson Hotel,4.3,NV,W
+1475,Sybaris Frankfort,4.7,IL,M
+1476,Hyatt Regency Schaumburg Chicago,4.2,IL,M
+1477,Renaissance Baton Rouge Hotel,4.4,LA,S
+1478,The Westin Long Beach,4.3,CA,W
+1479,Main Street Inn,4.5,MO,M
+1480,Willows Lodge,4.7,WA,W
+1481,Marriott Phoenix Resort Tempe at The Buttes,4.4,AZ,W
+1482,Mohegan Sun Pocono,4.0,PA,N
+1483,Hyatt Regency Houston,4.5,TX,S
+1484,TownePlace Suites by Marriott Tacoma Lakewood,4.4,WA,W
+1485,Hotel Phillips Kansas City Curio Collection by Hilton,4.1,MO,M
+1486,Hotel Indigo Nashville,4.4,TN,S
+1487,Hampton Inn El Centro,4.3,CA,W
+1488,DoubleTree by Hilton Hotel Modesto,4.2,CA,W
+1489,Hampton Inn and Suites Kansas City Downtown Crossroads,4.6,MO,M
+1491,Holiday Inn Express & Suites Warner Robins North West,4.3,GA,S
+1492,Residence Inn by Marriott Palm Beach Gardens,4.6,FL,S
+1493,The Inn at Meadowbrook,5.0,KS,M
+1494,Microtel Inn & Suites by Wyndham Hagerstown,3.4,MD,N
+1495,Omni Dallas Hotel,4.6,TX,S
+1496,The Mansions On Fifth Luxury Hotel,4.4,PA,N
+1497,Kimpton Hotel Palomar Phoenix,4.5,AZ,W
+1498,The Ballantyne a Luxury Collection Hotel Charlotte,4.7,NC,S
+1499,La Quinta Resort & Club A Waldorf Astoria Resort,4.6,CA,W
+1500,South Coast Winery Resort & Spa,4.5,CA,W
+1501,21c Museum Hotel Bentonville,4.7,AR,S
+1502,Alouette Beach Resort,4.2,ME,N
+1503,Tru by Hilton Albany Crossgates Mall,4.1,NY,N
+1504,Hotel Galvez and Spa,4.4,TX,S
+1505,Holiday Inn Express & Suites Twin Falls,4.4,ID,W
+1506,Oxford Suites Chico,4.4,CA,W
+1508,Drury Plaza Hotel St. Louis Chesterfield,4.6,MO,M
+1509,Piccadilly Penthouse,4.5,IN,M
+1510,Hilton Garden Inn Yuma Pivot Point,4.4,AZ,W
+1511,Renaissance Tulsa Hotel & Convention Center,4.3,OK,S
+1512,LOTTE HOTEL SEATTLE,4.8,WA,W
+1513,Hilton Richmond Hotel & Spa/Short Pump,4.5,VA,S
+1514,The Westin Sarasota,4.5,FL,S
+1515,Motel 6 North,3.9,CA,W
+1516,Hotel Lucent,4.4,CA,W
+1517,Hotel EMC2 Autograph Collection,4.7,IL,M
+1518,Lakehouse Hotel and Golf Resort,4.5,CA,W
+1519,Hampton Inn & Suites Birmingham-Downtown-Tutwiler,4.3,AL,S
+1520,Staybridge Suites Bismarck,4.6,ND,M
+1522,Gila River Hotels & Casinos - Wild Horse Pass,4.1,AZ,W
+1523,Fairfield Inn & Suites by Marriott Mebane,4.5,NC,S
+1524,Comfort Inn At The Zoo,3.3,NE,W
+1525,Red Mountain Resort,4.6,UT,W
+1526,Gaylord Opryland Resort & Convention Center,4.6,TN,S
+1527,Travelodge by Wyndham Fullerton Near Anaheim,3.4,CA,W
+1528,Home2 Suites by Hilton Merrillville,4.6,IN,M
+1529,Courtyard by Marriott Mankato,4.4,MN,M
+1530,Residence Inn by Marriott Albany Airport,5.0,NY,N
+1531,Lake Arrowhead Resort and Spa,4.2,CA,W
+1532,Hotel On Phillips Sioux Falls,4.8,SD,M
+1533,Isleta Resort & Casino,4.1,NM,W
+1534,Hyatt Regency San Francisco,4.4,CA,W
+1535,Moonshine Hill Inn,4.3,TN,S
+1536,Salt Lake Plaza Hotel Temple Square,4.0,UT,W
+1537,DoubleTree by Hilton Hotel Lawrence,4.3,KS,M
+1539,Hyatt Place Daytona Beach - Oceanfront,4.4,FL,S
+1540,Hyatt Regency Tamaya Resort And Spa,4.6,NM,W
+1541,Canopy by Hilton Jersey City Arts District,4.7,NJ,N
+1542,Wind Creek Casino & Hotel Montgomery,5.0,AL,S
+1543,Thunder Valley Casino Resort,4.1,CA,W
+1544,ARRIVE Phoenix,4.8,AZ,W
+1546,Loews Minneapolis Hotel,4.6,MN,M
+1548,Casa Blanca Inn & Suites,4.6,NM,W
+1549,Quality Inn & Suites,4.1,IL,M
+1550,Sailport Waterfront Suites,4.3,FL,S
+1551,The Bungalows on Shary,3.9,TX,S
+1552,Sheraton Cerritos Hotel,4.3,CA,W
+1553,Embassy Suites by Hilton Norman Hotel & Conference Center,4.5,OK,S
+1554,DoubleTree by Hilton Hotel Missoula - Edgewater,4.2,MT,W
+1555,Main Street Inn,4.5,MO,M
+1556,DoubleTree Suites by Hilton Hotel McAllen,4.5,TX,S
+1557,Kimpton Shorebreak Huntington Beach Resort,4.6,CA,W
+1558,Comfort Inn & Suites,3.9,OR,W
+1560,Marriot Resident Inn,0.0,IN,M
+1561,Hilton Garden Inn Mankato Downtown,4.2,MN,M
+1562,Hyatt Place Chicago/Downtown-The Loop,4.4,IL,M
+1563,Holiday Inn Resort Pensacola Beach Gulf Front,4.5,FL,S
+1564,Stoney Creek Hotel and Conference Center,4.5,MO,M
+1565,Equinox Hotel New York,4.5,NY,N
+1566,MAGIC MOMENT RESORT & KIDS CLUB,4.7,FL,S
+1567,Beach House,4.6,CA,W
+1568,Hard Rock Hotel San Diego,4.3,CA,W
+1569,El Moore Lodge & Residences,4.9,MI,W
+1570,Tru by Hilton Meridian,4.4,MS,S
+1571,Sirata Beach Resort,4.0,FL,S
+1572,Hotel Rock Lititz,4.7,PA,N
+1573,SpringHill Suites by Marriott Phoenix Goodyear,4.2,AZ,W
+1574,The Lafayette Hotel Swim Club & Bungalows,4.4,CA,W
+1575,Hilton San Diego Bayfront,4.4,CA,W
+1576,Hilton Clearwater Beach Resort & Spa,4.2,FL,S
+1577,W Fort Lauderdale,4.3,FL,S
+1578,Staybridge Suites Long Beach Airport,2.6,CA,W
+1579,Hyatt Regency Westlake,4.3,CA,W
+1580,Hotel Santa Fe Hacienda & Spa,4.6,NM,W
+1581,Hotel Indigo Gainesville-Celebration Pointe,4.5,FL,S
+1582,Hotel Boulderado,4.6,CO,W
+1583,Holiday Inn Express & Suites Dayton South - I-675,4.5,OH,M
+1584,Hyatt Place Memphis/Germantown,4.3,TN,S
+1585,Fairfield Inn & Suites by Marriott Beloit,4.1,WI,M
+1586,Courtyard by Marriott Richmond Airport,4.1,VA,S
+1587,Hotel Indigo Tulsa Downtown,4.4,OK,S
+1588,Dover Downs Hotel & Casino,4.3,DE,N
+1589,Best Western Plus Beach View Lodge,4.4,CA,W
+1590,West Palm Beach Marriott,4.3,FL,S
+1591,Lakehouse Hotel and Golf Resort,4.5,CA,W
+1592,Hampton Inn - DeKalb (Near the University),4.5,IL,M
+1593,Hilton West Palm Beach,4.5,FL,S
+1594,Quality Inn & Suites,3.4,PA,N
+1595,Hilton Garden Inn Salina,4.5,KS,M
+1596,Wyndham Visalia,4.1,CA,W
+1597,Salvatore's Garden Place Hotel,4.1,NY,N
+1598,Siena at Bella Collina,4.4,FL,S
+1599,Quality Inn,0.0,CA,W
+1600,The Hotel June,4.4,CA,W
+1601,Hotel On Phillips Sioux Falls,4.8,SD,M
+1602,Seminole Hard Rock Hotel & Casino - Hollywood FL,4.4,FL,S
+1603,Mohegan Sun Pocono,4.0,PA,N
+1604,Quality Inn & Suites Blue Springs - Kansas City,3.9,MO,M
+1605,Hilton Bellevue,4.2,WA,W
+1606,Hampton Inn Brentwood,4.1,CA,W
+1607,Anaheim Marriott,4.4,CA,W
+1608,Hampton Inn & Suites Valdosta/Conference Center,4.3,GA,S
+1609,W Miami,4.6,FL,S
+1610,The Vendue Charleston's Art Hotel (Historic District),4.5,SC,S
+1611,The Grand Orlando Resort at Celebration,3.3,FL,S
+1612,Staybridge Suites Peoria-Downtown,4.2,IL,M
+1613,Wyndham Garden Stillwater,4.0,OK,S
+1614,Hampton Inn & Suites Fort Worth Downtown,4.6,TX,S
+1615,Acqualina Resort & Residences On The Beach,4.7,FL,S
+1616,Holiday Inn Express & Suites Germantown - Gaithersburg,4.2,MD,N
+1617,Residence Inn by Marriott Weehawken Port Imperial,4.4,NJ,N
+1618,Comfort Suites South,4.2,IN,M
+1620,Hilton Wilmington/Christiana,4.4,DE,N
+1621,Home2 Suites by Hilton Amherst Buffalo,4.4,NY,N
+1622,Shilo Inns Killeen,4.1,TX,S
+1623,Ocean Sky Hotel & Resort,3.8,FL,S
+1624,Best Western Plus Prairie Inn,4.4,OR,W
+1625,Westminster Hotel,4.0,NJ,N
+1626,Residence Inn by Marriott Charlotte Steele Creek,4.7,NC,S
+1627,Zota Beach Resort,4.4,FL,S
+1628,The Westin Huntsville,4.4,AL,S
+1629,816 Hotel Westport Country Club Plaza Ascend Hotel Collection,3.7,MO,M
+1630,The Grand at the Bedford Village Inn,4.7,NH,N
+1631,Hampton Inn & Suites Wilson I-95,4.2,NC,S
+1632,Renaissance Portsmouth-Norfolk Waterfront Hotel,4.2,VA,S
+1633,Hampton Inn West Des Moines Lake Drive,4.4,IA,M
+1634,The Surgeon's House,4.8,AZ,W
+1635,Quality Inn & Suites,4.1,IL,M
+1636,The Westin Pasadena,4.4,CA,W
+1637,The Ritz-Carlton Tysons Corner,4.6,VA,S
+1638,The Westin Desert Willow Villas Palm Desert,4.6,CA,W
+1639,Fairfield Inn & Suites by Marriott San Jose North/Silicon Valley,4.6,CA,W
+1640,Cotton Court Hotel,4.5,TX,S
+1641,Hilton Madison Monona Terrace,4.4,WI,M
+1642,Loews Ventana Canyon Resort,4.6,AZ,W
+1643,TownePlace Suites by Marriott Clovis,4.4,NM,W
+1644,Franciscan Inn Motel,3.1,CA,W
+1646,Luxor Hotel & Casino,4.2,NV,W
+1647,Hotel Maverick,4.4,CO,W
+1648,Hyatt Regency Huntington Beach Resort And Spa,4.6,CA,W
+1649,Disney's Grand Californian Hotel & Spa,4.7,CA,W
+1650,Club Quarters Hotel Philadelphia Rittenhouse Square,4.0,PA,N

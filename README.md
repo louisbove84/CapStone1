@@ -24,7 +24,19 @@ Data used for this analysis was gathered from the United States Department of En
 
 1)  CSV Cleaning:  CSV file downloaded from the US Department of Energy website contained Electric Vehicle information on over 35,000 charging station within the US and Canada.
 2)  REST API: The locations of over 2000 hotel charging stations were fed into Google Places API in order to extract the hotel rating. Additionally, the location for 1000 US cities were fed into Google Places API in order to find a comparison group.
-______________________________________________________________
+
+If we break down the total EV Charing Stations by network we see that ChargePoint, Tesla, and Non-Networked hold the top spot.
+
+<p align="center" >
+  <img src="Images/EV_by_network.png" width="800">
+</p>
+
+Hotels are the most popular location for EV Charing Stations and it may be worth exploring more.
+
+<p align="center" >
+  <img src="Images/EV_by_location.png" width="800">
+</p>
+___________________________________________________
 ### Hypothesis Testing:
 
 ***Step 1: Set up the hypothesis***
@@ -54,7 +66,7 @@ Reject the null hypothesis if test-statistic < -1.96 or if test-statistic > 1.96
 
 ***Step 4: Compute the test statistic***
 
-P-Value: 0.07 = Unable to reject the Null Hypothesis
+P-Value: 8.83e-10  Therefore, we can reject the Null Hypothesis
 
 ![](images/z-score.png)
 
@@ -63,7 +75,17 @@ P-Value: 0.07 = Unable to reject the Null Hypothesis
 </p>
 
 ***Step 5: Conclusion***
-Given a p-value of greater than 0.05 we are unable to reject the null-hypothesis and conclude there is any meaningful evidence supporting the claim that hotels with charging stations have an effect on hotel ratings. Additionally, considering the mean values of the data sets are so close there is reason to consider adding an EV charging station as actionable insight.
+Given a p-value of less than 0.05 we are able to reject the null-hypothesis and conclude there is meaningful evidence supporting the claim that hotels with charging stations have an effect on hotel ratings. However, considering the mean values of the data sets are so close it may not be worth adding an EV charging station for the limited increase in rating.
+
+<p align="center">
+  <img src="Images/USMap_Rating.png">
+</p>
+
+
+<p align="center">
+  <img src="Images/USMap_Price.png">
+</p>
+
 
 ***Further Information on the analysis can be viewed within the ```Capstone1.ipynb``` file.***
 
