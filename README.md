@@ -16,7 +16,7 @@ Recent years have seen the growth of the electric vehicle (EV) market and, in tu
 ## General Information
 After looking through the data it was apparent that hotel parking lots are one of the most popular areas to install electric charging ports. However, it was unclear how much, if at all, these hotels were benefiting from the installation.
 _______________________________________________
-### Exploratory Data Analysis:
+## Exploratory Data Analysis:
 
 The data used to gather insight included total charging stations, most popular businesses hosting EV charging stations, total EV Network charging stations located at hotels, and all the hotel ratings data associated with the API results. This data was used to calculate mean, standard deviation, p-value and test the Null Hypothesis. The json files are located in the json folder as ```ev_hotels.json``` for the 2000 hotels with charging stations and ```gmaps_hotels.json``` for the 1000 randomly selected hotels.
 
@@ -36,8 +36,11 @@ Hotels are the most popular location for EV Charing Stations and it may be worth
 <p align="center" >
   <img src="Images/EV_by_location.png" width="800">
 </p>
-___________________________________________________
-### Hypothesis Testing:
+
+____________________________________________________________
+
+## Hypothesis Testing:
+
 
 ***Step 1: Set up the hypothesis***
 
