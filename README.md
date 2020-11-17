@@ -78,7 +78,7 @@ P-Value: 8.83e-10  Therefore, we can reject the Null Hypothesis
 </p>
 
 ***Step 5: Conclusion***
-Given a p-value of less than 0.05 we are able to reject the null-hypothesis and conclude there is meaningful evidence supporting the claim that hotels with charging stations have an effect on hotel ratings. However, considering the mean values of the data sets are so close it may not be worth adding an EV charging station for the limited increase in rating.
+Given a p-value of less than 0.05 we are able to reject the null-hypothesis and conclude there is meaningful evidence supporting the claim that hotels with charging stations have an effect on hotel ratings. However, considering the mean values of the data sets are so close it may not be worth adding a $28,000 Level 2 EV charging station for the limited increase in rating.
 
 <p align="center">
   <img src="Images/USMap_Rating.png">
