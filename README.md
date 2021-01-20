@@ -95,6 +95,10 @@ Given a p-value of less than 0.05 we are able to reject the null-hypothesis and 
 _________________________________
 ## Software Used
 
+<p align="center">
+  <img src="Images/project-workflow.png">
+</p>
+
 ***Database:***
 
 Data Storage: Mongodb<br>
